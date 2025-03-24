@@ -1,5 +1,3 @@
-//一个一个 删顺便标注熟悉度
-
 ### 01 科教 科技
 
 
@@ -786,6 +784,24 @@
 
 ### 25 饮食
 
+bustling  [ˈbʌslɪŋ] adj. 繁忙的
+intricate  [ˈɪntrɪkət] adj. 复错综杂的
+humble  [ˈhʌmbl] adj. 谦逊的,简陋的,卑微的
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; v. 使..谦逊/惭愧
+townsfolk  [ˈtaʊnˌfɒk] n. 城镇居民
+hearty  [ˈhɑːrtɪ] adj. 丰盛的,热情的,健壮的
+stew  [stuː] n. 炖菜
+ale  [eɪl] n. 麦芽酒
+
+
+palate  [ˈpælət] n. 盘子
+palates  [ˈpæləts] n. 口味,味觉
+sentiment [ˈsɛntɪmənt] n. 情绪,情感
+baffle  [ˈbæfl] v. 使..困惑
+frothy  [ˈfrɒθi] adj. 泡沫的
+renown [rɪˈnaʊn] n. 名声 v. 使..闻名
+exotic [ˈeksaʊtɪk] adj. 外来的,异国情调的
+discerning [dɪˈsɜːnɪŋ] adj. 有洞察力的,有鉴赏力的
 
 + dine /daɪn/ v. 进餐
 + diner /ˈdaɪnə/ n. 小餐馆

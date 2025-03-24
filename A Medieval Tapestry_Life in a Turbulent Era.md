@@ -2,7 +2,7 @@
 
 ### A Medieval Tapestry: Life in a Turbulent Era
 
-In a bustling medieval town nestled between rolling hills and a winding river, daily life unfolded with a rhythm both simple and intricate. At the heart of the community stood a quaint **diner**, a humble establishment where townsfolk would **dine** together, sharing hearty meals of bread, stew, and ale. Yet, not all palates were pleased; some expressed a sharp **distaste** for the bitter herbs used in the dishes, a sentiment that baffled the local **brewery** owner. His **brew**, a frothy ale renowned across the region, was a source of pride, and to cater to varied tastes, he began to **blend** exotic spices into his recipes, hoping to win over even the most discerning customers.
+In <u>a bustling</u> medieval <u>town</u>¹ <u>nestled between</u> rolling hills <u>and</u>² a winding river, daily life <u>unfolded with</u>³ a rhythm both simple and <u>intricate</u>. At the heart of the community stood a quaint **diner**, <u>a humble establishment</u> where <u>townsfolk</u> would **dine** together, sharing <u>hearty</u> meals of bread, <u>stew</u>, and <u>ale</u>. Yet, not all <u>palates</u> were pleased; some expressed a sharp **distaste** for the bitter herbs used in the dishes, a sentiment that <u>baffled</u> the local **brewery** owner. His **brew**, a <u>frothy</u> ale <u>renowned across</u> the region, was a source of pride, and to <u>cater to</u> varied tastes, he began to **blend** <u>exotic</u> spices into his recipes, hoping to win over even the most <u>discerning</u> customers.
 
 #### The Roads and Rivers of Travel
 
