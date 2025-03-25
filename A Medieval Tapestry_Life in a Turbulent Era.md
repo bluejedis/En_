@@ -6,7 +6,7 @@ In <u>a bustling</u> medieval <u>town</u>¹ <u>nestled between</u> rolling hills
 
 #### The Roads and Rivers of Travel
 
-Beyond the town’s cobblestone streets, travel was a necessity and a challenge. One fateful day, two carts **collide**d on a narrow bridge, causing one to **derail** and tumble into a ditch. The driver, struggling to **steer** his horse through the chaos, cursed his misfortune. Meanwhile, a **shuttle** cart arrived, offering a lifeline to stranded travelers who eagerly **embark**ed for the next village. Across the river, a **ferry** plied its trade, its steady rhythm marking each **voyage** as it carried merchants and pilgrims alike. Important cargos, guarded by an armed **escort**, moved under watchful eyes, their permits set to **expire** only upon safe delivery.
+Beyond the town’s cobblestone streets, travel was a necessity and a challenge. One fateful day, two carts **collide**d on a narrow bridge, causing one to **derail** and <u>tumble into a ditch</u>¹. The driver, struggling to **steer** his horse through the chaos, cursed his misfortune. Meanwhile, a **shuttle** cart arrived, offering a lifeline to stranded travelers who eagerly **embark**ed for the next village. Across the river, a **ferry** <u>plied its trade</u>², its steady rhythm marking each **voyage** as it carried merchants and <u>pilgrims alike</u>³. Important <u>cargos</u>, guarded by an armed **escort**, moved under watchful eyes, their permits set to **expire** only upon safe delivery.
 
 #### Leisure in Simpler Times
 

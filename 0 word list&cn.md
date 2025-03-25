@@ -814,6 +814,9 @@ discerning [dɪˈsɜːnɪŋ] adj. 有洞察力的,有鉴赏力的
 
 ### 26 出行
 
+curse /kɜːs/ v. 咒骂
+plie /pliː/ v. 游荡,蹲 n.蹲
+cargo [ˈkɑːɡoʊ] n. 货物
 
 + collide /kəˈlaɪd/ v. 碰撞
 + derail /dɪˈreɪl/ v. 出轨
@@ -822,7 +825,7 @@ discerning [dɪˈsɜːnɪŋ] adj. 有洞察力的,有鉴赏力的
 + embark /ɪmˈbɑːk/ v. 上船
 + ferry /ˈfɛri/ n. 渡船
 + voyage /ˈvɔɪɪdʒ/ n. 航行
-+ escort /ˈɛskɔːt/ v. 护送
++ escort /ˈɛskɔːt/ v. 护送n. 护卫
 + expire /ɪkˈspaɪə/ v. 失效
 
 
