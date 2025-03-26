@@ -9,3 +9,8 @@
 
 #### Leisure in Simpler Times
 <u>centuries prior</u>¹ 几个世纪前 ← 视为 副词短语（其他句式中可用做 n）
+
+#### The Comforts of Home
+<u>a blend of</u>¹  混合
+<u>flickering hearths</u>² 闪烁的火炉
+<u>gleam with</u>³  闪烁着

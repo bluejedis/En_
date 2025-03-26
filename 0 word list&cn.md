@@ -847,7 +847,18 @@ don      [doʊn] v. 穿上;n. 男装，先生
 
 
 ### 28 居家
+clad [klæd] adj. 覆盖的，穿衣服的 v. 覆盖
+sturdy  [ˈstɜːdi] adj. 结实的，坚固的
+refuse  [rɪˈfjuːz] v. 拒绝 n. 垃圾
+secure  [sɪˈkjʊər] adj. 安全的，可靠的v.固定，保护
+gleam  [ɡliːm] v. 发微光，闪烁 n. 微光
+adorn  [əˈdɔːrn] v. 装饰
+beneath  [bɪˈniːθ] prep. 在..下面
 
+chore [tʃɔːr] n. 家务活
+latrines [ˈlætriːnz] n. 卫生间
+woolen [ˈwʊlən] adj. 羊毛的
+lawn [lɔːn] n. 草地
 
 + garment /ˈɡɑːmənt/ n. 衣服
 + shelf /ʃɛlf/ n. 架子
