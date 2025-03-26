@@ -10,7 +10,7 @@ Beyond the town’s cobblestone streets, travel was a necessity and a challenge.
 
 #### Leisure in Simpler Times
 
-When the day’s labors ceased, the townsfolk sought respite. Many would **stroll** along the riverbank, basking in the golden hues of sunset. The town’s **icon**, a towering stone bell tower, stood as a testament to its history, its **debut** centuries prior still whispered in local lore. Young men and women donned **stylish** tunics, reflecting the latest **vogue** from distant courts, their laughter echoing through the evening air.
+When the day’s labors ceased, the townsfolk sought respite. Many would <u>**stroll** along the riverbank</u>, <u>basking in the golden hues of sunset</u>. The town’s **icon**, a towering stone bell tower, stood as <u>a testament to its history</u>, its **debut** <u>centuries prior</u> still <u>whispered in local lore</u>. Young men and women <u>donned **stylish** tunics</u>, reflecting the latest **vogue** from distant courts, their laughter echoing through the evening air.
 
 #### The Comforts of Home
 

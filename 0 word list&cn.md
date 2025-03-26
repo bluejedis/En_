@@ -832,6 +832,11 @@ cargo [ˈkɑːɡoʊ] n. 货物
 
 ### 27 休闲
 
+cease /siːs/ v. 停止
+testament  [ˈtestəmənt] n. 证明，声明,遗书
+prior    [ˈpraɪər] adv. 在..前；adj. 在前的，优先的 n. 优先权
+lore     [lɔː] n. 传说，传统
+don      [doʊn] v. 穿上;n. 男装，先生
 
 + stroll /strəʊl/ v. 散步
 + icon /ˈaɪkɒn/ n. 图标
