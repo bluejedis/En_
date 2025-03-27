@@ -892,12 +892,14 @@ lawn [lɔːn] n. 草地
 + entity /ˈɛntɪti/ n. 实体
 + sovereign /ˈsɒvrɪn/ n. 君主
 + formality /fɔːˈmælɪti/ n. 正式
+<br>
 + confederate /kənˈfɛdərət/ adj. 联邦的
 + commonwealth /ˈkɒmənwɛlθ/ n. 联邦
 + coalition /ˌkəʊəˈlɪʃən/ n. 联盟
 + democracy /dɪˈmɒkrəsi/ n. 民主
 + democrat /ˈdɛməkræt/ n. 民主党人
 + laborious /ləˈbɔːriəs/ adj. 费力的
+<br>
 + liberal /ˈlɪbərəl/ adj. 自由的
 + leftist /ˈlɛftɪst/ n. 左翼分子
 + faction /ˈfækʃən/ n. 派系
@@ -905,6 +907,7 @@ lawn [lɔːn] n. 草地
 + dogma /ˈdɒɡmə/ n. 教条
 + doctrine /ˈdɒktrɪn/ n. 教义
 + cohesive /kəʊˈhiːsɪv/ adj. 有凝聚力的
+<br>
 + publicity /pʌbˈlɪsɪti/ n. 宣传
 + emancipate /ɪˈmænsɪpeɪt/ v. 解放
 + dominate /ˈdɒmɪneɪt/ v. 支配
@@ -913,10 +916,11 @@ lawn [lɔːn] n. 草地
 + deregulate /diːˈrɛɡjʊleɪt/ v. 解除管制
 + dictate /ˈdɪkteɪt/ v. 命令
 + utilize /ˈjuːtɪlaɪz/ v. 利用
-+ leverage /ˈliːvərɪdʒ/ n. 杠杆作用
++ leverage /ˈliːvərɪdʒ/ n. 杠杆作用 v. 利用
 + territory /ˈtɛrɪtəri/ n. 领土
 + constituent /kənˈstɪtjʊənt/ n. 选民
 + institute /ˈɪnstɪtjuːt/ n. 机构
+<br>
 + poll /pəʊl/ n. 民意调查
 + turnout /ˈtɜːnaʊt/ n. 出席人数
 + referendum /ˌrɛfəˈrɛndəm/ n. 公投
