@@ -93,7 +93,14 @@
 
 <br>
 
-**Poll**(民意调查)测量公众情绪，每次**referendum**(公投)的**turnout**(投票率)都很高。**Banner**(旗帜)在风中飘扬，领导者**propagate**(传播)他们的愿景，常滑向**propaganda**(宣传)。**Lobby**(游说者)在阴暗的大厅低语，而**neutral**(中立的)调解者努力维持和平。邻近王国的**chancellor**(大臣)和**president**(总统)发生冲突，他们的争端在**congress**(议会)和**senate**(参议院)中回响。在**municipal**(市政)层面，由顾问组成的**cabinet**(内阁)治理，在每次**rally**(集会)上动员群众。他们会**summon**(召集)使节参加盛大的**summit**(峰会)，**unanimous**(一致的)决定虽少但备受庆祝。条约一旦**ratify**(批准)，就带有**mandate**(授权)的分量，使统治者能够**rein**(控制)异议并**curb**(遏制)腐败。新政策迅速**implement**(实施)，军队**deploy**(部署)以执行**treaty**(条约)条款。然而，**bureau**(官僚机构)的**bureaucratic**(官僚的)延误让许多人沮丧，各**sector**(部门)的进展不一。**Consul**(领事)在**consulate**(领事馆)调解贸易争端，而**deputy**(副手)官员匆忙颁布新的**charter**(宪章)。政治**tactic**(策略)变得 sharper，勇敢的**initiative**(倡议)点燃改革的希望。为了**innovate**(创新)，领导者会**overhaul**(彻底改革)过时的系统，克服每个**hurdle**(障碍)。异议者面临被**expel**(驱逐)的威胁，而**segregate**(隔离)社区的政策引发骚乱。**Sanction**(制裁)使关系紧张，**conspire**(密谋)的传言加剧。
+**Poll**(民意调查)<u>测量公众情绪</u>，<u>每次**referendum**(公投)</u> 的 <u>**turnout**(投票率)都很高</u>。**Banner**(旗帜)<u>在风中飘扬</u>，领导者<u>**propagate**(传播)他们的愿景</u>，常<u>滑向**propaganda**(宣传)</u>。**Lobby**(游说者)在阴暗的大厅低语，而<u>**neutral**(中立的)调解者</u> <u>努力维持和平</u>。
+
+邻近王国的<u>**chancellor**(大臣)和**president**(总统)</u> 发生冲突，他们的<u>争端</u> <u>在**congress**(议会)和**senate**(参议院)中回响</u>。在**municipal**(市政)层面，由顾问组成的**cabinet**(内阁)治理，在每次**rally**(集会)上<u>动员群众</u>。
+
+他们会<u>**summon**(召集)使节</u>参加<u>盛大的**summit**(峰会)</u>，<u>**unanimous**(一致的)决定</u> 虽少但备受庆祝。条约一旦**ratify**(批准)，就带有<u>**mandate**(授权)的分量</u>，使统治者能够<u>**rein**(控制)异议</u>并<u>**curb**(遏制)腐败</u>。新政策<u>迅速**implement**(实施)</u>，军队**deploy**(部署)以<u>执行**treaty**(条约)条款</u>。然而，<u>**bureau**(官僚机构)的**bureaucratic**(官僚的)延误</u> <u>让许多人沮丧</u>，<u>各**sector**(部门)</u> 的 <u>进展不一</u>。
+<u>**Consul**(领事)在**consulate**(领事馆)</u> <u>调解贸易争端</u>，~~而~~ （同时）<u>**deputy**(副手)官员</u> <u>匆忙</u> <u>颁布新的**charter**(宪章)</u>。政治<u>**tactic**(策略)变得尖锐</u> 了，<u>勇敢的**initiative**(倡议)</u> <u>点燃改革的希望</u>。
+
+为了**innovate**(创新)，领导者会<u>**overhaul**(彻底改革)过时的系统</u>，<u>克服每个**hurdle**(障碍)</u>。异议者面临被**expel**(驱逐)的威胁，而<u>**segregate**(隔离)社区</u>的政策<u>引发骚乱</u>。**Sanction**(制裁)<u>使关系紧张</u>，<u>**conspire**(密谋)的传言</u> <u>加剧</u>。
 
 #### 正义的天平
 

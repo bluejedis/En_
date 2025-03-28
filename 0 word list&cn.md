@@ -936,6 +936,7 @@ lawn [lɔːn] n. 草地
 + municipal /mjuːˈnɪsɪpəl/ adj. 市政的
 + cabinet /ˈkæbɪnɪt/ n. 内阁
 + rally /ˈræli/ n. 集会
+  <br>
 + summon /ˈsʌmən/ v. 召唤
 + summit /ˈsʌmɪt/ n. 峰会
 + unanimous /juːˈnænɪməs/ adj. 一致的
@@ -954,7 +955,8 @@ lawn [lɔːn] n. 草地
 + deputy /ˈdɛpjʊti/ n. 副手
 + charter /ˈtʃɑːtə/ n. 宪章
 + tactic /ˈtæktɪk/ n. 战术
-+ initiative /ɪˈnɪʃɪətɪv/ n. 主动权
++ initiative /ɪˈnɪʃɪətɪv/ n. 主动权，倡议
+<br>
 + innovate /ˈɪnəʊveɪt/ v. 创新
 + overhaul /ˈəʊvəhɔːl/ v. 全面检修
 + hurdle /ˈhɜːdl/ n. 障碍
