@@ -38,11 +38,25 @@ To **innovate**, leaders would <u>**overhaul** outdated systems</u>, <u>overcomi
 
 ####  <span style="color: silver;">The Scales of Justice
 
-Law, too, shaped medieval life. To **violate** a decree or **infringe** upon rights invited swift retribution. Those who dared **defy** authority faced punishment, as **assault**s rose amid tavern brawls. Efforts to **intimidate** witnesses undermined justice, while illicit **gamble**s flourished in shadowy corners. **Fraud** eroded trust, prompting officials to **indict** culprits with fervor. **Surveillance** by watchmen curbed crime, and authorities would **interrogate** suspects to **ascertain** the truth, piecing together every **clue**. A **decree** from the king solidified order, reinforced by the **oath** of loyalty sworn by all. **Guardian**s protected the vulnerable, battling for **custody** in fierce disputes. Accused parties would **plead** their innocence, navigating the **penal** code. Some secured **bail**, others earned **parole**, all under the **stern** gaze of judges upholding **statute**s. **Legitimate** claims found protection as lawmakers raced to **legislate** reforms. All were urged to **abide** by the rules and **comply** with edicts. **Patrol**s roamed the streets, detaining offenders in grim **detention** cells, where freedoms were **confine**d. Duty **oblige**d all to uphold justice, and the **liable** faced consequences. A **robust** legal framework promised stability, with disputes often settled as a last **resort** in court.
+Law, too, shaped medieval life. 
+
+To **violate** a decree or **infringe** upon rights invited swift retribution. 
+【Those who dared **defy** authority faced punishment, as **assault**s rose <u>amid tavern brawls</u>. 】← dare不应该是to do吗？？Efforts to <u>**intimidate** witnesses</u> <u>undermined justice</u>, while <u>illicit **gamble**s</u> <u>flourished in</u> shadowy corners. **Fraud** <u>eroded trus</u>t, <u>prompting</u> officials <u>to</u> <u>**indict** culprits</u> <u>with fervor</u>. 
+
+**<u>Surveillance** by watchmen</u> <u>curbed crime</u>, and <u>authorities</u> would <u>**interrogate** suspects</u> to <u>**ascertain** the truth</u>, <u>piecing together</u> every **clue**. <u>A **decree** from</u> the king <u>solidified order</u>, <u>reinforced by</u> <u>the **oath** of loyalty sworn by all</u>. 
+
+**Guardian**s <u>protected the vulnerable</u>, <u>battling for</u> **custody** <u>in fierce disputes</u>. <u>Accused parties</u> would <u>**plead** their innocence</u>, <u>navigating the **penal** code</u>. 
+Some secured **bail**, others earned **parole**, all <u>under the **stern** gaze of</u> judges <u>upholding **statute**s</u>. <u>**Legitimate** claims</u> <u>found protection</u> as lawmakers <u>raced to</u> **legislate** reforms. All <u>were urged to</u> <u>**abide** by</u> the rules and <u>**comply** with edicts</u>. **Patrol**s <u>roamed the streets</u>, <u>detaining offenders</u> <u>in grim **detention** cells</u>, where freedoms <u>were **confine**d</u>. 
+Duty <u>**oblige**d</u> all <u>to</u> <u>uphold justice</u>, and <u>the **liable** faced consequences</u>. <u>A **robust** legal framework</u> promised stability, with disputes often <u>settled as</u> <u>a last **resort**</u> in court.
 
 ####  <span style="color: silver;">Arming the Realm
 
-Military might loomed large. **Militant** factions stirred unrest, countered by **naval** fleets patrolling the seas. **Troop**s amassed at borders, **dispatch**ed to quell threats. Commanders bolstered **morale**, facing down every **antagonist** and **adversary**. Soldiers **march**ed toward battle, erecting **fort**s for defense. Leaders would **enlist** recruits, guided by a seasoned **marshal** and battle-hardened **veteran**s. Victory brought **triumph**, with **medal**s and **trophy**s honoring the brave.
+Military might <u>loomed large</u>. 
+
+**<u>Militant** factions</u> <u>stirred unrest</u>, <u>countered by</u> **naval** fleets patrolling the seas. **Troop**s <u>amassed at</u> borders, <u>**dispatch**ed to</u> <u>quell threats</u>. 
+Commanders <u>bolstered **morale**</u>, <u>facing down</u> <u>every **antagonist** and **adversary**</u>. Soldiers <u>**march**ed toward battle</u>, <u>erecting **fort**s for</u> defense. Leaders would <u>**enlist** recruits</u>, guided by <u>a seasoned **marshal**</u> and <u>battle-hardened **veteran**s</u>. 
+
+Victory brought **triumph**, with **medal**s and **trophy**s <u>honoring the brave</u>.
 
 ####  <span style="color: silver;">The Fires of War
 

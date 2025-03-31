@@ -978,12 +978,16 @@ lawn [lɔːn] n. 草地
 + gamble /ˈɡæmbəl/ v. 赌博
 + fraud /frɔːd/ n. 欺诈
 + indict /ɪnˈdaɪt/ v. 起诉
+<br>
+
 + surveillance /sɜːˈveɪləns/ n. 监视
 + interrogate /ɪnˈtɛrəɡeɪt/ v. 审问
 + ascertain /ˌæsəˈteɪn/ v. 查明
 + clue /kluː/ n. 线索
 + decree /dɪˈkriː/ n. 法令
 + oath /əʊθ/ n. 誓言
+<br>
+
 + guardian /ˈɡɑːdɪən/ n. 监护人
 + custody /ˈkʌstədi/ n. 监护权
 + plead /pliːd/ v. 恳求
@@ -999,6 +1003,9 @@ lawn [lɔːn] n. 草地
 + patrol /pəˈtrəʊl/ v. 巡逻
 + detention /dɪˈtɛnʃən/ n. 拘留
 + confine /kənˈfaɪn/ v. 限制
+  
+<br>
+
 + oblige /əˈblaɪdʒ/ v. 迫使
 + liable /ˈlaɪəbl/ adj. 有责任的
 + robust /rəʊˈbʌst/ adj. 强健的
@@ -1011,11 +1018,10 @@ lawn [lɔːn] n. 草地
 
 + militant /ˈmɪlɪtənt/ adj. 好战的
 + naval /ˈneɪvəl/ adj. 海军的
-
-
-
 + troop /truːp/ n. 部队
 + dispatch /dɪˈspætʃ/ v. 派遣
+<br>
+
 + morale /məˈrɑːl/ n. 士气
 + antagonist /ænˈtæɡənɪst/ n. 对手
 + adversary /ˈædvəsəri/ n. 敌手
@@ -1024,6 +1030,8 @@ lawn [lɔːn] n. 草地
 + enlist /ɪnˈlɪst/ v. 征募
 + marshal /ˈmɑːʃəl/ n. 元帅
 + veteran /ˈvɛtərən/ n. 老兵
+  <br>
+
 + triumph /ˈtraɪʌmf/ n. 胜利
 + medal /ˈmɛdəl/ n. 奖章
 + trophy /ˈtrəʊfi/ n. 奖杯
