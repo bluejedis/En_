@@ -36,7 +36,7 @@ They would <u>**summon** envoys</u> to <u>a grand **summit**</u>, where <u>**una
 
 To **innovate**, leaders would <u>**overhaul** outdated systems</u>, <u>overcoming every **hurdle**</u>. <u>Dissenters</u> faced threats to **expel** them, while policies to <u>**segregate** communities</u> <u>stirred unrest</u>. **Sanction**s <u>strained relations</u>, and <u>whispers of **conspire**d plots</u> <u>thickened the air</u>.
 
-####  <span style="color: silver;">The Scales of Justice
+####  <span style="color: silver;">The Scales of Justice ✓
 
 Law, too, shaped medieval life. 
 
@@ -49,7 +49,7 @@ To **violate** a decree or **infringe** upon rights invited swift retribution.
 Some secured **bail**, others earned **parole**, all <u>under the **stern** gaze of</u> judges <u>upholding **statute**s</u>. <u>**Legitimate** claims</u> <u>found protection</u> as lawmakers <u>raced to</u> **legislate** reforms. All <u>were urged to</u> <u>**abide** by</u> the rules and <u>**comply** with edicts</u>. **Patrol**s <u>roamed the streets</u>, <u>detaining offenders</u> <u>in grim **detention** cells</u>, where freedoms <u>were **confine**d</u>. 
 Duty <u>**oblige**d</u> all <u>to</u> <u>uphold justice</u>, and <u>the **liable** faced consequences</u>. <u>A **robust** legal framework</u> promised stability, with disputes often <u>settled as</u> <u>a last **resort**</u> in court.
 
-####  <span style="color: silver;">Arming the Realm
+####  <span style="color: silver;">Arming the Realm ✓
 
 Military might <u>loomed large</u>. 
 
@@ -60,7 +60,12 @@ Victory brought **triumph**, with **medal**s and **trophy**s <u>honoring the bra
 
 ####  <span style="color: silver;">The Fires of War
 
-When diplomacy failed, **warfare** erupted. Armies sought the **seizure** of enemy lands, leaving trails of **devastate**d villages. A prolonged **siege** tested endurance, yet defenders would **repel** invaders with grit. To **conquer** was to claim glory, each **conquest** a bitter prize. **Turmoil** reigned, the **turbulent** times sparking **revolt**s and **riot**s. The **toll** of lives lost mounted, with **casualty** figures haunting survivors who fled to **refuge**s far from the fray.
+When <u>diplomacy failed</u>, <u>**warfare** erupted</u>. 
+
+Armies <u>sought the **seizure** of</u> enemy lands, leaving <u>trails of</u> <u>**devastate**d villages</u>. 
+A <u>prolonged **siege**</u> tested <u>endurance</u>, yet defenders would <u>**repel** invaders</u> <u>with grit</u>. To **conquer** was to <u>claim glory</u>, each **conquest** <u>a bitter prize</u>. 
+
+**<u>Turmoil** reigned</u>, the <u>**turbulent** times</u> sparking **revolt**s and **riot**s. <u>The **toll** of</u> lives lost <u>mounted</u>, with **casualty** figures <u>haunting</u> survivors who <u>fled to</u> **refuge**s <u>far from the fray</u>.
 
 ####  <span style="color: silver;">Voices and Visions
 

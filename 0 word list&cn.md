@@ -1044,15 +1044,19 @@ lawn [lɔːn] n. 草地
 + warfare /ˈwɔːfeə/ n. 战争
 + seizure /ˈsiːʒə/ n. 夺取
 + devastate /ˈdɛvəsteɪt/ v. 毁灭
+  <br>
+
 + siege /siːdʒ/ n. 围攻
 + repel /rɪˈpɛl/ v. 击退
 + conquer /ˈkɒŋkə/ v. 征服
 + conquest /ˈkɒŋkwɛst/ n. 征服
+<br>
 + turmoil /ˈtɜːmɔɪl/ n. 混乱
 + turbulent /ˈtɜːbjʊlənt/ adj. 动荡的
 + revolt /rɪˈvəʊlt/ v. 反叛
 + riot /ˈraɪət/ n. 暴动
-+ toll /təʊl/ n. 伤亡人数
+  <br>
++ toll /təʊl/ n. 伤亡人数；代价 损失；钟声
 + casualty /ˈkæʒjʊəlti/ n. 伤亡
 + refuge /ˈrɛfjuːdʒ/ n. 避难所
 
