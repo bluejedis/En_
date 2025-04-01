@@ -36,7 +36,7 @@ They would <u>**summon** envoys</u> to <u>a grand **summit**</u>, where <u>**una
 
 To **innovate**, leaders would <u>**overhaul** outdated systems</u>, <u>overcoming every **hurdle**</u>. <u>Dissenters</u> faced threats to **expel** them, while policies to <u>**segregate** communities</u> <u>stirred unrest</u>. **Sanction**s <u>strained relations</u>, and <u>whispers of **conspire**d plots</u> <u>thickened the air</u>.
 
-####  <span style="color: silver;">The Scales of Justice ✓
+####  <span style="color: silver;">The Scales of Justice ✓ ？
 
 Law, too, shaped medieval life. 
 
@@ -58,7 +58,7 @@ Commanders <u>bolstered **morale**</u>, <u>facing down</u> <u>every **antagonist
 
 Victory brought **triumph**, with **medal**s and **trophy**s <u>honoring the brave</u>.
 
-####  <span style="color: silver;">The Fires of War
+####  <span style="color: silver;">The Fires of War ✓
 
 When <u>diplomacy failed</u>, <u>**warfare** erupted</u>. 
 
@@ -67,13 +67,29 @@ A <u>prolonged **siege**</u> tested <u>endurance</u>, yet defenders would <u>**r
 
 **<u>Turmoil** reigned</u>, the <u>**turbulent** times</u> sparking **revolt**s and **riot**s. <u>The **toll** of</u> lives lost <u>mounted</u>, with **casualty** figures <u>haunting</u> survivors who <u>fled to</u> **refuge**s <u>far from the fray</u>.
 
-####  <span style="color: silver;">Voices and Visions
+####  <span style="color: silver;">Voices and Visions ✓ ~~？~~
 
-Amid such chaos, opinions flourished. A rare **consensus** offered hope, bolstered by a firm **stance** on key issues. Every **notion**, even **notional** ideas, shaped discourse. A shifting **mindset** saw leaders **endorse** bold reforms, guided by wise **counsel**. Yet, temptations to **tempt** fate lingered, and subtle **allude**s hinted at deeper truths. An **instance** of bravery clarified debates, each **caption**ed tale fueling **controversy**. Scholars would **refute** weak claims, hoping to **sway** doubters. **Dissent** enriched dialogue, though a **veto** could halt progress. Many **reckon**ed change was near, and most **deem**ed it vital. How people **perceive**d the world evolved, as they **speculate**d on what lay ahead.
+Amid such <u>chaos</u>, opinions flourished. 
+
+A <u>rare **consensus**</u> <u>offered hope</u>, <u>bolstered by</u> <u>a firm **stance**</u> on key issues. Every **notion**, even **notional** ideas, <u>shaped discourse</u>. 
+
+A <u>shifting **mindset**</u> saw leaders **endorse** <u>bold reforms</u>, guided by wise **counsel**. Yet, <u>temptations to **tempt** fate</u> <u>linger</u>ed, and <u>subtle **allude**</u>s <u>hinted at</u> deeper truths. 
+
+An **instance** of bravery <u>clarified debates</u>, each **caption**ed tale <u>fueling **controversy**</u>. Scholars would <u>**refute** weak claims</u>, hoping to <u>**sway** doubters</u>. 
+
+**Dissent** <u>enriched dialogue</u>, though a **veto** could <u>halt progress</u>. Many **reckon**ed change was near, and most <u>**deem**ed it vital</u>. 【How people **perceive**d the world <u>evolved</u>, as they <u>**speculate**d on</u> <u>what lay ahead</u>.】←？句式是？
+
+<span style="font-size: 12px;"> 
+
+- 主句：How people perceived the world <u>evolved</u>（人们对世界的认知不断演变）← how..为 主， evolved 为 谓语
+- 从句：as they speculated on what lay ahead（随着他们思考推测未来会有什么时）← 时间状语 从句 </span>
+
 
 ####  <span style="color: silver;">The Heart of Attitude
 
-Attitudes colored every interaction. An **ardent** love for the land inspired some to **relish** its bounty. **Patriotic** fervor united them, though some **scorn**ed outsiders with **contempt**. **Stereotype**s bred mistrust, and **conceit** blinded the proud. **Hypocrisy** tainted promises, and **deliberate** slights sparked feuds. Uncertainty would **baffle** many, while **hostile** glares deepened rifts. Some **resent**ed their lot, others **trumpet**ed their deeds. **Flatter**y masked ambition, and boasts fueled rivalry. Yet, to **boast** was human, and some would **concede** their flaws. Truths **manifest**ed in actions, and **compromise** healed wounds—though some felt **compel**led to resist.
+Attitudes colored every interaction. 
+
+An **ardent** love for the land inspired some to **relish** its bounty. **Patriotic** fervor united them, though some **scorn**ed outsiders with **contempt**. **Stereotype**s bred mistrust, and **conceit** blinded the proud. **Hypocrisy** tainted promises, and **deliberate** slights sparked feuds. Uncertainty would **baffle** many, while **hostile** glares deepened rifts. Some **resent**ed their lot, others **trumpet**ed their deeds. **Flatter**y masked ambition, and boasts fueled rivalry. Yet, to **boast** was human, and some would **concede** their flaws. Truths **manifest**ed in actions, and **compromise** healed wounds—though some felt **compel**led to resist.
 
 ####  <span style="color: silver;">Winds of Change
 

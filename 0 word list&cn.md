@@ -1064,23 +1064,32 @@ lawn [lɔːn] n. 草地
 
 ### 33 观点
 
-
+bolster v.增强，巩固，改善
+linger v.逗留，徘徊
 + consensus /kənˈsɛnsəs/ n. 共识
 + stance /stæns/ n. 立场
 + notion /ˈnəʊʃən/ n. 观念
 + notional /ˈnəʊʃənəl/ adj. 概念上的
+  <br>
+
 + mindset /ˈmaɪndsɛt/ n. 心态
 + endorse /ɪnˈdɔːs/ v. 支持
 + counsel /ˈkaʊnsəl/ v. 建议
 + tempt /tɛmpt/ v. 诱惑
 + allude /əˈluːd/ v. 暗指
+<br>
+
 + instance /ˈɪnstəns/ n. 例子
 + caption /ˈkæpʃən/ n. 标题
 + controversy /ˈkɒntrəvɜːsi/ n. 争议
 + refute /rɪˈfjuːt/ v. 反驳
 + sway /sweɪ/ v. 影响
-+ dissent /dɪˈsɛnt/ v. 不同意
+<br>
+
++ dissent /dɪˈsɛnt/ n.&v. 不同意
 + veto /ˈviːtəʊ/ v. 否决
+  <br>
+  
 + reckon /ˈrɛkən/ v. 认为
 + deem /diːm/ v. 认为
 + perceive /pəˈsiːv/ v. 感知
