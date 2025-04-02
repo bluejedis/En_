@@ -82,14 +82,25 @@ An **instance** of bravery <u>clarified debates</u>, each **caption**ed tale <u>
 <span style="font-size: 12px;"> 
 
 - 主句：How people perceived the world <u>evolved</u>（人们对世界的认知不断演变）← how..为 主， evolved 为 谓语
-- 从句：as they speculated on what lay ahead（随着他们思考推测未来会有什么时）← 时间状语 从句 </span>
+- 从句：as they speculated on what lay ahead（随着他们思考推测未来会有什么时）← 时间状语 从句 
+
+</span>
 
 
 ####  <span style="color: silver;">The Heart of Attitude
 
-Attitudes colored every interaction. 
+Attitudes <u>colored every interaction</u>. 
 
-An **ardent** love for the land inspired some to **relish** its bounty. **Patriotic** fervor united them, though some **scorn**ed outsiders with **contempt**. **Stereotype**s bred mistrust, and **conceit** blinded the proud. **Hypocrisy** tainted promises, and **deliberate** slights sparked feuds. Uncertainty would **baffle** many, while **hostile** glares deepened rifts. Some **resent**ed their lot, others **trumpet**ed their deeds. **Flatter**y masked ambition, and boasts fueled rivalry. Yet, to **boast** was human, and some would **concede** their flaws. Truths **manifest**ed in actions, and **compromise** healed wounds—though some felt **compel**led to resist.
+An <u>**ardent** love</u> for the land inspired some to <u>**relish** its bounty</u>. <u>**Patriotic** fervor</u> united them, though some <u>**scorn**ed outsiders</u> <u>with **contempt**</u>. 
+
+**Stereotype**s <u>bred mistrust</u>, and <u>**conceit** blinded the proud</u>. 
+**<u>Hypocrisy** tainted promises</u>, and <u>**deliberate** slights</u> sparked <u>feuds</u>. 
+
+Uncertainty would **baffle** many, while <u>**hostile** glares</u> <u>deepened rifts</u>. Some <u>**resent**ed their lot</u>, others <u>**trumpet**ed their deeds</u>. 
+
+**Flatter**y <u>masked ambition</u>, and **boast**s <u>fueled rivalry</u>. 
+
+Yet, to **boast** was human, and some would <u>**concede** their flaws</u>. Truths **manifest**ed <u>in actions</u>, and **compromise** healed wounds — though some <u>felt **compel**led</u> to resist.
 
 ####  <span style="color: silver;">Winds of Change
 

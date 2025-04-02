@@ -1105,18 +1105,26 @@ linger v.逗留，徘徊
 + patriotic /ˌpætrɪˈɒtɪk/ adj. 爱国的
 + scorn /skɔːn/ v. 轻蔑
 + contempt /kənˈtɛmpt/ n. 轻视
+<br>
+
 + stereotype /ˈstɛrɪəˌtaɪp/ n. 刻板印象
 + conceit /kənˈsiːt/ n. 自负
 + hypocrisy /hɪˈpɒkrɪsi/ n. 虚伪
 + deliberate /dɪˈlɪbərɪt/ adj. 故意的
+  <br>
+
 + baffle /ˈbæfl/ v. 使困惑
 + hostile /ˈhɒstaɪl/ adj. 敌对的
 + resent /rɪˈzɛnt/ v. 怨恨
 + trumpet /ˈtrʌmpɪt/ v. 吹嘘
+  <br>
+
 + flatter /ˈflætə/ v. 奉承
-+ boast /bəʊst/ v. 自夸
++ boast /bəʊst/ n.&v. 自夸
+  <br>
+
 + concede /kənˈsiːd/ v. 承认
-+ manifest /ˈmænɪfɛst/ v. 表明
++ manifest /ˈmænɪfɛst/ v. 显现，表明
 + compromise /ˈkɒmprəmaɪz/ v. 妥协
 + compel /kəmˈpɛl/ v. 强迫
 
