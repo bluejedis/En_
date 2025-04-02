@@ -87,7 +87,7 @@ An **instance** of bravery <u>clarified debates</u>, each **caption**ed tale <u>
 </span>
 
 
-####  <span style="color: silver;">The Heart of Attitude
+####  <span style="color: silver;">The Heart of Attitude ✓
 
 Attitudes <u>colored every interaction</u>. 
 
@@ -104,7 +104,28 @@ Yet, to **boast** was human, and some would <u>**concede** their flaws</u>. Trut
 
 ####  <span style="color: silver;">Winds of Change
 
-Change was inevitable. Laws **modify**ed over time, as traditions **drift**ed away. A **reverse** of fortunes upended lives, some **invert**ing old norms. Leaders would **divert** resources, seeking to **convert** foes into allies. Machines **gear**ed up for war, heralding the **advent** of new eras. Threats **loom**ed large, their origins **derive**d from greed. Reforms **initiate**d progress, as dangers **recede**d. Yet, some customs **perish**ed, ideas **disperse**d, and conflicts **halt**ed briefly. **Harass**ment plagued the weak, a **hinder**ance to peace. Every **setback** and **obstacle** tested resolve, with **hazard**s **jeopardize**ing stability. Losses **impair**ed growth, and wars **inflict**ed scars. Societies could **disintegrate**, dreams **shatter**, and bonds **fracture**. Yet, hope could **facilitate** renewal, letting some **surpass** their limits and **excel**. Strength **exert**ed in unity saw spirits **bounce** back, communities **bound** together, and courage **bolster**ed. Wealth might **soar**, then **spiral** upward, or **surge** briefly before a **plunge**. Even a **tumble** taught resilience.
+Change was inevitable. 
+
+【Laws **modify**ed over time, as traditions **drift**ed away. 】
+
+<span style="font-size: 12px;"> 
+
+- 使用主动语态的原因通常是为了强调法律自身的演变性质
+  （随着时间的推移，法律不断修改，传统也逐渐消失）
+
+</span>
+
+A<u> **reverse** of fortunes</u> <u>upended lives</u>, some <u>**invert**ing old norms</u>. Leaders would <u>**divert** resources</u>, seeking to <u>**convert** foes into allies</u>. Machines <u>**gear**ed up for</u> war, <u>heralding</u> <u>the **advent** of</u> new eras. 
+
+Threats <u>**loom**ed large</u>, their origins <u>**derive**d from greed</u>. Reforms **initiate**d progress, as dangers **recede**d. 
+
+Yet, some <u>customs **perish**ed</u>, ideas **disperse**d, and conflicts <u>**halt**ed briefly</u>. **Harass**ment <u>plagued the weak</u>, <u>a **hinder**ance to peace</u>. 
+
+Every <u>**setback** and **obstacle**</u> <u>tested resolve</u>, with <u>**hazard**s **jeopardize**ing stability</u>. Losses **impair**ed growth, and wars <u>**inflict**ed scars</u>. Societies could **disintegrate**, dreams **shatter**, and bonds **fracture**. 
+
+Yet, hope could <u>**facilitate** renewal</u>, letting some <u>**surpass** their limits</u> and **excel**. Strength <u> **exert**ed in unity</u> <span style="border: 1px solid blue; padding: 2px;">saw</span> spirits <u>**bounce** back</u>, communities <u>**bound** together</u>, and courage **bolster**ed. 
+  
+Wealth might **soar**, then <u>**spiral** upward</u>, or <u>**surge** briefly </u>before <u>a **plunge**</u>. Even <u>a **tumble** taught resilience</u>.
 
 ####  <span style="color: silver;">Traits of the Times
 

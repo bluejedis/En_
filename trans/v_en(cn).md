@@ -160,7 +160,21 @@
 
 #### 变革之风
 
-变革不可避免。法律随时间**modify**(修改)，传统**drift**(漂移)。命运的**reverse**(逆转)颠覆生活，一些人**invert**(颠倒)旧规范。领导者会**divert**(转移)资源，试图**convert**(转变)敌人为盟友。机器为战争**gear**(装备)，预示新纪元的**advent**(到来)。威胁**loom**(逼近)，其根源**derive**(源于)贪婪。改革**initiate**(启动)进步，危险**recede**(消退)。然而，一些习俗**perish**(消亡)，思想**disperse**(分散)，冲突短暂**halt**(停止)。**Harass**(骚扰)困扰弱者，是和平的**hinder**(障碍)。每个**setback**(挫折)和**obstacle**(障碍)考验决心，**hazard**(危险)**jeopardize**(危害)稳定。损失**impair**(损害)增长，战争**inflict**(造成)伤痕。社会可能**disintegrate**(解体)，梦想**shatter**(破碎)，纽带**fracture**(断裂)。然而，希望能**facilitate**(促进)复兴，让一些人**surpass**(超越)极限并**excel**(卓越)。团结中**exert**(发挥)的力量使精神**bounce**(反弹)，社区**bound**(联合)，勇气**bolster**(增强)。财富可能**soar**(飙升)，然后**spiral**(螺旋上升)，或短暂**surge**(激增)后**plunge**(暴跌)。即使**tumble**(摔倒)也教会韧性。
+变革不可避免。
+
+法律<u>随时间</u> **modify**(修改)，传统也<u>逐渐**drift**(消失)</u>。
+
+命运的**reverse**(逆转) <u>颠覆生活</u>，一些人<u>**invert**(颠倒)旧规范</u>。领导者会<u>**divert**(转移)资源</u>，试图<u>**convert**(转变)敌人为盟友</u>。机器<u>为</u>战争<u>**gear**(装备)</u>，<u>预示</u> 新纪元的<u>**advent**(到来)</u>。
+
+威胁**loom**(逼近)，其根源<u>**derive**(源于)贪婪</u>。改革**initiate**(启动)进步，危险**recede**(消退)。
+
+然而，一些习俗**perish**(消亡)，思想**disperse**(分散)，冲突<u>短暂**halt**(停止)</u>。**Harass**(骚扰)<u>困扰弱者</u>，是<u>和平的**hinder**(障碍)</u>。
+
+每个**setback**(挫折)和**obstacle**(障碍)考验决心，同时**hazard**(危险)**jeopardize**(危害)稳定。损失**impair**(损害)增长，战争**inflict**(造成)伤痕。社会可能**disintegrate**(解体)，梦想**shatter**(破碎)，纽带**fracture**(断裂)。
+
+然而，希望能**facilitate**(促进)复兴，让一些人**surpass**(超越)极限并**excel**(卓越)。<u>团结中</u>**exert**(发挥)的力量使精神**bounce**(反弹)，社区**bound**(联合)，勇气被**bolster**(增强)。
+
+财富可能**soar**(飙升)，然后<u>**spiral**(螺旋上升)</u>，或<u>短暂**surge**(激增)</u>后**plunge**(暴跌)。即使<u>**tumble**(摔倒)也教会韧性</u>。
 
 #### 时代特征
 

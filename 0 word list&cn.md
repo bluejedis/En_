@@ -1135,22 +1135,31 @@ linger v.逗留，徘徊
 
 + modify /ˈmɒdɪfaɪ/ v. 修改
 + drift /drɪft/ v. 漂流
-+ reverse /rɪˈvɜːs/ v. 颠倒
+<br>
+
++ reverse /rɪˈvɜːs/ n.&v. 颠倒
 + invert /ɪnˈvɜːt/ v. 倒转
 + divert /daɪˈvɜːt/ v. 转移
 + convert /kənˈvɜːt/ v. 转变
-+ gear /ɡɪə/ v. 调整
++ gear /ɡɪə/ v. 调整，装备
 + advent /ˈædvɛnt/ n. 到来
-+ loom /luːm/ v. 逼近
+  <br>
+
++ loom /luːm/ v. 逼近 n.织机
 + derive /dɪˈraɪv/ v. 来源
 + initiate /ɪˈnɪʃɪeɪt/ v. 开始
 + recede /rɪˈsiːd/ v. 后退
+  
+  <br>
+
 + perish /ˈpɛrɪʃ/ v. 消亡
 + disperse /dɪˈspɜːs/ v. 分散
 + halt /hɔːlt/ v. 停止
 + harass /ˈhærəs/ v. 骚扰
 + hinder /ˈhɪndə/ v. 阻碍
 + hindrance /ˈhɪndrəns/ n. 障碍
+  <br>
+
 + setback /ˈsɛtbæk/ n. 挫折
 + obstacle /ˈɒbstəkl/ n. 障碍
 + hazard /ˈhæzəd/ n. 危险
@@ -1160,13 +1169,17 @@ linger v.逗留，徘徊
 + disintegrate /dɪsˈɪntɪɡreɪt/ v. 瓦解
 + shatter /ˈʃætə/ v. 粉碎
 + fracture /ˈfræktʃə/ v. 破裂
+  <br>
+
 + facilitate /fəˈsɪlɪteɪt/ v. 促进
 + surpass /səˈpɑːs/ v. 超越
-+ excel /ɪkˈsɛl/ v. 擅长
++ excel /ɪkˈsɛl/ v. 擅长，卓越
 + exert /ɪɡˈzɜːt/ v. 发挥
 + bounce /baʊns/ v. 弹跳
 + bound /baʊnd/ v. 跳跃
-+ bolster /ˈbəʊlstə/ v. 支持
++ bolster /ˈbəʊlstə/ v. 鼓舞，增强
+<br>
+
 + soar /sɔː/ v. 猛增
 + spiral /ˈspaɪərəl/ v. 螺旋上升
 + surge /sɜːdʒ/ v. 激增
