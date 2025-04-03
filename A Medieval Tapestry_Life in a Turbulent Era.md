@@ -102,7 +102,7 @@ Uncertainty would **baffle** many, while <u>**hostile** glares</u> <u>deepened r
 
 Yet, to **boast** was human, and some would <u>**concede** their flaws</u>. Truths **manifest**ed <u>in actions</u>, and **compromise** healed wounds — though some <u>felt **compel**led</u> to resist.
 
-####  <span style="color: silver;">Winds of Change
+####  <span style="color: silver;">Winds of Change ✓
 
 Change was inevitable. 
 
@@ -129,7 +129,17 @@ Wealth might **soar**, then <u>**spiral** upward</u>, or <u>**surge** briefly </
 
 ####  <span style="color: silver;">Traits of the Times
 
-People bore distinct marks. A kind **disposition** warmed hearts, like the soft **texture** of wool. The **noble** stood tall, their **versatile** talents shining. **Tender** hands healed, and **tame** beasts aided labor. The **pathetic** stirred pity, while the **elite** ruled. **Negligent** lords faltered, their **complexion** pale with worry. **Stout** walls endured, upheld by **rigor**. The **volatile** clashed with the **eccentric**, yet the **discreet** thrived. **Timid** souls hid, while the **formidable** led. Delays **retard**ed plans, but **dignity** prevailed. A **solemn** air graced ceremonies, exuding **majesty**. The **conspicuous** drew eyes, the **vicious** fear. **Sturdy** homes defied storms, despite **adverse** winds or **sinister** plots. The **stark** wilderness awed, the **gigantic** inspired. **Trivial** woes faded, mere **trifle**s beside **intense** joys. An **apt** word soothed, the **peculiar** intrigued. **Terrific** feats amazed, rooted in **intrinsic** worth and **inherent** strength. **Underlying** tensions simmered, within **intricate** webs. A **concise** tale clarified, though **plausible** lies deceived. **Feasible** dreams took root, **overt** acts boldly shown. The **faint** faltered, the **dim** groped, yet the **almighty** endured.
+People bore distinct marks. 
+
+A kind **disposition** warmed hearts, like <u>the soft **texture**</u> of wool. The **noble** stood tall, their <u>**versatile** talents </u>shining. <u>**Tender** hands</u> healed, and <u>**tame** beasts</u> <u>aided labor</u>. 
+
+The **pathetic** stirred pity, while the **elite** ruled. 
+
+**Negligent** lords <u>falter</u>ed, their **complexion** <u>pale with worry</u>. <u>**Stout** walls</u> endured, upheld <u>by **rigor**</u>. The **volatile** <u>clashed with</u> the **eccentric**, yet the **discreet** <u>thrived</u>. 
+
+**<u>Timid** souls</u> hid, while the **formidable** led. 
+
+Delays **retard**ed plans, but **dignity** prevailed. A **solemn** air graced ceremonies, exuding **majesty**. The **conspicuous** drew eyes, the **vicious** fear. **Sturdy** homes defied storms, despite **adverse** winds or **sinister** plots. The **stark** wilderness awed, the **gigantic** inspired. **Trivial** woes faded, mere **trifle**s beside **intense** joys. An **apt** word soothed, the **peculiar** intrigued. **Terrific** feats amazed, rooted in **intrinsic** worth and **inherent** strength. **Underlying** tensions simmered, within **intricate** webs. A **concise** tale clarified, though **plausible** lies deceived. **Feasible** dreams took root, **overt** acts boldly shown. The **faint** faltered, the **dim** groped, yet the **almighty** endured.
 
 ####  <span style="color: silver;">Degrees of Life
 

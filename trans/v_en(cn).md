@@ -178,7 +178,17 @@
 
 #### 时代特征
 
-人们带有鲜明的印记。友善的**disposition**(性情)温暖人心，如羊毛的柔软**texture**(质地)。**noble**(高尚的)人站得高大，他们的**versatile**(多才多艺的)才能闪耀。**Tender**(温柔的)手治愈，**tame**(驯服的)兽辅助劳动。**pathetic**(可怜的)激起怜悯，而**elite**(精英)统治。**Negligent**(疏忽的)领主失足，他们的**complexion**(面色)因担忧而苍白。**Stout**(坚固的)墙屹立不倒，由**rigor**(严格)支撑。**volatile**(易变的)与**eccentric**(古怪的)冲突，但**discreet**(谨慎的)蓬勃发展。**Timid**(胆小的)灵魂隐藏，**formidable**(强大的)引领。延误**retard**(延迟)计划，但**dignity**(尊严)占上风。**solemn**(庄严的)气氛装饰仪式，散发**majesty**(威严)。**conspicuous**(显眼的)吸引目光，**vicious**(恶毒的)令人恐惧。**Sturdy**(结实的)房屋抵御风暴，尽管有**adverse**(不利的)风或**sinister**(险恶的)阴谋。**stark**(荒凉的)荒野令人敬畏，**gigantic**(巨大的)激励人心。**Trivial**(琐碎的)烦恼消退，仅仅是**trifle**(小事)，与**intense**(强烈的)欢乐相比微不足道。**apt**(恰当的)词语抚慰，**peculiar**(奇特的)引人入胜。**Terrific**(惊叹的)壮举令人惊叹，根植于**intrinsic**(固有的)价值和**inherent**(内在的)力量。**Underlying**(潜在的)紧张在**intricate**(复杂的)网络中酝酿。**concise**(简洁的)故事澄清，尽管**plausible**(貌似合理的)谎言欺骗。**Feasible**(可行的)梦想生根，**overt**(公开的)行为大胆展示。**faint**(微弱的)动摇，**dim**(昏暗的)摸索，但**almighty**(全能的)持久。
+人们带有鲜明的印记。
+
+友善的**disposition**(性情)温暖人心，如羊毛的<u>柔软**texture**(质地)</u>。**noble**(高尚的)人站得高大，他们的**versatile**(多才多艺的)才能闪耀。**Tender**(温柔的)手治愈，**tame**(驯服的)兽<u>辅助劳动</u>。
+
+**pathetic**(可怜的)激起怜悯，而**elite**(精英)统治。
+
+**Negligent**(疏忽的)领主失足，他们的**complexion**(面色)<u>因担忧而苍白</u>。**Stout**(坚固的)墙屹立不倒，<u>由**rigor**(严格)支撑</u>。**volatile**(易变的)与**eccentric**(古怪的)<u>冲突</u>，但**discreet**(谨慎的)<u>蓬勃发展</u>。
+
+**Timid**(胆小的)灵魂隐藏，**formidable**(强大的)引领。
+
+延误**retard**(延迟)计划，但**dignity**(尊严)占上风。**solemn**(庄严的)气氛装饰仪式，散发**majesty**(威严)。**conspicuous**(显眼的)吸引目光，**vicious**(恶毒的)令人恐惧。**Sturdy**(结实的)房屋抵御风暴，尽管有**adverse**(不利的)风或**sinister**(险恶的)阴谋。**stark**(荒凉的)荒野令人敬畏，**gigantic**(巨大的)激励人心。**Trivial**(琐碎的)烦恼消退，仅仅是**trifle**(小事)，与**intense**(强烈的)欢乐相比微不足道。**apt**(恰当的)词语抚慰，**peculiar**(奇特的)引人入胜。**Terrific**(惊叹的)壮举令人惊叹，根植于**intrinsic**(固有的)价值和**inherent**(内在的)力量。**Underlying**(潜在的)紧张在**intricate**(复杂的)网络中酝酿。**concise**(简洁的)故事澄清，尽管**plausible**(貌似合理的)谎言欺骗。**Feasible**(可行的)梦想生根，**overt**(公开的)行为大胆展示。**faint**(微弱的)动摇，**dim**(昏暗的)摸索，但**almighty**(全能的)持久。
 
 #### 生活的程度
 

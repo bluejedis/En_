@@ -1190,18 +1190,20 @@ linger v.逗留，徘徊
 
 ### 36 特征
 
+bore /bɔː / v. 带有，涌向；令人厌烦，钻孔
 
 + disposition /ˌdɪspəˈzɪʃən/ n. 性情
 + texture /ˈtɛkstʃə/ n. 质地
 + noble /ˈnəʊbl/ adj. 高贵的
 + versatile /ˈvɜːsətaɪl/ adj. 多才多艺的
 + tender /ˈtɛndə/ adj. 温柔的
-
-
-
 + tame /teɪm/ adj. 驯服的
+  <br>
+
 + pathetic /pəˈθɛtɪk/ adj. 可怜的
 + elite /eɪˈliːt/ n. 精英
+  <br>
+
 + negligent /ˈnɛɡlɪdʒənt/ adj. 疏忽的
 + complexion /kəmˈplɛkʃən/ n. 肤色
 + stout /staʊt/ adj. 结实的
@@ -1209,8 +1211,12 @@ linger v.逗留，徘徊
 + volatile /ˈvɒlətaɪl/ adj. 易变的
 + eccentric /ɪkˈsɛntrɪk/ adj. 古怪的
 + discreet /dɪˈskriːt/ adj. 谨慎的
+  <br>
+
 + timid /ˈtɪmɪd/ adj. 胆小的
 + formidable /ˈfɔːmɪdəbl/ adj. 强大的
+  <br>
+  
 + retard /rɪˈtɑːd/ v. 延迟
 + dignity /ˈdɪɡnɪti/ n. 尊严
 + solemn /ˈsɒləm/ adj. 庄严的
