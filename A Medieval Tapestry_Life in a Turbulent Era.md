@@ -127,7 +127,7 @@ Yet, hope could <u>**facilitate** renewal</u>, letting some <u>**surpass** their
   
 Wealth might **soar**, then <u>**spiral** upward</u>, or <u>**surge** briefly </u>before <u>a **plunge**</u>. Even <u>a **tumble** taught resilience</u>.
 
-####  <span style="color: silver;">Traits of the Times
+####  <span style="color: silver;">Traits of the Times ✓
 
 People bore distinct marks. 
 
@@ -151,7 +151,21 @@ An **apt** word <u>soothed</u>, the **peculiar** <u>intrigued</u>. <u>**Terrific
 
 ####  <span style="color: silver;">Degrees of Life
 
-Skill marked the era. The **proficient** excelled, building to a **climax** of glory. **Optimum** harvests fed all, pushed to the **utmost**. **Ultra**-bold knights rode forth, as needs **mount**ed. Sounds **amplify**ed across valleys, riches **augment**ed stores. Unity **consolidate**d gains, though tensions **escalate**d. Mercy **alleviate**d pain, as threats **diminish**ed. **Blunt** tools dulled, yet **cardinal** virtues shone. Duty was **imperative**, lives **integral** to the whole.
+Skill marked the era. 
+
+The **proficient** <u>excelled</u>, <u>building to</u> <u>a **climax** of glory</u>. <u>**Optimum** harvests</u> <u>fed all</u>, pushed <u>to the **utmost**</u>. 
+
+**<u>Ultra**-bold</u> knights <u>rode forth</u>, as needs **mount**ed. Sounds **amplify**ed <u>across valleys</u>, riches <u>**augment**ed stores</u>. Unity <u>**consolidate**d gains</u>, though tensions **escalate**d. 
+
+Mercy <u>**alleviate**d pain</u>, as threats **diminish**ed. <u>**Blunt** tools dulled</u>, yet <u>**cardinal** virtues</u> shone. Duty was **imperative**, lives **integral** to the whole.
+
+<span style="font-size: 12px;"> 
+
+- //？这里面很多谓语不应该使用被动吗，为什么用的主动的过去式 
+- 大多数句式是： 主句+独立主格结构
+  
+</span>
+
 
 ####  <span style="color: silver;">Acts and Deeds
 

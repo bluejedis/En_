@@ -200,7 +200,13 @@
 
 #### 生活的程度
 
-技能标志着这个时代。**proficient**(熟练的)者脱颖而出，成就荣耀的**climax**(高潮)。**Optimum**(最佳的)收成养活所有人，推向**utmost**(极致)。**Ultra**(极端的)大胆骑士驰骋，因需求**mount**(增加)。声音在山谷中**amplify**(放大)，财富**augment**(增加)储备。团结**consolidate**(巩固)成果，尽管紧张**escalate**(升级)。仁慈**alleviate**(缓解)痛苦，威胁**diminish**(减少)。**Blunt**(钝的)工具变钝，但**cardinal**(基本的)美德闪耀。责任是**imperative**(必要的)，生命**integral**(完整的)整体。
+技能标志着这个时代。
+
+**proficient**(熟练的)者<u>脱颖而出</u>，<u>成就</u> <u>荣耀的**climax**(高潮)</u>。**Optimum**(最佳的)收成<u>养活所有人</u>，推向**utmost**(极致)。
+
+**Ultra**(极端)大胆的骑士<u>驰骋</u>，因需求**mount**(增加)。声音在山谷中**amplify**(放大)，财富**augment**(增加)储备。团结**consolidate**(巩固)成果，尽管紧张**escalate**(升级)。
+
+仁慈**alleviate**(缓解)痛苦，威胁**diminish**(减少)。**Blunt**(钝的)工具变钝，但**cardinal**(基本的)美德闪耀。责任是**imperative**(必要的)，生命**integral**(完整的)整体。
 
 #### 行动与事迹
 

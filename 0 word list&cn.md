@@ -1270,12 +1270,17 @@ endure /ɪnˈdjʊə/ v. 忍受，持久
 + climax /ˈklaɪmæks/ n. 高潮
 + optimum /ˈɒptɪməm/ adj. 最佳的
 + utmost /ˈʌtməʊst/ adj. 极度的
+<br>
+
+bold /bəʊld/ adj. 大胆的
 + ultra /ˈʌltrə/ adj. 极端的
 + mount /maʊnt/ v. 增加
 + amplify /ˈæmplɪfaɪ/ v. 放大
 + augment /ɔːɡˈmɛnt/ v. 增加
 + consolidate /kənˈsɒlɪdeɪt/ v. 巩固
 + escalate /ˈɛskəleɪt/ v. 升级
+  <br>
+  
 + alleviate /əˈliːvɪeɪt/ v. 减轻
 + diminish /dɪˈmɪnɪʃ/ v. 减少
 + blunt /blʌnt/ adj. 钝的
