@@ -1217,25 +1217,40 @@ bore /bɔː / v. 带有，涌向；令人厌烦，钻孔
 + formidable /ˈfɔːmɪdəbl/ adj. 强大的
   <br>
   
+exude /ɪɡˈzuːd/ v. 潜出，散发
 + retard /rɪˈtɑːd/ v. 延迟
 + dignity /ˈdɪɡnɪti/ n. 尊严
 + solemn /ˈsɒləm/ adj. 庄严的
 + majesty /ˈmædʒəsti/ n. 威严
+<br>
+
+plot / plɒt / n. 场景，情节，阴谋 v. 密谋，绘制
 + conspicuous /kənˈspɪkjʊəs/ adj. 显眼的
 + vicious /ˈvɪʃəs/ adj. 恶毒的
 + sturdy /ˈstɜːdi/ adj. 结实的
 + adverse /ˈædvɜːs/ adj. 不利的
 + sinister /ˈsɪnɪstə/ adj. 邪恶的
+  <br>
+
 + stark /stɑːk/ adj. 荒凉的
 + gigantic /dʒaɪˈɡæntɪk/ adj. 巨大的
 + trivial /ˈtrɪvɪəl/ adj. 琐碎的
 + trifle /ˈtraɪfəl/ n. 小事
 + intense /ɪnˈtɛns/ adj. 强烈的
+  <br>
+
+intrigue /ɪnˈtraɪdʒ/ v. 使好奇, 激起兴趣
+feat /fiːt/ n. 壮举
 + apt /æpt/ adj. 恰当的
 + peculiar /pɪˈkjuːliə/ adj. 特有的
 + terrific /təˈrɪfɪk/ adj. 极好的
 + intrinsic /ɪnˈtrɪnzɪk/ adj. 内在的
 + inherent /ɪnˈhɪərənt/ adj. 固有的
+<br>
+simmmer /ˈsɪmə/ v. 酝酿，炖
+falter /ˈfɔːltə/ v. 蹒跚，犹豫，动摇
+grope /ɡrəʊp/ v. 摸索，摸索
+endure /ɪnˈdjʊə/ v. 忍受，持久
 + underlying /ˌʌndəˈlaɪɪŋ/ adj. 潜在的
 + intricate /ˈɪntrɪkɪt/ adj. 复杂的
 + concise /kənˈsaɪs/ adj. 简洁的

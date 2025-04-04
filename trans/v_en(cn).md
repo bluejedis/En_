@@ -188,7 +188,15 @@
 
 **Timid**(胆小的)灵魂隐藏，**formidable**(强大的)引领。
 
-延误**retard**(延迟)计划，但**dignity**(尊严)占上风。**solemn**(庄严的)气氛装饰仪式，散发**majesty**(威严)。**conspicuous**(显眼的)吸引目光，**vicious**(恶毒的)令人恐惧。**Sturdy**(结实的)房屋抵御风暴，尽管有**adverse**(不利的)风或**sinister**(险恶的)阴谋。**stark**(荒凉的)荒野令人敬畏，**gigantic**(巨大的)激励人心。**Trivial**(琐碎的)烦恼消退，仅仅是**trifle**(小事)，与**intense**(强烈的)欢乐相比微不足道。**apt**(恰当的)词语抚慰，**peculiar**(奇特的)引人入胜。**Terrific**(惊叹的)壮举令人惊叹，根植于**intrinsic**(固有的)价值和**inherent**(内在的)力量。**Underlying**(潜在的)紧张在**intricate**(复杂的)网络中酝酿。**concise**(简洁的)故事澄清，尽管**plausible**(貌似合理的)谎言欺骗。**Feasible**(可行的)梦想生根，**overt**(公开的)行为大胆展示。**faint**(微弱的)动摇，**dim**(昏暗的)摸索，但**almighty**(全能的)持久。
+延误**retard**(延迟)计划，但<u>**dignity**(尊严)占上风</u>。<u>**solemn**(庄严的)气氛</u> <u>装饰仪式</u>，散发**majesty**(威严)。
+
+**conspicuous**(显眼的)吸引目光，**vicious**(恶毒的)恐惧。**Sturdy**(结实的)房屋抵御风暴，尽管有**adverse**(不利的)风或**sinister**(险恶的)阴谋。
+
+**<u>stark**(荒凉的)荒野</u>令人敬畏，**gigantic**(巨大的)激励人心。<u>**Trivial**(琐碎的)烦恼</u>消退，<u>仅仅</u>是**trifle**(小事)，<u>与</u>**intense**(强烈的)欢乐<u>相比</u>微不足道。
+
+**apt**(恰当的)词语抚慰，**peculiar**(奇特的)引人入胜。<u>**Terrific**(惊叹的)壮举</u>令人惊叹，</u>根植于</u> <u>**intrinsic**(固有的)价值</u>和<u>**inherent**(内在的)力量</u>。
+
+**Underlying**(潜在的)紧张 在**intricate**(复杂的)网络中<u>酝酿</u>。<u>**concise**(简洁的)故事</u>澄清，尽管**plausible**(貌似合理的)谎言欺骗。**Feasible**(可行的)梦想<u>生根</u>，**overt**(公开的)行为<u>被大胆展示</u>。**faint**(微弱的)<u>动摇</u>，**dim**(昏暗的)摸索，但**almighty**(全能的)忍受。
 
 #### 生活的程度
 

@@ -139,7 +139,15 @@ The **pathetic** stirred pity, while the **elite** ruled.
 
 **<u>Timid** souls</u> hid, while the **formidable** led. 
 
-Delays **retard**ed plans, but **dignity** prevailed. A **solemn** air graced ceremonies, exuding **majesty**. The **conspicuous** drew eyes, the **vicious** fear. **Sturdy** homes defied storms, despite **adverse** winds or **sinister** plots. The **stark** wilderness awed, the **gigantic** inspired. **Trivial** woes faded, mere **trifle**s beside **intense** joys. An **apt** word soothed, the **peculiar** intrigued. **Terrific** feats amazed, rooted in **intrinsic** worth and **inherent** strength. **Underlying** tensions simmered, within **intricate** webs. A **concise** tale clarified, though **plausible** lies deceived. **Feasible** dreams took root, **overt** acts boldly shown. The **faint** faltered, the **dim** groped, yet the **almighty** endured.
+Delays <u>**retard**ed plans</u>, but <u>**dignity** prevailed</u>. A <u>**solemn** air</u> <u>graced ceremonies</u>, <u>exuding **majesty**</u>. 
+
+The **conspicuous** <u>drew eyes</u>, the **vicious** fear. **Sturdy** homes <u>defied storms</u>, despite **adverse** winds or <u>**sinister** plots</u>. 
+
+The <u>**stark** wilderness</u> awed, the **gigantic** inspired. <u>**Trivial** woes</u> faded, mere **trifle**s beside **intense** joys. 
+
+An **apt** word <u>soothed</u>, the **peculiar** <u>intrigued</u>. <u>**Terrific** feats</u> amazed, <u>rooted in</u> <u>**intrinsic** worth</u> and <u>**inherent** strength</u>. 
+
+**Underlying** tensions <u>simmer</u>ed, within <u>**intricate** webs</u>. A <u>**concise** tale</u> clarified, though <u>**plausible** lies </u> deceived. **Feasible** dreams <u>took root</u>, **overt** acts <u>boldly shown</u>. The **faint** <u>faltered</u>, the **dim** <u>groped</u>, yet the **almighty** endured.
 
 ####  <span style="color: silver;">Degrees of Life
 
