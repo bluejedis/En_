@@ -1246,11 +1246,14 @@ feat /fiːt/ n. 壮举
 + terrific /təˈrɪfɪk/ adj. 极好的
 + intrinsic /ɪnˈtrɪnzɪk/ adj. 内在的
 + inherent /ɪnˈhɪərənt/ adj. 固有的
+  
 <br>
+
 simmmer /ˈsɪmə/ v. 酝酿，炖
 falter /ˈfɔːltə/ v. 蹒跚，犹豫，动摇
 grope /ɡrəʊp/ v. 摸索，摸索
 endure /ɪnˈdjʊə/ v. 忍受，持久
+
 + underlying /ˌʌndəˈlaɪɪŋ/ adj. 潜在的
 + intricate /ˈɪntrɪkɪt/ adj. 复杂的
 + concise /kənˈsaɪs/ adj. 简洁的
@@ -1297,6 +1300,8 @@ bold /bəʊld/ adj. 大胆的
 + hibernate /ˈhaɪbəneɪt/ v. 冬眠
 + solicit /səˈlɪsɪt/ v. 恳求
 + obstruct /əbˈstrʌkt/ v. 阻碍
+<br>
+
 + hamper /ˈhæmpə/ v. 妨碍
 + handicap /ˈhændikæp/ v. 妨碍
 + inhibit /ɪnˈhɪbɪt/ v. 抑制
@@ -1305,11 +1310,15 @@ bold /bəʊld/ adj. 大胆的
 + eradicate /ɪˈrædɪkeɪt/ v. 根除
 + undo /ʌnˈduː/ v. 解开
 + avert /əˈvɜːt/ v. 避免
+<br>
+
 + aversion /əˈvɜːʃən/ n. 厌恶
 + evade /ɪˈveɪd/ v. 逃避
 + disguise /dɪsˈɡaɪz/ v. 伪装
 + veil /veɪl/ v. 遮盖
 + menace /ˈmɛnɪs/ v. 威胁
+<br>
+
 + huddle /ˈhʌdl/ v. 挤作一团
 + crouch /kraʊtʃ/ v. 蹲伏
 + flip /flɪp/ v. 翻转

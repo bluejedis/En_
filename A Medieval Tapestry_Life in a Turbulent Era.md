@@ -149,7 +149,7 @@ An **apt** word <u>soothed</u>, the **peculiar** <u>intrigued</u>. <u>**Terrific
 
 **Underlying** tensions <u>simmer</u>ed, within <u>**intricate** webs</u>. A <u>**concise** tale</u> clarified, though <u>**plausible** lies </u> deceived. **Feasible** dreams <u>took root</u>, **overt** acts <u>boldly shown</u>. The **faint** <u>faltered</u>, the **dim** <u>groped</u>, yet the **almighty** endured.
 
-####  <span style="color: silver;">Degrees of Life
+####  <span style="color: silver;">Degrees of Life ✓ ？
 
 Skill marked the era. 
 
@@ -169,11 +169,21 @@ Mercy <u>**alleviate**d pain</u>, as threats **diminish**ed. <u>**Blunt** tools 
 
 ####  <span style="color: silver;">Acts and Deeds
 
-Behaviors shaped fates. Ideas **diffuse**d slowly, as beasts **hibernate**d. The poor **solicit**ed aid, while foes **obstruct**ed peace. Greed **hamper**ed trade, a **handicap** to all. Fear **inhibit**ed growth, though kindness **counteract**ed hate. Laws **deter**red crime, aiming to **eradicate** vice. Heroes **undo** wrongs, their vigilance **avert**ing doom. **Aversion** to war grew, as some **evade**d drafts. **Disguise** hid spies, truths **veil**ed in shadow. Danger **menace**d all, yet families **huddle**d close. Warriors **crouch**ed in wait, a coin’s **flip** deciding fate. Bees **buzz**ed, guards **glare**d, and children **peep**ed at wonders.
+Behaviors shaped fates. 
+
+Ideas <u>**diffuse**d slowly</u>, as <u>beasts **hibernate**d</u>. The poor <u>**solicit**ed aid</u>, while foes <u>**obstruct**ed peace</u>. 
+
+Greed <u>**hamper**ed trade</u>, <u>a **handicap** to all</u>. Fear **inhibit**ed growth, though kindness <u>**counteract**ed hate</u>. 
+
+Laws <u>**deter**red crime</u>, aiming to <u>**eradicate** vice</u>. Heroes <u>**undo** wrongs</u>, their vigilance <u>**avert**ing doom</u>. 
+
+**<u>Aversion** to war</u> grew, as some <u>**evade**d drafts</u>. **Disguise** hid spies, truths <u>**veil**ed in shadow</u>. Danger <u>**menace**d all</u>, yet families <u>**huddle**d close</u>. Warriors <u>**crouch**ed in wait</u>, a coin’s **flip** deciding fate. Bees **buzz**ed, guards **glare**d, and children <u>**peep**ed at wonders</u>.
 
 ####  <span style="color: silver;">The Dance of Action
 
-Action drove the age. Swords **swipe**d foes, shields **smash**ed apart. Fists **punch**ed through, fingers **poke**d eyes. Blades **stab**bed deep, arrows **pierce**d armor. Hands **clasp**ed in prayer, friends **cling** to hope. Men **heave**d stones, flags **hoist**ed high. Boys **toss**ed pebbles, lovers **fling** notes. Stones **hurl**ed afar, doors **thrust** open. Crowds **shove**d forward, ropes **jerk**ed tight. Tools **wrench**ed free, cold made men **shiver**. Bows **quiver**ed, papers **shred**ded. Boots **tread** paths, pilgrims **trek**ked on. Thieves **sneak**ed past, frogs **hop**ped free. The lame **limp**ed home, streams **trickle**d by. Seeds **scatter**ed wide, milk **spill**ed over. Water **splash**ed faces, rain **sprinkle**d fields. Nets **filter**ed fish, scents **permeate**d air. Clothes **soak**ed through, stars **dazzle**d all. Fires **blaze**d bright, gems **glitter**ed softly. Torches **illuminate**d paths, tables **tilt**ed askew. Old men **stoop**ed low, wolves **devour**ed prey. Teeth **crunch**ed bones, shoulders **shrug**ged off woes. Fury **unleash**ed chaos, doors **slam**med shut. Fingers **pinch**ed noses, tales **elicit**ed gasps. Claws **rip**ped flesh, lies **strip**ped bare.
+Action drove the age. 
+
+Swords **swipe**d foes, shields **smash**ed apart. Fists **punch**ed through, fingers **poke**d eyes. Blades **stab**bed deep, arrows **pierce**d armor. Hands **clasp**ed in prayer, friends **cling** to hope. Men **heave**d stones, flags **hoist**ed high. Boys **toss**ed pebbles, lovers **fling** notes. Stones **hurl**ed afar, doors **thrust** open. Crowds **shove**d forward, ropes **jerk**ed tight. Tools **wrench**ed free, cold made men **shiver**. Bows **quiver**ed, papers **shred**ded. Boots **tread** paths, pilgrims **trek**ked on. Thieves **sneak**ed past, frogs **hop**ped free. The lame **limp**ed home, streams **trickle**d by. Seeds **scatter**ed wide, milk **spill**ed over. Water **splash**ed faces, rain **sprinkle**d fields. Nets **filter**ed fish, scents **permeate**d air. Clothes **soak**ed through, stars **dazzle**d all. Fires **blaze**d bright, gems **glitter**ed softly. Torches **illuminate**d paths, tables **tilt**ed askew. Old men **stoop**ed low, wolves **devour**ed prey. Teeth **crunch**ed bones, shoulders **shrug**ged off woes. Fury **unleash**ed chaos, doors **slam**med shut. Fingers **pinch**ed noses, tales **elicit**ed gasps. Claws **rip**ped flesh, lies **strip**ped bare.
 
 ####  <span style="color: silver;">States of Being
 
@@ -186,3 +196,32 @@ Virtues defined souls. **Merit** earned praise, **norm**s guided all. **Integrit
 ####  <span style="color: silver;">Beyond the Veil
 
 Life spanned a vast **realm**, joys in every **vicinity**. Limbs **stretch**ed free, quotas met each **quota**. **Excess** wasted much, a **chunk** of gold awed. The **frontier** called, homes sat **adjacent**. **Rural** fields bloomed, the **outskirts** rested. A **venue** hosted feasts, life teetered on the **margin**. The **fringe** watched, the **verge** loomed near. An **instant** changed all, time **elapse**d slowly. A **session** debated fate, the **interim** dragged. Some **lag**ged behind, the **medieval** defined them. **Hitherto**, all endured, lessons **prior** to now. Events **precede**d dawn, steps were **preliminary**. Change felt **imminent**, a new age beckoned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
