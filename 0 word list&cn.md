@@ -1333,18 +1333,26 @@ bold /bəʊld/ adj. 大胆的
 + smash /smæʃ/ v. 粉碎
 + punch /pʌntʃ/ v. 打孔
 + poke /pəʊk/ v. 戳
+<br>
+
 + stab /stæb/ v. 刺
 + pierce /pɪəs/ v. 刺穿
+<br>
+
 + clasp /klɑːsp/ v. 紧握
 + cling /klɪŋ/ v. 紧贴
 + heave /hiːv/ v. 举起
 + hoist /hɔɪst/ v. 升起
+<br>
+
 + toss /tɒs/ v. 扔
 + fling /flɪŋ/ v. 猛扔
 + hurl /hɜːl/ v. 猛投
 + thrust /θrʌst/ v. 推
 + shove /ʃʌv/ v. 推挤
 + jerk /dʒɜːk/ v. 猛拉
+<br>
+
 + wrench /rɛntʃ/ v. 扭
 + shiver /ˈʃɪvə/ v. 颤抖
 + quiver /ˈkwɪvə/ v. 颤动
@@ -1355,8 +1363,12 @@ bold /bəʊld/ adj. 大胆的
 + hop /hɒp/ v. 跳跃
 + limp /lɪmp/ v. 瘸着走
 + trickle /ˈtrɪkl/ v. 滴
+<br>
+
 + scatter /ˈskætə/ v. 散播
 + spill /spɪl/ v. 溢出
+<br>
+
 + splash /splæʃ/ v. 泼洒
 + sprinkle /ˈsprɪŋkl/ v. 喷洒
 + filter /ˈfɪltə/ v. 过滤
@@ -1367,6 +1379,8 @@ bold /bəʊld/ adj. 大胆的
 + glitter /ˈɡlɪtə/ v. 闪烁
 + illuminate /ɪˈluːmɪneɪt/ v. 照亮
 + tilt /tɪlt/ v. 倾斜
+<br>
+
 + stoop /stuːp/ v. 弯腰
 + devour /dɪˈvaʊə/ v. 吞食
 + crunch /krʌntʃ/ v. 咀嚼

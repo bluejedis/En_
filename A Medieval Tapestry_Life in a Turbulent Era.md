@@ -172,7 +172,7 @@ Mercy <u>**alleviate**d pain</u>, as threats **diminish**ed. <u>**Blunt** tools 
 Behaviors shaped fates. 
 
 Ideas <u>**diffuse**d slowly</u>, as <u>beasts **hibernate**d</u>. The poor <u>**solicit**ed aid</u>, while foes <u>**obstruct**ed peace</u>. 
-
+ 
 Greed <u>**hamper**ed trade</u>, <u>a **handicap** to all</u>. Fear **inhibit**ed growth, though kindness <u>**counteract**ed hate</u>. 
 
 Laws <u>**deter**red crime</u>, aiming to <u>**eradicate** vice</u>. Heroes <u>**undo** wrongs</u>, their vigilance <u>**avert**ing doom</u>. 
@@ -183,7 +183,23 @@ Laws <u>**deter**red crime</u>, aiming to <u>**eradicate** vice</u>. Heroes <u>*
 
 Action drove the age. 
 
-Swords **swipe**d foes, shields **smash**ed apart. Fists **punch**ed through, fingers **poke**d eyes. Blades **stab**bed deep, arrows **pierce**d armor. Hands **clasp**ed in prayer, friends **cling** to hope. Men **heave**d stones, flags **hoist**ed high. Boys **toss**ed pebbles, lovers **fling** notes. Stones **hurl**ed afar, doors **thrust** open. Crowds **shove**d forward, ropes **jerk**ed tight. Tools **wrench**ed free, cold made men **shiver**. Bows **quiver**ed, papers **shred**ded. Boots **tread** paths, pilgrims **trek**ked on. Thieves **sneak**ed past, frogs **hop**ped free. The lame **limp**ed home, streams **trickle**d by. Seeds **scatter**ed wide, milk **spill**ed over. Water **splash**ed faces, rain **sprinkle**d fields. Nets **filter**ed fish, scents **permeate**d air. Clothes **soak**ed through, stars **dazzle**d all. Fires **blaze**d bright, gems **glitter**ed softly. Torches **illuminate**d paths, tables **tilt**ed askew. Old men **stoop**ed low, wolves **devour**ed prey. Teeth **crunch**ed bones, shoulders **shrug**ged off woes. Fury **unleash**ed chaos, doors **slam**med shut. Fingers **pinch**ed noses, tales **elicit**ed gasps. Claws **rip**ped flesh, lies **strip**ped bare.
+Swords <u>**swipe**d foes</u>, shields <u>**smash**ed apart</u>. Fists <u>**punch**ed through</u>, fingers <u>**poke**d eyes</u>. 
+ 
+Blades <u>**stab**bed deep</u>, arrows <u>**pierce**d armor</u>. 
+
+Hands **clasp**ed <u>in prayer</u>, friends <u>**cling** to</u> hope. Men <u>**heave**d stones</u>, flags <u>**hoist**ed high</u>. 
+
+Boys <u>**toss**ed pebbles</u>, lovers <u>**fling** notes</u>. Stones <u>**hurl**ed afar</u>, doors **thrust** open. Crowds <u>**shove**d forward</u>, ropes <u>**jerk**ed tight</u>. 
+
+Tools <u>**wrench**ed free</u>,  cold made men **shiver**. Bows **quiver**ed, papers **shred**ded. 
+
+Boots <u>**tread** paths</u>, pilgrims <u>**trek**ked on</u>. Thieves <u>**sneak**ed past</u>, frogs **hop**ped free. The lame <u>**limp**ed home</u>, streams <u>**trickle**d by</u>. 
+
+Seeds <u>**scatter**ed wide</u>, milk <u>**spill**ed over</u>. 
+
+Water **splash**ed faces, rain <u>**sprinkle**d fields</u>. Nets **filter**ed fish, scents <u>**permeate**d air</u>. Clothes **soak**ed through, stars <u>**dazzle**d all</u>. Fires <u>**blaze**d bright</u>, gems <u>**glitter**ed softly</u>. Torches <u>**illuminate**d paths</u>, tables <u>**tilt**ed askew</u>. 
+
+Old men <u>**stoop**ed low</u>, wolves <u>**devour**ed prey</u>. Teeth <u>**crunch**ed bones</u>, shoulders <u>**shrug**ged off woes</u>. Fury <u>**unleash**ed chaos</u>, doors <u>**slam**med shut</u>. Fingers <u>**pinch**ed noses</u>, tales <u>**elicit**ed gasps</u>. Claws <u>**rip**ped flesh</u>, lies <u>**strip**ped bare</u>.
 
 ####  <span style="color: silver;">States of Being
 
