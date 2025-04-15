@@ -203,7 +203,29 @@ Old men <u>**stoop**ed low</u>, wolves <u>**devour**ed prey</u>. Teeth <u>**crun
 
 ####  <span style="color: silver;">States of Being
 
-Life pulsed in states. The **mute** watched, the **sober** judged. The **frantic** fled, the **animate** danced. **Vigorous** youths raced, the **dizzy** swayed. The **weary** rested, **fatigue** cloaking all. The **susceptible** fell ill, the **idle** dreamed. The **desolate** wept, the **numb** stood still. Truths grew **obscure**, the **poised** held firm. Joys were **transient**, tasks **concurrent**. Anger **relent**ed, love **perpetual**. Days strung **consecutive**, memories **linger**ed. Rains were **intermittent**, events **simultaneous**. Plans stayed **pending**, twigs **snap**ped underfoot. **Haste** drove errors, days grew **hectic**. Hopes felt **eternal**, yet supplies **deficient**. A **sole** survivor stood, the **solitary** mourned. **Bulk** harvests fed, change was **drastic**. Waters **cleanse**d wounds, limbs grew **stiff**. Some were **prone** to folly, homes stayed **intact**. Work grew **tedious**, skies turned **bleak**. Peace was **tranquil**, spires stood **erect**.
+Life <u>pulsed in</u> states. 
+
+The **mute** watched, the **sober** judged. 
+
+The **frantic** fled, the **animate** danced. **Vigorous** youths raced, the **dizzy** swayed. The **weary** rested, **fatigue** <u>cloaking all</u>. 
+
+The **susceptible** fell ill, the **idle** dreamed. 
+
+The **desolate** wept, the **numb** <u>stood still</u>. Truths<u> grew **obscure**</u>, the **poised** held firm. 
+
+Joys were **transient**, tasks **concurrent**.
+
+Anger **relent**ed, love **perpetual**. 
+
+Days strung **consecutive**, memories **linger**ed. Rains were **intermittent**, events **simultaneous**. Plans <u>stayed **pending**</u>, twigs **snap**ped underfoot. 
+
+**Haste** <u>drove errors</u>, days <u>grew **hectic**</u>. Hopes felt **eternal**, yet supplies **deficient**. 
+
+A **sole** survivor stood, the **solitary** mourned. **Bulk** harvests fed, change was **drastic**. 
+
+Waters <u>**cleanse**d wounds</u>, limbs grew **stiff**. Some <u>were **prone** to</u> folly, homes <u>stayed **intact**</u>. Work grew **tedious**, skies turned **bleak**. 
+
+Peace was **tranquil**, spires stood **erect**.
 
 ####  <span style="color: silver;">The Measure of Quality
 
@@ -212,6 +234,109 @@ Virtues defined souls. **Merit** earned praise, **norm**s guided all. **Integrit
 ####  <span style="color: silver;">Beyond the Veil
 
 Life spanned a vast **realm**, joys in every **vicinity**. Limbs **stretch**ed free, quotas met each **quota**. **Excess** wasted much, a **chunk** of gold awed. The **frontier** called, homes sat **adjacent**. **Rural** fields bloomed, the **outskirts** rested. A **venue** hosted feasts, life teetered on the **margin**. The **fringe** watched, the **verge** loomed near. An **instant** changed all, time **elapse**d slowly. A **session** debated fate, the **interim** dragged. Some **lag**ged behind, the **medieval** defined them. **Hitherto**, all endured, lessons **prior** to now. Events **precede**d dawn, steps were **preliminary**. Change felt **imminent**, a new age beckoned.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

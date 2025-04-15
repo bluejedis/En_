@@ -1399,36 +1399,57 @@ bold /bəʊld/ adj. 大胆的
 
 + mute /mjuːt/ adj. 哑的
 + sober /ˈsəʊbə/ adj. 清醒的
+<br>
+
 + frantic /ˈfræntɪk/ adj. 狂乱的
 + animate /ˈænɪmeɪt/ adj. 有生命的
 + vigorous /ˈvɪɡərəs/ adj. 有力的
 + dizzy /ˈdɪzi/ adj. 头晕的
 + weary /ˈwɪəri/ adj. 疲倦的
 + fatigue /fəˈtiːɡ/ n. 疲劳
+<br>
+
 + susceptible /səˈsɛptɪbl/ adj. 易受影响的
 + idle /ˈaɪdl/ adj. 闲置的
+<br>
+
 + desolate /ˈdɛsələt/ adj. 荒凉的
 + numb /nʌm/ adj. 麻木的
 + obscure /əbˈskjʊə/ adj. 模糊的
 + poised /pɔɪzd/ adj. 泰然自若的
+<br>
+
 + transient /ˈtrænziənt/ adj. 短暂的
 + concurrent /kənˈkʌrənt/ adj. 并发的
+<br>
+
 + relent /rɪˈlɛnt/ v. 变温和
 + perpetual /pəˈpɛtʃʊəl/ adj. 永久的
+<br>
+twig / twɪɡ / n. 小枝；血管小支 v. 理解，领悟
+
 + consecutive /kənˈsɛkjʊtɪv/ adj. 连续的
 + linger /ˈlɪŋɡə/ v. 徘徊
 + intermittent /ˌɪntəˈmɪtənt/ adj. 间歇的
 + simultaneous /ˌsɪməlˈteɪnɪəs/ adj. 同时的
 + pending /ˈpɛndɪŋ/ adj. 待定的
 + snap /snæp/ v. 折断
+<br>
+
 + haste /heɪst/ n. 匆忙
 + hectic /ˈhɛktɪk/ adj. 忙乱的
 + eternal /ɪˈtɜːnəl/ adj. 永恒的
 + deficient /dɪˈfɪʃənt/ adj. 不足的
+<br>
+
 + sole /səʊl/ adj. 唯一的
 + solitary /ˈsɒlɪtəri/ adj. 孤独的
 + bulk /bʌlk/ n. 大量
 + drastic /ˈdræstɪk/ adj. 激烈的
+<br>
+
+spire /spaɪə/ n.塔尖 v. 突出
+
 + cleanse /klɛnz/ v. 清洁
 + stiff /stɪf/ adj. 僵硬的
 + prone /prəʊn/ adj. 易于

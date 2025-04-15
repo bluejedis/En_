@@ -239,7 +239,27 @@
 
 #### 存在的状态
 
-生命在状态中脉动。**mute**(沉默的)注视，**sober**(清醒的)判断。**frantic**(狂乱的)逃跑，**animate**(有生命的)起舞。**Vigorous**(充满活力的)青年奔跑，**dizzy**(眩晕的)摇晃。**weary**(疲惫的)休息，**fatigue**(疲劳)笼罩一切。**susceptible**(易感的)生病，**idle**(闲散的)梦想。**desolate**(荒凉的)哭泣，**numb**(麻木的)站立不动。真相变得**obscure**(模糊)，**poised**(镇定的)坚定。欢乐是**transient**(短暂的)，任务**concurrent**(并发的)。愤怒**relent**(缓和)，爱**perpetual**(永恒)。日子**consecutive**(连续的)，记忆**linger**(徘徊)。雨水**intermittent**(断续的)，事件**simultaneous**(同时的)。计划保持**pending**(待定的)，树枝在脚下**snap**(折断)。**Haste**(匆忙)导致错误，日子变得**hectic**(忙乱)。希望感觉**eternal**(永恒)，但供应**deficient**(不足)。**sole**(唯一的)幸存者站立，**solitary**(孤独的)哀悼。**Bulk**(大量的)收成养活，变化是**drastic**(剧烈的)。水**cleanse**(清洁)伤口，四肢变得**stiff**(僵硬)。一些人**prone**(易于)犯错，房屋保持**intact**(完好)。工作变得**tedious**(乏味)，天空转为**bleak**(阴郁)。和平是**tranquil**(宁静的)，尖塔**erect**(直立)。
+生命<u>在</u> 状态 <u>中</u> <u>脉动</u>。
+
+**mute**(沉默的)注视，**sober**(清醒的)判断。
+
+**frantic**(狂乱的)逃跑，**animate**(有生命的)起舞。**Vigorous**(充满活力的)青年奔跑，**dizzy**(眩晕的)摇晃。**weary**(疲惫的)休息，**fatigue**(疲劳)笼罩一切。
+
+**susceptible**(易感的)生病，**idle**(闲散的)梦想。
+
+**desolate**(荒凉的)哭泣，**numb**(麻木的)站立不动。真相变得**obscure**(模糊)，**poised**(镇定的)坚定。
+
+欢乐是**transient**(短暂的)，任务**concurrent**(同时的)。
+
+愤怒**relent**(缓和)，爱**perpetual**(永恒)。
+
+日子**consecutive**(连续的)，记忆**linger**(徘徊)。雨水**intermittent**(断续的)，事件**simultaneous**(同时的)。计划保持**pending**(待定的)，树枝在脚下**snap**(折断)。
+
+**Haste**(匆忙)导致错误，日子变得**hectic**(忙乱)。希望感觉**eternal**(永恒)，但供应**deficient**(不足)。
+
+**sole**(唯一的)幸存者站立，**solitary**(孤独的)哀悼。**Bulk**(大量的)收成养活，变化是**drastic**(剧烈的)。
+
+水**cleanse**(清洁)伤口，四肢变得**stiff**(僵硬)。一些人**prone**(易于)犯错，房屋保持**intact**(完好)。工作变得**tedious**(乏味)，天空转为**bleak**(阴郁)。和平是**tranquil**(宁静的)，（教堂的）尖塔**erect**(直立)。
 
 #### 品质的尺度
 
