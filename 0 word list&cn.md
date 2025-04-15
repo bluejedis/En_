@@ -1466,18 +1466,28 @@ spire /spaɪə/ n.塔尖 v. 突出
 
 + merit /ˈmɛrɪt/ n. 优点
 + norm /nɔːm/ n. 规范
+<br>
+
 + integrity /ɪnˈtɛɡrɪti/ n. 正直
 + frank /fræŋk/ adj. 坦白的
 + brisk /brɪsk/ adj. 轻快的
 + wary /ˈweəri/ adj. 谨慎的
 + humble /ˈhʌmbl/ adj. 谦逊的
 + sophisticated /səˈfɪstɪkeɪtɪd/ adj. 老练的
+<br>
+thrive /θraɪv/ v. 兴旺
+prosper /ˈprɑːspə/ v. 兴旺
+flaw /flɔː/ n. 缺点
+
 + competent /ˈkɒmpɪtənt/ adj. 有能力的
 + thrift /θrɪft/ n. 节俭
 + ingenious /ɪnˈdʒiːnjəs/ adj. 巧妙的
 + arrogant /ˈærəɡənt/ adj. 傲慢的
 + complacent /kəmˈpleɪsənt/ adj. 自满的
 + complacency /kəmˈpleɪsənsi/ n. 自满
+<br>
+sneer /snɪə/ v. 蔑视，冷笑
+
 + shrewd /ʃruːd/ adj. 精明的
 + brutal /ˈbruːtl/ adj. 残忍的
 + snobbish /ˈsnɒbɪʃ/ adj. 势利的
@@ -1490,6 +1500,8 @@ spire /spaɪə/ n.塔尖 v. 突出
 
 + realm /rɛlm/ n. 领域
 + vicinity /vɪˈsɪnɪti/ n. 附近
+<br>
+
 + stretch /strɛtʃ/ v. 伸展
 + quota /ˈkwəʊtə/ n. 配额
 + excess /ɪkˈsɛs/ n. 过量

@@ -229,11 +229,21 @@ Peace was **tranquil**, spires stood **erect**.
 
 ####  <span style="color: silver;">The Measure of Quality
 
-Virtues defined souls. **Merit** earned praise, **norm**s guided all. **Integrity** shone, words were **frank**. Steps were **brisk**, eyes **wary**. The **humble** bowed, the **sophisticated** charmed. The **competent** built, **thrift** saved much. **Ingenious** minds thrived, the **arrogant** fell. **Complacent** lords dozed, **complacency** their flaw. The **shrewd** prospered, the **brutal** feared. The **snobbish** sneered, the **partisan** divided.
+Virtues defined souls. 
+
+**Merit** earned praise, **norm**s guided all. 
+
+**Integrity** shone, words were **frank**. Steps were **brisk**, eyes **wary**. The **humble** bowed, the **sophisticated** charmed. 
+
+The **competent** built, **thrift** saved much. **Ingenious** minds <u>thrive</u>d, the **arrogant** fell. **Complacent** lords dozed, **complacency** their <u>flaw</u>. 
+
+The **shrewd** prospered, the **brutal** feared. The **snobbish** sneered, the **partisan** divided.
 
 ####  <span style="color: silver;">Beyond the Veil
 
-Life spanned a vast **realm**, joys in every **vicinity**. Limbs **stretch**ed free, quotas met each **quota**. **Excess** wasted much, a **chunk** of gold awed. The **frontier** called, homes sat **adjacent**. **Rural** fields bloomed, the **outskirts** rested. A **venue** hosted feasts, life teetered on the **margin**. The **fringe** watched, the **verge** loomed near. An **instant** changed all, time **elapse**d slowly. A **session** debated fate, the **interim** dragged. Some **lag**ged behind, the **medieval** defined them. **Hitherto**, all endured, lessons **prior** to now. Events **precede**d dawn, steps were **preliminary**. Change felt **imminent**, a new age beckoned.
+Life spanned a vast **realm**, joys in every **vicinity**. 
+
+Limbs **stretch**ed free, quotas met each **quota**. **Excess** wasted much, a **chunk** of gold awed. The **frontier** called, homes sat **adjacent**. **Rural** fields bloomed, the **outskirts** rested. A **venue** hosted feasts, life teetered on the **margin**. The **fringe** watched, the **verge** loomed near. An **instant** changed all, time **elapse**d slowly. A **session** debated fate, the **interim** dragged. Some **lag**ged behind, the **medieval** defined them. **Hitherto**, all endured, lessons **prior** to now. Events **precede**d dawn, steps were **preliminary**. Change felt **imminent**, a new age beckoned.
 
 
 <br>

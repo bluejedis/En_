@@ -263,7 +263,13 @@
 
 #### 品质的尺度
 
-美德定义灵魂。**Merit**(功绩)赢得赞誉，**norm**(规范)指导一切。**Integrity**(正直)闪耀，言辞**frank**(坦率)。步伐**brisk**(轻快)，眼神**wary**(警惕)。**humble**(谦逊的)低头，**sophisticated**(老练的)迷人。**competent**(能干的)建造，**thrift**(节俭)节省甚多。**Ingenious**(聪明的)头脑繁荣，**arrogant**(傲慢的)倒下。**Complacent**(自满的)领主打盹，**complacency**(自满)是其缺陷。**shrewd**(精明的)兴旺，**brutal**(残忍的)令人畏惧。**snobbish**(势利的)冷笑，**partisan**(偏袒的)分裂。
+美德定义灵魂。
+
+**Merit**(功绩)赢得赞誉，**norm**(规范)指导一切。**Integrity**(正直)闪耀，言辞**frank**(坦率)。步伐**brisk**(轻快)，眼神**wary**(警惕)。**humble**(谦逊的)低头，**sophisticated**(老练的)迷人。
+
+**competent**(能干的)建造，**thrift**(节俭)节省甚多。**Ingenious**(聪明的)头脑繁荣，**arrogant**(傲慢的)倒下。**Complacent**(自满的)领主打盹，**complacency**(自满)是其缺陷。
+
+**shrewd**(精明的)兴旺，**brutal**(残忍的)令人畏惧。**snobbish**(势利的)冷笑，**partisan**(偏袒的)分裂。
 
 #### 面纱之外
 
