@@ -273,7 +273,19 @@
 
 #### 面纱之外
 
-生命跨越广阔的**realm**(领域)，欢乐遍布每个**vicinity**(附近)。四肢**stretch**(伸展)自由，每个**quota**(配额)达成目标。**Excess**(过量)浪费甚多，**chunk**(大块)黄金令人惊叹。**frontier**(边疆)召唤，房屋**adjacent**(毗邻)。**Rural**(乡村的)田野绽放，**outskirts**(郊区)休息。**venue**(场地)举办盛宴，生活在**margin**(边缘)摇摆。**fringe**(边缘)注视，**verge**(边缘)逼近。**instant**(瞬间)改变一切，时间**elapse**(流逝)缓慢。**session**(会议)讨论命运，**interim**(过渡期)拖延。一些人**lag**(落后)，**medieval**(中世纪的)定义他们。**Hitherto**(迄今)，一切忍受，**prior**(之前的)教训。事件**precede**(先于)黎明，步伐是**preliminary**(初步的)。变革感觉**imminent**(即将来临)，新时代召唤。
+生命跨越广阔的**realm**(领域)，欢乐遍布每个**vicinity**(附近) （无处不在）。
+
+四肢**stretch**(伸展)自由，每个**quota**(配额)达成目标。
+
+**Excess**(过量)浪费甚多，**chunk**(大量)黄金令人惊叹。**frontier**(边疆)召唤，房屋**adjacent**(毗邻)。
+
+**Rural**(乡村的)田野绽放，**outskirts**(郊区)休息。**venue**(场地)<u>举办盛宴</u>，生活在**margin**(边缘)摇摆。**fringe**(边缘)注视，**verge**(边缘)<u>逼近</u>。
+
+**instant**(瞬间)改变一切，时间<u>**elapse**(流逝)缓慢</u>。**session**(会议)<u>讨论命运</u>，**interim**(过渡期)拖延。一些人**lag**(落后)，**medieval**(中世纪的)定义他们。
+
+**Hitherto**(迄今)，一切忍受，**prior**(先前的)教训。事件<u>**precede**(先于)黎明</u>，步伐是**preliminary**(初步的)。
+
+变革感觉**imminent**(即将来临)，新时代召唤。
 
 ---
 

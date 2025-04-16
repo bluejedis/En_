@@ -1508,22 +1508,37 @@ sneer /snɪə/ v. 蔑视，冷笑
 + chunk /tʃʌŋk/ n. 大块
 + frontier /ˈfrʌntɪə/ n. 边界
 + adjacent /əˈdʒeɪsənt/ adj. 邻近的
+<br>
+
+
 + rural /ˈrʊərəl/ adj. 农村的
 + outskirts /ˈaʊtskɜːts/ n. 郊区
 + venue /ˈvɛnjuː/ n. 场地
+<br>
+
+teeter /ˈtiːtə/ v. 摇晃，摇摆不定，摇摇欲坠
+loom /luːm/ v. 隐约出现，逼近
 + margin /ˈmɑːʤɪn/ n. 边缘
 + fringe /frɪnʤ/ n. 边缘
 + verge /vɜːʤ/ n. 边缘
+<br>
+
+drag /dræɡ/ v. 拖，拉
 + instant /ˈɪnstənt/ n. 瞬间
 + elapse /ɪˈlæps/ v. 流逝
 + session /ˈsɛʃən/ n. 会议
 + interim /ˈɪntərɪm/ n. 过渡时期
 + lag /læɡ/ v. 落后
 + medieval /ˌmɛdɪˈiːvəl/ adj. 中世纪的
+<br>
+
 + hitherto /ˌhɪðəˈtuː/ adv. 迄今
 + prior /ˈpraɪə/ adj. 之前的
 + precede /prɪˈsiːd/ v. 在...之前
 + preliminary /prɪˈlɪmɪnəri/ adj. 初步的
+<br>
+
+beckon /ˈbekən/ v. 招手示意
 + imminent /ˈɪmɪnənt/ adj. 即将发生的
 
 

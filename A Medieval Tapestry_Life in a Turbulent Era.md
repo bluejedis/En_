@@ -243,7 +243,17 @@ The **shrewd** prospered, the **brutal** feared. The **snobbish** sneered, the *
 
 Life spanned a vast **realm**, joys in every **vicinity**. 
 
-Limbs **stretch**ed free, quotas met each **quota**. **Excess** wasted much, a **chunk** of gold awed. The **frontier** called, homes sat **adjacent**. **Rural** fields bloomed, the **outskirts** rested. A **venue** hosted feasts, life teetered on the **margin**. The **fringe** watched, the **verge** loomed near. An **instant** changed all, time **elapse**d slowly. A **session** debated fate, the **interim** dragged. Some **lag**ged behind, the **medieval** defined them. **Hitherto**, all endured, lessons **prior** to now. Events **precede**d dawn, steps were **preliminary**. Change felt **imminent**, a new age beckoned.
+Limbs **stretch**ed free, quotas met each **quota**. 
+
+**Excess** wasted much, <u>a **chunk** of</u> gold awed. The **frontier** called, homes sat **adjacent**. 
+
+**Rural** fields bloomed, the **outskirts** rested. A **venue** <u>hosted feasts</u>, life teetered <u>on the **margin**</u>. The **fringe** watched, the **verge** <u>loomed near</u>. 
+
+An **instant** changed all, time <u>**elapse**d slowly</u>. A **session** <u>debated fate</u>, the **interim** dragged. Some <u>**lag**ged behind</u>, the **medieval** defined them. 
+
+**Hitherto**, all endured, lessons <u>**prior** to now</u>. Events <u>**precede**d dawn</u>, steps were **preliminary**. 
+
+Change felt **imminent**, a new age <u>beckon</u>ed.
 
 
 <br>
