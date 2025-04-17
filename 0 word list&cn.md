@@ -1566,6 +1566,7 @@ arid  /ˈærɪd/ adj. 干燥的，干旱的
 + carbohydrate /ˌkɑːbəʊˈhaɪdreɪt/ n. 碳水化合物
 + protein /ˈprəʊtiːn/ n. 蛋白质
 + cholesterol /kəˈlɛstərɒl/ n. 胆固醇
+
 <br>
 
 + beverage /ˈbɛvərɪʤ/ n. 饮料
@@ -1573,12 +1574,16 @@ arid  /ˈærɪd/ adj. 干燥的，干旱的
 + champagne /ʃæmˈpeɪn/ n. 香槟
 + ale /eɪl/ n. 麦芽酒
 + cocktail /ˈkɒkteɪl/ n. 鸡尾酒
+
+
+
 <br>
 
 + steak /steɪk/ n. 牛排
 + olive /ˈɒlɪv/ n. 橄榄
 + pudding /ˈpʊdɪŋ/ n. 布丁
 + peanut /ˈpiːnʌt/ n. 花生
+
 <br>
 
 + cracker /ˈkrækə/ n. 饼干
@@ -1586,13 +1591,30 @@ arid  /ˈærɪd/ adj. 干燥的，干旱的
 + stir /stɜː/ v. 搅拌
 + grill /ɡrɪl/ v. 烧烤
 
+
+
 <br>
+
 + jar /ʤɑː/ n. 罐子
 + mug /mʌɡ/ n. 杯子
 + tray /treɪ/ n. 托盘
 + dairy /ˈdeəri/ n. 乳制品
 
 
+
+---
+
+I want to buy a couple of jars and mugs serving with a tray from Turkey for brewing coffee with dairy.
+
+Pastries grilled under the tree , I stir the espresso with a cracker.
+
+Compared to peanuts on the pudding , I prefer the steak cooked with olive oil.
+
+Among the beverages , I dislike liquor most,no matter it's champagne , ale or cocktail.
+
+With the porridge -rich in carbohydrate and protain ,boiling in the pot ,I enjoy kneading the dough into the pasta or spaggetti.
+
+---
 
 ### 补2 服饰
 
