@@ -1545,9 +1545,20 @@ beckon /ˈbekən/ v. 招手示意
 
 ### 补1 饮食
 
+ponder /ˈpɑːndər/ v. 思考
+crunchy /ˈkrʌntʃi/ adj. 嘎吱作响的,脆的
+humble /ˈhʌmbl/ adj. 谦逊的,朴素的，粗陋的，卑下的
+staple /ˈsteɪpl/ n. 主食
 
 + luncheon /ˈlʌnʧən/ n. 午餐
 + cereal /ˈsɪərɪəl/ n. 谷物
+<br>
+
+knead /niːd/ v. 揉
+twirl /twɜːrl/ v. 拧
+arid  /ˈærɪd/ adj. 干燥的，干旱的
+
+
 + dough /dəʊ/ n. 面团
 + pasta /ˈpæstə/ n. 意大利面
 + spaghetti /spəˈɡɛti/ n. 意大利细面条
@@ -1555,19 +1566,27 @@ beckon /ˈbekən/ v. 招手示意
 + carbohydrate /ˌkɑːbəʊˈhaɪdreɪt/ n. 碳水化合物
 + protein /ˈprəʊtiːn/ n. 蛋白质
 + cholesterol /kəˈlɛstərɒl/ n. 胆固醇
+<br>
+
 + beverage /ˈbɛvərɪʤ/ n. 饮料
 + liquor /ˈlɪkə/ n. 酒
 + champagne /ʃæmˈpeɪn/ n. 香槟
 + ale /eɪl/ n. 麦芽酒
 + cocktail /ˈkɒkteɪl/ n. 鸡尾酒
+<br>
+
 + steak /steɪk/ n. 牛排
 + olive /ˈɒlɪv/ n. 橄榄
 + pudding /ˈpʊdɪŋ/ n. 布丁
 + peanut /ˈpiːnʌt/ n. 花生
+<br>
+
 + cracker /ˈkrækə/ n. 饼干
 + pastry /ˈpeɪstri/ n. 糕点
 + stir /stɜː/ v. 搅拌
 + grill /ɡrɪl/ v. 烧烤
+
+<br>
 + jar /ʤɑː/ n. 罐子
 + mug /mʌɡ/ n. 杯子
 + tray /treɪ/ n. 托盘
