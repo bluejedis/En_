@@ -1612,11 +1612,22 @@ Compared to peanuts on the pudding , I prefer the steak cooked with olive oil.
 
 Among the beverages , I dislike liquor most,no matter it's champagne , ale or cocktail.
 
+---
+
 With the porridge -rich in carbohydrate and protain ,boiling in the pot ,I enjoy kneading the dough into the pasta or spaggetti.
 
 ---
 
 ### 补2 服饰
+
+modest /ˈmɒdɪst/ adj. 谦逊的，朴素的
+beige /ˈbeɪʒ/ n. 米色
+weathered /ˈweðərd/ adj. 风化的
+sturdy /ˈstɜːdi/ adj. 结实的
+<br>
+
+
+
 
 
 + outfit /ˈaʊtfɪt/ n. 装束
@@ -1627,10 +1638,24 @@ With the porridge -rich in carbohydrate and protain ,boiling in the pot ,I enjoy
 + patch /pæʧ/ n. 补丁
 + linen /ˈlɪnɪn/ n. 亚麻布
 + woolen /ˈwʊlən/ adj. 羊毛的
+
+<br>
+
+adorn /əˈdɔːrn/ v. 装饰
+attire /əˈtaɪə/ n. 服装
+
 + embroidery /ɪmˈbrɔɪdəri/ n. 刺绣
 + lace /leɪs/ n. 蕾丝
+
+<br>
+
 + ragged /ˈræɡɪd/ adj. 破烂的
 + slipper /ˈslɪpə/ n. 拖鞋
+<br>
+
+hue /juː/ n. 色调,色相，色素
+pendant /ˈpendənt/ n. 傍挂物,垂饰
+
 + dye /daɪ/ v. 染色
 + accessory /əkˈsɛsəri/ n. 配件
 + strap /stræp/ n. 带子
@@ -1640,12 +1665,18 @@ With the porridge -rich in carbohydrate and protain ,boiling in the pot ,I enjoy
 
 ### 补3 娱乐
 
+musing /ˈmjuːsɪŋ/ n. 思考，沉思，遐想，冥想
+saga /ˈseɪɡə/ n. 传奇，叙事文学
+
+cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 
 + dart /dɑːt/ n. 飞镖
 + casino /kəˈsiːnəʊ/ n. 赌场
 + lottery /ˈlɒtəri/ n. 彩票
-+ spade /speɪd/ n. 黑桃
-+ canvas /ˈkænvəs/ n. 帆布
++ spade /speɪd/ n. 黑桃，铲子v. 挖
+<br>
+
++ canvas /ˈkænvəs/ n. 帆布，画布
 + yacht /jɒt/ n. 游艇
 + canoe /kəˈnuː/ n. 独木舟
 
