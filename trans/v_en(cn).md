@@ -299,7 +299,7 @@
 
 这些遐想为《星球大战》奠定了舞台，一部<u>传奇</u>， (那里) (进行)娱乐(行为) 如酒吧中的**darts**(飞镖)、**casino**(赌场)中的赌注，或**lottery**(彩票)中奖 (都)可能引发冒险  —— 或许在**spade**(铲/黑桃)形的**canvas**(帆布)帆的**yacht**(游艇) 或 <u>漂浮在太空中</u>的**canoe**(独木舟)上。
 
-卢克，作为命运的**apprentice**(学徒)，在像R2-D2这样的**aide**(助手)协助下，从智慧的**superintendent**(管理者)欧比旺·克诺比（Obi-Wan Kenobi）那里学习。他的道路不像**barber**(理发师)、**vendor**(小贩)或**plumber**(水管工)，而是驾驶类似**glider**(滑翔机)的X翼战机，由**colonel**(上校)、**lieutenant**(中尉)、**sergeant**(中士)或**corporal**(下士)等军衔指引。作为**scout**(侦察员)和最终的**warrior**(战士)，有像C-3PO这样的**steward**(管家)陪伴，卢克的旅程开始了——一个刻在他**flesh**(肉体)中的故事，贯穿每个**limb**(肢体)，从**gum**(牙龈)到**jaw**(下巴)、**chin**(下巴)到**spine**(脊椎)，下至**ribs**(肋骨)、**palm**(手掌)和**thumb**(拇指)，他的**belly**(腹部)充满决心翻腾，他的**glands**(腺体)、**kidneys**(肾脏)和**bowels**(肠道)稳住他的**tract**(消化道)，甚至他的**butt**(臀部)和**thighs**(大腿)为行动绷紧，他的**arteries**(动脉)随着炽热的**metabolism**(新陈代谢)脉动，远非**corpse**(尸体)的静止。
+卢克，作为命运的**apprentice**(学徒)，在像R2-D2这样的**aide**(助手)协助下，从智慧的**superintendent**(管理者)欧比旺·克诺比（Obi-Wan Kenobi）那里学习。他的道路不像**barber**(理发师)、**vendor**(小贩)或**plumber**(水管工)，而是驾驶类似**glider**(滑翔机)的X翼战机，由**colonel**(上校)、**lieutenant**(中尉)、**sergeant**(中士)或**corporal**(下士)等军衔指引。作为**scout**(侦察员)和最终的**warrior**(战士)，有像C-3PO这样的**steward**(管家)陪伴，卢克的旅程开始了——一个<u>刻在</u>他**flesh**(肉体)中的故事，贯穿每个**limb**(肢体)，从**gum**(牙龈)到**jaw**(下巴)、**chin**(下巴)到**spine**(脊椎)，下至**ribs**(肋骨)、**palm**(手掌)和**thumb**(拇指)，他的**belly**(腹部)<u>充满</u>决心翻腾，他的**glands**(腺体)、**kidneys**(肾脏)和**bowels**(肠道)稳住他的**tract**(消化道)，甚至他的**butt**(臀部)和**thighs**(大腿)为行动绷紧，他的**arteries**(动脉)随着炽热的**metabolism**(新陈代谢)脉动，远非**corpse**(尸体)的静止。
 
 #### 第一章：冲突的动物园
 

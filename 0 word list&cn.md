@@ -1687,17 +1687,26 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 
 + apprentice /əˈprɛntɪs/ n. 学徒
 + aide /eɪd/ n. 助手
+<br>
+
 + superintendent /ˌsuːpərɪnˈtɛndənt/ n. 主管
 + barber /ˈbɑːbə/ n. 理发师
 + vendor /ˈvɛndə/ n. 小贩
+<br>
+
 + plumber /ˈplʌmə/ n. 水管工
 + glider /ˈɡlaɪdə/ n. 滑翔机
+
+<br>
+
 + colonel /ˈkɜːnəl/ n. 上校
 + lieutenant /lɛfˈtɛnənt/ n. 中尉
 + sergeant /ˈsɑːʤənt/ n. 军士
 + corporal /ˈkɔːpərəl/ n. 下士
 + scout /skaʊt/ n. 侦察员
 + warrior /ˈwɒrɪə/ n. 战士
+
+<br>
 + steward /ˈstjuːəd/ n. 乘务员
 
 
@@ -1707,22 +1716,35 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 
 + flesh /flɛʃ/ n. 肉体
 + limb /lɪm/ n. 四肢
+<br>
+
 + gum /ɡʌm/ n. 牙龈
 + jaw /ʤɔː/ n. 下巴
 + chin /ʧɪn/ n. 下颌
+<br>
+
 + spine /spaɪn/ n. 脊柱
 + rib /rɪb/ n. 肋骨
 + palm /pɑːm/ n. 手掌
 + thumb /θʌm/ n. 拇指
 + belly /ˈbɛli/ n. 腹部
 + gland /ɡlænd/ n. 腺体
+
+<br>
+
 + kidney /ˈkɪdni/ n. 肾脏
 + bowel /ˈbaʊəl/ n. 肠
 + tract /trækt/ n. 道
+
+<br>
+
 + butt /bʌt/ n. 臀部
 + thigh /θaɪ/ n. 大腿
 + artery /ˈɑːtəri/ n. 动脉
 + metabolism /mɪˈtæbəlɪzəm/ n. 新陈代谢
+
+<br>
+
 + corpse /kɔːps/ n. 尸体
 
 
@@ -1734,17 +1756,27 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 + cub /kʌb/ n. 幼兽
 + ox /ɒks/ n. 公牛
 + ape /eɪp/ n. 猿
+
+<br>
+
 + hound /haʊnd/ n. 猎犬
 + mule /mjuːl/ n. 骡子
 + crane /kreɪn/ n. 鹤
+
+<br>
 + crow /krəʊ/ n. 乌鸦
 + parrot /ˈpærət/ n. 鹦鹉
 + pigeon /ˈpɪʤɪn/ n. 鸽子
 + snail /sneɪl/ n. 蜗牛
+
+<br>
+
 + hum /hʌm/ v. 嗡嗡叫
 + antenna /ænˈtɛnə/ n. 触角
 + flutter /ˈflʌtə/ v. 拍动
 + hatch /hæʧ/ v. 孵化
+<br>
+
 + perch /pɜːʧ/ v. 栖息
 + oak /əʊk/ n. 橡树
 + weed /wiːd/ n. 杂草
@@ -1759,16 +1791,24 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 + gadget /ˈɡæʤɪt/ n. 小工具
 + textile /ˈtɛkstaɪl/ n. 纺织品
 + stationery /ˈsteɪʃənəri/ n. 文具
+<br>
+
 + towel /ˈtaʊəl/ n. 毛巾
 + tub /tʌb/ n. 浴缸
 + cosmetic /kɒzˈmɛtɪk/ n. 化妆品
 + lotion /ˈləʊʃən/ n. 乳液
 + detergent /dɪˈtɜːʤənt/ n. 洗涤剂
+
+<br>
+
 + sack /sæk/ n. 麻袋
 + apron /ˈeɪprən/ n. 围裙
 + voucher /ˈvaʊʧə/ n. 代金券
 + token /ˈtəʊkən/ n. 代币
 + coupon /ˈkuːpɒn/ n. 优惠券
+
+<br>
+
 + parcel /ˈpɑːsəl/ n. 包裹
 + lens /lɛnz/ n. 镜片
 + cushion /ˈkʊʃən/ n. 垫子
@@ -1781,18 +1821,27 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 + broom /bruːm/ n. 扫帚
 + mop /mɒp/ n. 拖把
 + barrel /ˈbærəl/ n. 桶
+
+<br>
+
 + stool /stuːl/ n. 凳子
 + rack /ræk/ n. 架子
 + cord /kɔːd/ n. 绳子
 + cane /keɪn/ n. 拐杖
 + ribbon /ˈrɪbən/ n. 丝带
+
+<br>
+
 + atlas /ˈætləs/ n. 地图集
 + cradle /ˈkreɪdl/ n. 摇篮
 + pendulum /ˈpɛndjʊləm/ n. 钟摆
 + tent /tɛnt/ n. 帐篷
 + knob /nɒb/ n. 把手
+
+<br>
+
 + bead /biːd/ n. 珠子
-+ socket /ˈsɒkɪt/ n. 插座
++ socket /ˈsɒkɪt/ n. 插座；套接字
 + jack /ʤæk/ n. 千斤顶
 + ocular /ˈɒkjʊlə/ adj. 眼睛的
 + binoculars /bɪˈnɒkjʊləz/ n. 双筒望远镜
