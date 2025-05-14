@@ -14,9 +14,16 @@ a tale <u>etched into</u> his very **flesh**, moving through every **limb**, fro
 
 ### Chapter 1: A Menagerie of Conflict
 
-The *Star Wars* universe teems with life, from the **crocodile**-like rancor to the **cub** of an Ewok, the **ox**-like bantha, or the **ape**-ish Wookiee. A **hound** might track a **mule** across Tatooine’s dunes, while a **crane** soars above, a **crow** caws ominously, a **parrot** mimics Jabba’s laugh, or a **pigeon** flutters in Coruscant’s spires. Even a **snail**-paced sail barge **hums** with menace, its **antennae** twitching, as creatures **flutter**, **hatch**, and **perch** amid **oaks**, **weeds**, **stumps**, and **thorns**—a vivid ecosystem framing the saga’s epic battles.
+The *Star Wars* universe <u>teems with life</u>, from the **crocodile**-like rancor to the **cub** of an Ewok, the **ox**-like bantha, or the **ape**-ish Wookiee. A **hound** might track a **mule** across Tatooine’s dunes, while a **crane** <u>soars above</u>, a **crow** <u>caws ominously</u>, a **parrot** <u>mimics Jabba’s laugh</u>, or a **pigeon** <u>flutters in Coruscant’s spires</u>.
 
-Luke’s daily life relied on **gadgets** like droids, **textiles** for clothing, and **stationery** for maps, alongside a **towel** to wipe sweat, a **tub** for washing, and **cosmetics** or **lotions** for rare comfort. A **detergent**-soaked **sack**, an **apron** for chores, a **voucher** or **token** for trade, a **coupon** for supplies, a **parcel** of tools, **lenses** for focus, a **cushion** for rest, and a **sheet** for sleep—all underpinned his resilience. Stored in a **carton**, swept with a **broom**, mopped with a **mop**, or hauled in a **barrel**, his belongings sat on a **stool**, organized on a **rack**, tied with a **cord**, or supported by a **cane**. A **ribbon**-tied **atlas**, a **cradle** of dreams, a **pendulum** of time, a **tent** for shelter, a **knob** to secure, **beads** for trade, a **socket** for power, a **jack** for repairs, and **ocular** aids like **binoculars** sharpened his vision of the stars.
+Even a <u>**snail**-paced</u> sail barge <u>**hums** with menace</u>, its <u>**antennae** twitching</u>, as creatures **flutter**, **hatch**, and **perch** amid **oaks**, **weeds**, **stumps**, and **thorns**—<u>a vivid ecosystem</u> framing the saga’s epic battles.
+
+Luke’s daily life relied on **gadgets** like droids, **textiles** for clothing, and **stationery** for maps, <u>alongside</u> <u>a **towel** to wipe sweat</u>, a **tub** for washing, and **cosmetics** or **lotions** for rare comfort. 
+A <u>**detergent**-soaked</u> **sack**, an **apron** for chores, a **voucher** or **token** for trade, a **coupon** for supplies, a **parcel** of tools, **lenses** for focus, a **cushion** for rest, and a **sheet** for sleep—all <u>underpinned his resilience</u>. 
+
+Stored in a **carton**, swept with a **broom**, mopped with a **mop**, or <u>hauled in</u> a **barrel**, his belongings sat on a **stool**, organized on a **rack**, tied with a **cord**, or supported by a **cane**. 
+
+A <u>**ribbon**-tied</u> **atlas**, a **cradle** of dreams, a **pendulum** of time, a **tent** for shelter, a **knob** to secure, **beads** for trade, a **socket** for power, a **jack** for repairs, and **ocular** aids like **binoculars** <u>sharpened his vision of</u> the stars.
 
 ### Chapter 2: Tools and Structures of Destiny
 

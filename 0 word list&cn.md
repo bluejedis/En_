@@ -1814,6 +1814,8 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 + cushion /ˈkʊʃən/ n. 垫子
 + sheet /ʃiːt/ n. 床单
 
+curtain /ˈkɜːtn/ n. 窗帘
+
 ### 补7 日用 (续)
 
 
@@ -1842,8 +1844,8 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 
 + bead /biːd/ n. 珠子
 + socket /ˈsɒkɪt/ n. 插座；套接字
-+ jack /ʤæk/ n. 千斤顶
-+ ocular /ˈɒkjʊlə/ adj. 眼睛的
++ jack /ʤæk/ n. 千斤顶；插头
++ ocular /ˈɒkjʊlə/ adj. 眼睛的；n.目镜
 + binoculars /bɪˈnɒkjʊləz/ n. 双筒望远镜
 
 
