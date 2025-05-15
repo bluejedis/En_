@@ -1764,6 +1764,7 @@ cantina /kænˈtiːnə/ n. 酒馆，小餐馆
 + crane /kreɪn/ n. 鹤
 
 <br>
+
 + crow /krəʊ/ n. 乌鸦
 + parrot /ˈpærət/ n. 鹦鹉
 + pigeon /ˈpɪʤɪn/ n. 鸽子
@@ -1855,23 +1856,44 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 + appliance /əˈplaɪəns/ n. 器具
 + lamp /læmp/ n. 灯
+
+<br>
+
 + apparatus /ˌæpəˈreɪtəs/ n. 装置
 + ware /weə/ n. 器皿
 + kit /kɪt/ n. 成套工具
+
+<br>
+
 + transistor /trænˈzɪstə/ n. 晶体管
 + lever /ˈliːvə/ n. 杠杆
 + rod /rɒd/ n. 杆
-+ wedge /wɛʤ/ n. 楔子
+
+<br>
+
++ wedge /wɛʤ/ n. 楔子←like 梯形
 + ax /æks/ n. 斧头
 + blade /bleɪd/ n. 刀片
 + scissors /ˈsɪzəz/ n. 剪刀
+
+<br>
+
 + pump /pʌmp/ n. 泵
 + valve /vælv/ n. 阀门
 + hose /həʊz/ n. 软管
+
+<br>
+
 + vessel /ˈvɛsl/ n. 容器
 + slot /slɒt/ n. 狭缝
+
+<br>
+
 + bolt /bəʊlt/ n. 螺栓
 + screw /skruː/ n. 螺丝
+
+<br>
+
 + hinge /hɪnʤ/ n. 铰链
 + pottery /ˈpɒtəri/ n. 陶器
 
