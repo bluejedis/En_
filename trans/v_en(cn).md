@@ -319,11 +319,17 @@
 
 **lever**(杠杆)<u>改变命运</u>，**rod**(杆)引导飞船，**wedge**(楔子)分裂防御，**ax**(斧头)砍倒障碍，**blade**(刀刃)<u>在决斗中交锋</u>，**scissors**(剪刀)<u>修剪多余</u>，**pump**(泵)<u>为引擎加油</u>，**valve**(阀门)<u>调节流量</u>，**hose**(软管)<u>冷却系统</u>，**vessel**(容器)承载希望，**slot**(槽)<u>锁定部件</u>，**bolt**(螺栓)<u>固定盔甲</u>，**screw**(螺丝)<u>拧紧纽带</u>，**hinge**(铰链)开启道路，**pottery**(陶器)<u>承载</u>过去生活的<u>遗迹</u>。
 
-故事跨越由行星组成的**configuration**(结构)，每个行星都有权力的**axis**(轴线)——科洛桑的治理**cornerstone**(基石)、死星的恐怖**auditorium**(礼堂)、或塔图因的生存**arena**(竞技场)。**hut**(小屋)收容卢克，**lodge**(小屋)庇护叛军，**suite**(套房)装饰参议员，**attic**(阁楼)隐藏秘密，**dome**(穹顶)冠冕宫殿，**beams**(横梁)支撑基地，**pillars**(柱子)维护理想，**prop**(支柱)稳定抵抗。叛军在**lounge**(休息室)休息，守卫**porch**(门廊)，围栏**pond**(池塘)，修剪**lawn**(草坪)，清洁**lavatory**(厕所)，点燃**furnace**(炉子)，通风**chimney**(烟囱)，挖掘**shaft**(竖井)，铺设**motel**(汽车旅馆)的瓷砖，驻守**booth**(岗亭)，聚集在**plaza**(广场)，筑坝**dam**(大坝)，挖掘**trench**(战壕)，雕刻**groove**(槽)，储存在**cellar**(地窖)，在**cemetery**(墓地)悼念，在星空的**pyramid**(金字塔)下梦想。
+这部传奇故事<u>在</u>多个**configuration**（排布）星球<u>上展开</u>，每个行星都有<u>权力的**axis**(轴线)</u>——科洛桑的治理**cornerstone**(基石)、死星的恐怖**auditorium**(礼堂)、或塔图因的生存**arena**(竞技场)。
+
+一个**hut**(小屋)收容卢克，**lodge**(小屋)庇护叛军，**suite**(套房)装饰参议员，**attic**(阁楼)隐藏秘密，**dome**(穹顶)<u>冠冕宫殿</u>，**beams**(横梁)支撑基地，**pillars**(柱子)维护理想，**prop**(支柱)稳定抵抗。
+
+叛军在**lounge**(休息室)休息，守卫**porch**(门廊)，围栏**pond**(池塘)，<u>修剪**lawn**(草坪)</u>，清洁**lavatory**(厕所)，<u>点燃**furnace**(炉子)</u>，<u>通风**chimney**(烟囱)</u>，挖掘**shaft**(竖井)，铺设**motel**(汽车旅馆)的瓷砖，<u>驻守**booth**(岗亭)</u>，聚集在**plaza**(广场)，筑坝**dam**(大坝)，挖掘**trench**(战壕)，雕刻**groove**(槽)，储存在**cellar**(地窖)，在**cemetery**(墓地)悼念，<u>在星空的**pyramid**(金字塔)下</u>梦想。
 
 #### 第三章：旅程与战争
 
-卢克在类似**jet**(喷气机)的战机中翱翔，其**cockpit**(驾驶舱)是他的指挥中心，**parachute**(降落伞)是他的后备，不像在**wharf**(码头)的**liner**(客轮)或**dock**(码头)，那里**convoy**(车队)的**barges**(驳船)带着**oars**(桨)漂浮。**compartment**(隔间)隐藏计划，**locomotive**(火车头)助力逃脱，**tunnel**(隧道)隐藏路线，**van**(货车)或**caravan**(商队)运送装备，**trolley**(手推车)或**tram**(电车)移动部队，**saddle**(马鞍)稳定骑手。战争用**rifles**(步枪)、**pistols**(手枪)、**ammunition**(弹药)和**cannons**(大炮)肆虐，由**artillery**(炮兵)支持，尽管有损失的**atrocity**(暴行)。像“侠盗一号”这样的**squad**(小队)、克隆人的**regiment**(团)、叛军的**brigade**(旅)，以**badge**(徽章)标记，在**barracks**(军营)中形成**corps**(军团)，希望的**battalion**(营)，由**comrades**(战友)在**contingent**(分遣队)中团结，通过**manoeuvres**(演习)磨砺。
+卢克在类似**jet**(喷气机)的战机中翱翔，其**cockpit**(驾驶舱)是他的指挥中心，**parachute**(降落伞)是他的<u>后备</u>，不像在**wharf**(码头)的**liner**(客轮)，那里**convoy**(车队)的**barges**(驳船)带着**oars**(桨)漂浮。**compartment**(隔间)隐藏计划，**locomotive**(火车头)<u>助力逃脱</u>，**tunnel**(隧道)<u>隐藏路线</u>，**van**(货车)或**caravan**(商队)<u>运送装备</u>，**trolley**(手推车)或**tram**(电车)<u>移动部队</u>，**saddle**(马鞍)稳定骑手。
+
+战争用**rifles**(步枪)、**pistols**(手枪)、**ammunition**(弹药)和**cannons**(大炮)<u>肆虐</u>，由**artillery**(炮兵)支持，尽管有损失的**atrocity**(暴行)。像“<u>侠盗一号</u>”这样的**squad**(小队)、克隆人的**regiment**(团)、叛军的**brigade**(旅)，以**badge**(徽章)标记，在**barracks**(军营)中形成**corps**(军团)，希望的**battalion**(营)，由**comrades**(战友)在**contingent**(分遣队)中团结，通过**manoeuvres**(演习)磨砺。
 
 传奇的**facets**(面)——光的**dots**(点)、命运的**stripes**(条纹)、胜利的**arcs**(弧线)、命运的**loops**(循环)和飞船的**cylinders**(圆柱)——**evaporate**(蒸发)成传说，留下灵感的**fragments**(碎片)。物质如权力的**nucleus**(核心)、团结的**molecule**(分子)、空气中的**ozone**(臭氧)、疲惫者的**urine**(尿液)、燃料中的**nitrogen**(氮气)、大厅中的**marble**(大理石)、矿中的**ore**(矿石)、墙中的**lime**(石灰)、机器人中的**brass**(黄铜)、导航中的**magnets**(磁铁)、船体中的**alloys**(合金)、齿轮中的**grease**(润滑油)、座椅中的**foam**(泡沫)、残骸中的**scrap**(废料)和桥梁中的**timber**(木材)，为这部史诗提供燃料。
 

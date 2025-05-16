@@ -1906,31 +1906,52 @@ curtain /ˈkɜːtn/ n. 窗帘
 + axis /ˈæksɪs/ n. 轴
 + cornerstone /ˈkɔːnəstəʊn/ n. 奠基石
 + auditorium /ˌɔːdɪˈtɔːrɪəm/ n. 礼堂
+
+<br>
+
 + arena /əˈriːnə/ n. 竞技场
 + hut /hʌt/ n. 小屋
 + lodge /lɒʤ/ n. 旅馆
 + suite /swiːt/ n. 套房
 + attic /ˈætɪk/ n. 阁楼
+
+<br>
+
 + dome /dəʊm/ n. 圆顶
 + beam /biːm/ n. 梁
 + pillar /ˈpɪlə/ n. 柱子
 + prop /prɒp/ n. 支柱
+
+<br>
+
 + lounge /laʊnʤ/ n. 休息室
 + porch /pɔːʧ/ n. 门廊
 + fence /fɛns/ n. 栅栏
 + pond /pɒnd/ n. 池塘
 + lawn /lɔːn/ n. 草坪
 + lavatory /ˈlævətəri/ n. 厕所
+
+<br>
+
 + furnace /ˈfɜːnɪs/ n. 火炉
 + chimney /ˈʧɪmni/ n. 烟囱
 + shaft /ʃɑːft/ n. 井
-+ tile /taɪl/ n. 瓦片
++ tile /taɪl/ n. 瓷砖、瓦片；vt. 铺瓦
+
+<br>
+
 + motel /məʊˈtɛl/ n. 汽车旅馆
-+ booth /buːð/ n. 展位
++ booth /buːð/ n. 展位；岗亭
 + plaza /ˈplɑːzə/ n. 广场
+
+<br>
+
 + dam /dæm/ n. 大坝
 + trench /trɛnʧ/ n. 沟渠
 + groove /ɡruːv/ n. 凹槽
+
+<br>
+
 + cellar /ˈsɛlə/ n. 地窖
 + cemetery /ˈsɛmɪtri/ n. 墓地
 + pyramid /ˈpɪrəmɪd/ n. 金字塔
@@ -1943,17 +1964,29 @@ curtain /ˈkɜːtn/ n. 窗帘
 + jet /ʤɛt/ n. 喷气式飞机
 + cockpit /ˈkɒkpɪt/ n. 驾驶舱
 + parachute /ˈpærəʃuːt/ n. 降落伞
+
+<br>
+
 + liner /ˈlaɪnə/ n. 客轮
 + dock /dɒk/ n. 码头
 + wharf /wɔːf/ n. 码头
 + convoy /ˈkɒnvɔɪ/ n. 车队
+
+<br>
+
 + barge /bɑːʤ/ n. 驳船
 + oar /ɔː/ n. 桨
+
+<br>
+
 + compartment /kəmˈpɑːtmənt/ n. 隔间
 + locomotive /ˌləʊkəˈməʊtɪv/ n. 火车头
 + tunnel /ˈtʌnəl/ n. 隧道
+
+<br>
+
 + van /væn/ n. 货车
-+ caravan /ˈkærəvæn/ n. 大篷车
++ caravan /ˈkærəvæn/ n. 大篷车；商队
 + trolley /ˈtrɒli/ n. 手推车
 + tram /træm/ n. 有轨电车
 + saddle /ˈsædl/ n. 鞍
@@ -1966,18 +1999,34 @@ curtain /ˈkɜːtn/ n. 窗帘
 + rifle /ˈraɪfl/ n. 步枪
 + pistol /ˈpɪstəl/ n. 手枪
 + ammunition /ˌæmjʊˈnɪʃən/ n. 弹药
+
+<br>
+
 + cannon /ˈkænən/ n. 大炮
-+ artillery /ɑːˈtɪləri/ n. 火炮
++ artillery /ɑːˈtɪləri/ n. 火炮；炮兵
+
+<br>
+
 + atrocity /əˈtrɒsɪti/ n. 暴行
+
+
 + squad /skwɒd/ n. 小队
 + regiment /ˈrɛʤɪmənt/ n. 团
 + brigade /brɪˈɡeɪd/ n. 旅
+
+<br>
+
 + badge /bæʤ/ n. 徽章
 + corps /kɔː/ n. 军团
+
+
 + barracks /ˈbærəks/ n. 营房
 + battalion /bəˈtælɪən/ n. 营
+
+<br>
+
 + comrade /ˈkɒmreɪd/ n. 同志
-+ contingent /kənˈtɪnʤənt/ n. 分遣队
++ contingent /kənˈtɪnʤənt/ n. 代表团，分遣队；adj.取决于..的，偶然的，可能的
 + manoeuvre /məˈnuːvə/ n. 演习
 
 
