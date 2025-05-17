@@ -43,13 +43,23 @@ Luke soared in a **jet**-like fighter, its **cockpit** his command center, a **p
 
 War <u>raged with</u> **rifles**, **pistols**, **ammunition**, and **cannons**, bolstered by **artillery**, despite the **atrocity** of loss. A **squad** like <u>Rogue One</u>, a **regiment** of clones, a **brigade** of rebels, marked by a **badge**, <u>formed a **corps** </u>in **barracks**, a **battalion** of hope, united by **comrades** in a **contingent**, <u>honed through **manoeuvres**</u>.
 
-The saga’s **facets**—its **dots** of light, **stripes** of destiny, **arcs** of triumph, **loops** of fate, and **cylinders** of ships—**evaporate** into legend, leaving **fragments** of inspiration. Matter like a **nucleus** of power, a **molecule** of unity, **ozone** in the air, **urine** of the weary, **nitrogen** in fuel, **marble** in halls, **ore** in mines, **lime** in walls, **brass** in droids, **magnets** in navigation, **alloys** in hulls, **grease** in gears, **foam** in seats, **scrap** in wrecks, and **timber** in bridges fueled this epic.
+The saga’s **facets**—its **dots** of light, **stripes** of destiny, <u>**arcs** of triumph</u>, **loops** of fate, and **cylinders** of ships—<u>**evaporate** into legend</u>, leaving **fragments** of inspiration. 
+
+Matter like a **nucleus** of power, a **molecule** of unity, **ozone** in the air, **urine** of the weary, **nitrogen** in fuel, **marble** in halls, **ore** in mines, **lime** in walls, <u>**brass** in droids</u>, <u>**magnets** in navigation</u>, <u>**alloys** in hulls</u>, **grease** in gears, **foam** in seats, <u>**scrap** in wrecks</u>, and **timber** in bridges fueled this epic.
 
 ### Chapter 4: Themes and Cultural Resonance
 
-The narrative hinges on **affixes** of meaning—a **colon** of pause, a **semi-colon** of connection, **brackets** of detail—measured in **pints** and **quarts** of effort, powered by **volts** and **voltage**, driven by **watts** of will, at a **velocity** beyond the **threshold**, from **pole** to pole. **Thereby**, it captivates; **nevertheless**, flaws persist; **nonetheless**, its brilliance shines; **notwithstanding** critiques, it endures. **Allegedly**, it mirrors history; **whereas** empires fall, heroes rise; **otherwise**, it’s mere fantasy; **whereby** it teaches; **hereby**, it inspires; **henceforth**, it endures **versus** time, **ascribed** to genius, **lest** we forget its lessons, with **whatsoever** flaws **somewhat** dimmed by its **whereabouts** **throughout** culture, **namely** its iconic lines, **moreover** its universal appeal.
+The <u>narrative</u> <u>hinges on</u> **affixes** of meaning—a **colon** of pause, a **semi-colon** of connection, **brackets** of detail—measured in **pints** and **quarts** of effort, powered by **volts** and **voltage**, driven by <u>**watts** of will</u>, <u>at a **velocity** beyond the **threshold**</u>, from **pole** to pole. 
 
-In batches of **batch**, **bouts** of battle, **bundles** of lore, **piles** and **heaps** of myth, a **lap** of victory, **dual** forces, **tertiary** triumphs, across **hectares** of imagination, never **nil**, *Star Wars* reveals a **streak** of **courtesy**, **zealous** passion, and **zeal**. Luke’s **lenient** mercy, Han’s **amiable** charm, Leia’s **meticulous** resolve, Obi-Wan’s **witty** wisdom, Yoda’s **cosmopolitan** insight, Darth Vader’s **tentative** redemption, Palpatine’s **cunning**, C-3PO’s **clumsy** loyalty, Anakin’s **cynical** fall, R2-D2’s **nosy** bravery, Jabba’s **obscene** greed, Lando’s **petty** flair, Padmé’s **vanity**, and Maul’s **sarcastic** menace shape this tapestry.
+**Thereby**, <u>it captivates</u>; **nevertheless**, <u>flaws persist</u>; **nonetheless**, its brilliance shines; <u>**notwithstanding** critiques</u>, it endures. 
+
+**Allegedly**, it <u>mirrors history</u>; **whereas** empires fall, heroes rise; **otherwise**, it’s <u>mere fantasy</u>; **whereby** it teaches; 
+
+【**hereby**, it inspires; **henceforth**, it endures <u>**versus** time</u>, **ascribed** to genius, <u>**lest**</u> we forget its lessons, with **whatsoever** flaws **somewhat** <u>dimmed by</u> its **whereabouts** <u>**throughout** culture</u>, **namely** its <u>iconic lines</u>, **moreover** its universal appeal.】
+
+In batches of **batch**, <u>**bouts** of battle</u>, **bundles** of lore, **piles** and **heaps** of myth, a **lap** of victory, <u>**dual** forces</u>, **tertiary** triumphs, <u>across **hectares** of imagination</u>, never **nil**, *Star Wars* reveals a **streak** of **courtesy**, <u>**zealous** passion</u>, and **zeal**. 
+
+Luke’s **lenient** mercy, Han’s **amiable** charm, Leia’s **meticulous** resolve, Obi-Wan’s **witty** wisdom, Yoda’s **cosmopolitan** insight, Darth Vader’s **tentative** redemption, Palpatine’s **cunning**, C-3PO’s **clumsy** loyalty, Anakin’s **cynical** fall, R2-D2’s **nosy** bravery, Jabba’s **obscene** greed, Lando’s **petty** flair, Padmé’s **vanity**, and Maul’s **sarcastic** menace shape this tapestry.
 
 ### Chapter 5: Action and Legacy
 
@@ -61,3 +71,54 @@ Even **acupuncture** of pain, **blunders** of youth, the **nicety** of balance, 
 
 *Star Wars* is a galactic odyssey, blending the mundane and the mythic, its legacy enduring through intricate storytelling and profound resonance, forever etched in the annals of cinematic history.
 
+
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+<br>
+<br>
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+<br>
+<br>
+
+<br>
+<br>

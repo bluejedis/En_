@@ -2035,11 +2035,17 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 
 + facet /ˈfæsɪt/ n. 方面
+
+<br>
+
 + dot /dɒt/ n. 点
 + stripe /straɪp/ n. 条纹
 + arc /ɑːk/ n. 弧
 + loop /luːp/ n. 环
 + cylinder /ˈsɪlɪndə/ n. 圆柱
+
+<br>
+
 + evaporate /ɪˈvæpəreɪt/ v. 蒸发
 + fragment /ˈfræɡmənt/ n. 碎片
 
@@ -2050,21 +2056,27 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 + nucleus /ˈnjuːklɪəs/ n. 原子核
 + molecule /ˈmɒlɪkjuːl/ n. 分子
+
+<br>
+
 + ozone /ˈəʊzəʊn/ n. 臭氧
 + urine /ˈjʊərɪn/ n. 尿液
 + nitrogen /ˈnaɪtrəʤən/ n. 氮
 + marble /ˈmɑːbl/ n. 大理石
 + ore /ɔː/ n.矿石
 
-
+<br>
 
 + lime /laɪm/ n. 石灰
 + brass /brɑːs/ n. 黄铜
 + magnet /ˈmæɡnɪt/ n. 磁铁
 + alloy /ˈælɔɪ/ n. 合金
+
+<br>
+
 + grease /ɡriːs/ n. 润滑脂
 + foam /fəʊm/ n. 泡沫
-+ scrap /skræp/ n. 碎片
++ scrap /skræp/ n. 碎片，废料
 + timber /ˈtɪmbə/ n. 木材
 
 
@@ -2073,16 +2085,24 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 
 + affix /əˈfɪks/ n. 词缀
+<br>
+
 + colon /ˈkəʊlɒn/ n. 冒号
 + semi-colon /ˈsɛmɪˌkəʊlɒn/ n. 分号
 + bracket /ˈbrækɪt/ n. 括号
+
+<br>
+
 + pint /paɪnt/ n. 品脱
 + quart /kwɔːt/ n. 夸脱
 + volt /vəʊlt/ n. 伏特
 + voltage /ˈvəʊltɪʤ/ n. 电压
 + watt /wɒt/ n. 瓦特
+
+<br>
+
 + velocity /vɪˈlɒsɪti/ n. 速度
-+ threshold /ˈθrɛʃhəʊld/ n. 门槛
++ threshold /ˈθrɛʃhəʊld/ n. 门槛，临界值， 阈值
 + pole /pəʊl/ n. 极点
 
 
@@ -2091,22 +2111,40 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 
 + thereby /ˈðeəˈbaɪ/ adv. 从而
+
+<br>
+
 + nevertheless /ˌnɛvəðəˈlɛs/ adv. 然而
 + nonetheless /ˌnʌnðəˈlɛs/ adv. 尽管如此
 + notwithstanding /ˌnɒtwɪθˈstændɪŋ/ prep. 尽管
+
+<br>
+
 + allegedly /əˈlɛʤɪdli/ adv. 据称
 + whereas /wɛərˈæz/ conj. 然而
+
+<br>
+
 + otherwise /ˈʌðəˌwaɪz/ adv. 否则
 + whereby /wɛəˈbaɪ/ conj. 凭借
 + hereby /ˈhɪəˈbaɪ/ adv. 特此
 + henceforth /ˈhɛnsˈfɔːθ/ adv. 从此以后
-+ versus /ˈvɜːsəs/ prep. 对
+
+<br>
+
++ versus /ˈvɜːsəs/ prep. 对，与，
 + ascribe /əˈskraɪb/ v. 归因于
 + lest /lɛst/ conj. 以免
 + whatsoever /ˌwɒtsəʊˈɛvə/ adv. 任何
+
+<br>
+
 + somewhat /ˈsʌmwɒt/ adv. 有点
-+ whereabouts /ˈwɛərəˌbaʊts/ n. 行踪
++ whereabouts /ˈwɛərəˌbaʊts/ n. 行踪，
 + throughout /θruːˈaʊt/ prep. 贯穿
+
+<br>
+
 + namely /ˈneɪmli/ adv. 即
 + moreover /mɔːˈrəʊvə/ adv. 此外
 
@@ -2118,11 +2156,20 @@ curtain /ˈkɜːtn/ n. 窗帘
 + batch /bæʧ/ n. 一批
 + bout /baʊt/ n. 一阵
 + bundle /ˈbʌndl/ n. 捆
+
+<br>
+
 + pile /paɪl/ n. 堆
 + heap /hiːp/ n. 堆
 + lap /læp/ n. 一圈
+
+<br>
+
 + dual /ˈdjuːəl/ adj. 双重的
 + tertiary /ˈtɜːʃəri/ adj. 第三的
+
+<br>
+
 + hectare /ˈhɛktɛə/ n. 公顷
 + nil /nɪl/ adj. 零
 
@@ -2131,10 +2178,13 @@ curtain /ˈkɜːtn/ n. 窗帘
 ### 补17 性情
 
 
-+ streak /striːk/ n. 性格特征
++ streak /striːk/ n. 性格特征；adj. 一贯的，连胜的；v. 沿着某方向移动
 + courtesy /ˈkɜːtɪsi/ n. 礼貌
 + zealous /ˈzɛləs/ adj. 热情的
 + zeal /ziːl/ n. 热情
+
+<br>
+
 + lenient /ˈliːnjənt/ adj. 宽容的
 + amiable /ˈeɪmiəbl/ adj. 友好的
 + meticulous /mɪˈtɪkjʊləs/ adj. 一丝不苟的

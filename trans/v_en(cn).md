@@ -331,13 +331,23 @@
 
 战争用**rifles**(步枪)、**pistols**(手枪)、**ammunition**(弹药)和**cannons**(大炮)<u>肆虐</u>，由**artillery**(炮兵)支持，尽管有损失的**atrocity**(暴行)。像“<u>侠盗一号</u>”这样的**squad**(小队)、克隆人的**regiment**(团)、叛军的**brigade**(旅)，以**badge**(徽章)标记，在**barracks**(军营)中形成**corps**(军团)，希望的**battalion**(营)，由**comrades**(战友)在**contingent**(分遣队)中团结，通过**manoeuvres**(演习)磨砺。
 
-传奇的**facets**(面)——光的**dots**(点)、命运的**stripes**(条纹)、胜利的**arcs**(弧线)、命运的**loops**(循环)和飞船的**cylinders**(圆柱)——**evaporate**(蒸发)成传说，留下灵感的**fragments**(碎片)。物质如权力的**nucleus**(核心)、团结的**molecule**(分子)、空气中的**ozone**(臭氧)、疲惫者的**urine**(尿液)、燃料中的**nitrogen**(氮气)、大厅中的**marble**(大理石)、矿中的**ore**(矿石)、墙中的**lime**(石灰)、机器人中的**brass**(黄铜)、导航中的**magnets**(磁铁)、船体中的**alloys**(合金)、齿轮中的**grease**(润滑油)、座椅中的**foam**(泡沫)、残骸中的**scrap**(废料)和桥梁中的**timber**(木材)，为这部史诗提供燃料。
+传奇的**facets**(面)——光的**dots**(点)、命运的**stripes**(条纹)、<u>胜利的**arcs**(弧线)</u>、命运的**loops**(循环)和飞船的**cylinders**(圆柱)——<u>**evaporate**(蒸发)成传说</u>，留下灵感的**fragments**(碎片)。
+
+物质如权力的**nucleus**(核心)、团结的**molecule**(分子)、空气中的**ozone**(臭氧)、疲惫者的**urine**(尿液)、燃料中的**nitrogen**(氮气)、大厅中的**marble**(大理石)、矿中的**ore**(矿石)、墙中的**lime**(石灰)、<u>机器人中的**brass**(黄铜)</u>、<u>导航中的**magnets**(磁铁)</u>、<u>船体中的**alloys**(合金)</u>、齿轮中的**grease**(润滑油)、座椅中的**foam**(泡沫)、<u>残骸中的**scrap**(碎片)</u>和桥梁中的**timber**(木材)，为这部史诗提供燃料。
 
 #### 第四章：主题与文化共鸣
 
-叙事依赖于意义的**affixes**(词缀)——停顿的**colon**(冒号)、连接的**semi-colon**(分号)、细节的**brackets**(括号)——以努力的**pints**(品脱)和**quarts**(夸脱)衡量，由**volts**(伏特)和**voltage**(电压)驱动，以意志的**watts**(瓦特)在超越**threshold**(门槛)的**velocity**(速度)推动，从**pole**(极点)到极点。**Thereby**(因此)，它引人入胜；**nevertheless**(然而)，缺陷依然存在；**nonetheless**(尽管如此)，其 brilliance 闪耀；**notwithstanding**(尽管)批评，它持久。**Allegedly**(据称)，它反映历史；**whereas**(而)帝国倒塌，英雄崛起；**otherwise**(否则)，它只是幻想；**whereby**(凭借)它教导；**hereby**(特此)，它激励；**henceforth**(从此)，它对抗时间**versus**(对决)，**ascribed**(归因于)天才，**lest**(以免)我们忘记其教训，无论**whatsoever**(任何)缺陷在文化中的**whereabouts**(所在)**throughout**(遍及)，**namely**(即)其标志性台词，**moreover**(此外)其普遍吸引力。
+叙事<u>依赖于</u>意义的**affixes**(词缀)——停顿的**colon**(冒号)、连接的**semi-colon**(分号)、细节的**brackets**(括号)——以努力的**pints**(品脱)和**quarts**(夸脱)衡量，由**volts**(伏特)和**voltage**(电压)驱动，以<u>意志的**watts**(瓦特)</u> <u>以超越**threshold**(阈值)的**velocity**(速度)</u>推动，从**pole**(极点)到极点。
 
-以**batch**(批次)的战斗、**bouts**(回合)的战争、**bundles**(捆)的传说、**piles**(堆)和**heaps**(垛)的神话、胜利的**lap**(圈)、**dual**(双重的)力量、**tertiary**(第三的)胜利，跨越想象的**hectares**(公顷)，从不**nil**(零)，《星球大战》展现了**streak**(连胜)的**courtesy**(礼貌)、**zealous**(热切的)激情和**zeal**(热情)。卢克的**lenient**(宽容的)仁慈、汉的**amiable**(友好的)魅力、莱娅的**meticulous**(一丝不苟的)决心、欧比旺的**witty**(机智的)智慧、尤达的**cosmopolitan**(世界性的)洞察、达斯·维德的**tentative**(试探性的)救赎、帕尔帕廷的**cunning**(狡猾)、C-3PO的**clumsy**(笨拙的)忠诚、安纳金的**cynical**(愤世嫉俗的)堕落、R2-D2的**nosy**(好奇的)勇敢、贾巴的**obscene**(下流的)贪婪、兰多的**petty**(琐碎的)风采、帕德梅的**vanity**(虚荣)和毛尔的**sarcastic**(讽刺的)威胁，塑造了这幅织锦。
+**Thereby**(因此)，它<u>引人入胜</u>；**nevertheless**(然而)，<u>缺陷依然存在</u>；**nonetheless**(尽管如此)，其 brilliance 闪耀；<u>**notwithstanding**(尽管)批评</u>，它持久。
+
+**Allegedly**(据称)，它<u>反映历史</u>；**whereas**(而)帝国倒塌，英雄崛起；**otherwise**(否则)，它<u>只是幻想</u>；**whereby**(凭借)它教导；**hereby**(特此)，它激励；
+
+**henceforth**(从此)，它对抗**versus**(与)时间，**ascribed**(归因于)天才，**lest**(以免)我们忘记其教训，（带着）无论**whatsoever**(任何)缺陷在文化中的**whereabouts**(所在)**throughout**(遍及)，**namely**(即)其<u>标志性台词</u>，**moreover**(此外)其普遍吸引力。
+
+以**batch**(批次)的战斗、<u>**bouts**(回合)的战争</u>、**bundles**(捆)的传说、**piles**(堆)和**heaps**(垛)的神话、胜利的**lap**(圈)、<u>**dual**(双重的)原力</u>、**tertiary**(第三的)胜利，跨越想象的**hectares**(公顷)，从不**nil**(零)，《星球大战》展现了**courtesy**(礼貌)的**streak**(性格特征)、**zealous**(热切的)激情和**zeal**(热情)。
+
+卢克的**lenient**(宽容的)仁慈、汉的**amiable**(友好的)魅力、莱娅的**meticulous**(一丝不苟的)决心、欧比旺的**witty**(机智的)智慧、尤达的**cosmopolitan**(世界性的)洞察、达斯·维德的**tentative**(试探性的)救赎、帕尔帕廷的**cunning**(狡猾)、C-3PO的**clumsy**(笨拙的)忠诚、安纳金的**cynical**(愤世嫉俗的)堕落、R2-D2的**nosy**(好奇的)勇敢、贾巴的**obscene**(下流的)贪婪、兰多的**petty**(琐碎的)风采、帕德梅的**vanity**(虚荣)和毛尔的**sarcastic**(讽刺的)威胁，塑造了这幅织锦。
 
 #### 第五章：行动与遗产
 
