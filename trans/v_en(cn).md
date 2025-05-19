@@ -347,14 +347,16 @@
 
 以**batch**(批次)的战斗、<u>**bouts**(回合)的战争</u>、**bundles**(捆)的传说、**piles**(堆)和**heaps**(垛)的神话、胜利的**lap**(圈)、<u>**dual**(双重的)原力</u>、**tertiary**(第三的)胜利，跨越想象的**hectares**(公顷)，从不**nil**(零)，《星球大战》展现了**courtesy**(礼貌)的**streak**(性格特征)、**zealous**(热切的)激情和**zeal**(热情)。
 
-卢克的**lenient**(宽容的)仁慈、汉的**amiable**(友好的)魅力、莱娅的**meticulous**(一丝不苟的)决心、欧比旺的**witty**(机智的)智慧、尤达的**cosmopolitan**(世界性的)洞察、达斯·维德的**tentative**(试探性的)救赎、帕尔帕廷的**cunning**(狡猾)、C-3PO的**clumsy**(笨拙的)忠诚、安纳金的**cynical**(愤世嫉俗的)堕落、R2-D2的**nosy**(好奇的)勇敢、贾巴的**obscene**(下流的)贪婪、兰多的**petty**(琐碎的)风采、帕德梅的**vanity**(虚荣)和毛尔的**sarcastic**(讽刺的)威胁，塑造了这幅织锦。
+卢克的<u>**lenient**(宽容的)仁慈</u>、汉的<u>**amiable**(友好的)魅力</u>、莱娅的<u>**meticulous**(一丝不苟的)决心</u>、欧比旺的**witty**(机智的)智慧、尤达的<u>**cosmopolitan**(世界性的)洞察</u>、达斯·维德的<u>**tentative**(试探性的)救赎</u>、帕尔帕廷的**cunning**(狡猾)、C-3PO的<u>**clumsy**(笨拙的)忠诚</u>、安纳金的**cynical**(愤世嫉俗的)堕落、R2-D2的**nosy**(爱打听的)勇敢、贾巴的**obscene**(下流的)贪婪、兰多的**petty**(琐碎的)风采、~~帕德梅~~的**vanity**(虚荣)和毛尔的**sarcastic**(讽刺的)威胁，塑造了这幅织锦。
 
 #### 第五章：行动与遗产
 
-在原力的**gymnasium**(训练场)，卢克**orients**(定位)他的道路，面对疑虑的**rear**(后方)，**aloft**(高飞)，探索**interior**(内心)，从绝望的**midst**(中间)**forth**(向前)。挑战**beset**(困扰)他——他从不**brag**(吹嘘)，也不**bluff**(虚张声势)，但会在损失中**brood**(沉思)，**despise**(鄙视)暴政，**withhold**(抑制)愤怒，**boycott**(抵制)绝望，**whirl**(旋转)投入行动，**zoom**(飞速)走向胜利，**ventilate**(宣泄)恐惧，不被疑虑阻塞，由希望**lubricated**(润滑)，**culminating**(达到高潮)在胜利的**culmination**(顶点)。他会**peddle**(兜售)勇气，永不让信仰**crumble**(崩溃)，**curtail**(削减)弱点，**deplete**(耗尽)敌人，**dent**(削弱)帝国，净化**foul**(肮脏)，提升**wretch**(可怜人)，**trim**(修剪)多余，锻造**reciprocal**(互助的)纽带，建立**watertight**(牢不可破的)决心，让邪恶**wither**(枯萎)，加入叛军的**syndicate**(联合体)，在导师的**oversight**(监督)下，带着遗产的**franchise**(特许权)，在战争的**debris**(残骸)中，**tanned**(晒黑)于双日，他的**surname**(姓氏)天行者，**dubbed**(被称为)英雄，通过自由的**vent**(出口)，以正义的**ventilation**(通风)和**optic**(视觉的)清晰。
+在原力的**gymnasium**(训练场)，卢克**orients**(定位)他的道路，面对疑虑的**rear**(后方)，翱翔**aloft**(在空中)，探索**interior**(内心)，从绝望的**midst**(中间)<u>**forth**(向前)</u>。【挑战**beset**(困扰)他——他从不**brag**(吹嘘)，也不**bluff**(虚张声势)，而是在损失中**brood**(沉思)，<u>**despise**(鄙视)暴政</u>，**withhold**(抑制)愤怒，**boycott**(抵制)绝望，<u>**whirl**(旋转)投入行动</u>(迅速投入行动)，**zoom**(飞速)走向胜利，<u>**ventilate**(宣泄)恐惧</u>，<u>不被疑虑阻塞</u>，由希望**lubricated**(润滑)，**culminating**(达到高潮)<u>在胜利的**culmination**(顶点)</u>。】
 
-甚至痛苦的**acupuncture**(针灸)、青春的**blunders**(失误)、平衡的**nicety**(精妙)、剧情的**loopholes**(漏洞)、电影的**paradigm**(范式)、领导的**tact**(策略)、暴政的**curfew**(宵禁)、权力的**bait**(诱饵)、职责的**chore**(杂务)、智慧的**fountain**(源泉)、光的**lasers**(激光)、传说的**encyclopaedia**(百科全书)、叛乱中的**Marxism**(马克思主义)和帝国的**fascism**(法西斯主义)——都融入《星球大战》，一部超越时间的传奇。
+他会<u>**peddle**(兜售)勇气</u>，永不让信仰**crumble**(崩溃)，**curtail**(削减)弱点，**deplete**(耗尽)敌人，**dent**(削弱)帝国，<u>净化**foul**(肮脏)</u>，提升**wretch**(可怜人)，<u>**trim**(修剪)多余</u>，<u>锻造**reciprocal**(互助的)纽带</u>，建立**watertight**(牢不可破的)决心，让邪恶**wither**(枯萎)，加入<u>反抗军的**syndicate**(联合体)</u>，<u>在导师的**oversight**(监督)下</u>，带着遗产的**franchise**(特许权)，<u>在战争的**debris**(残骸)中</u>，**tanned**(晒黑)于双日，他的**surname**(姓氏)天行者，<u>**dubbed**(被称为)英雄</u>，通过自由的**vent**(出口)，以正义的**ventilation**(通风)和**optic**(视觉的)清晰。
+
+甚至痛苦的**acupuncture**(针灸)、<u>青春的**blunders**(失误)</u>、<u>平衡的**nicety**(精妙)</u>、剧情的**loopholes**(漏洞)、电影的**paradigm**(范式)、领导的**tact**(策略)、暴政的**curfew**(宵禁)、权力的**bait**(诱饵)、职责的**chore**(杂务)、<u>智慧的**fountain**(源泉)</u>、光的**lasers**(激光)、<u>传说的**encyclopaedia**(百科全书)</u>、叛乱中的**Marxism**(马克思主义)和帝国的**fascism**(法西斯主义)——都被<u>融入</u>《星球大战》，一部<u>超越时间</u>的传奇。
 
 #### 结论
 
-《星球大战》是一场银河奥德赛，融合了平凡与神话，其遗产通过复杂的叙事和深刻的共鸣持久，永远镌刻在电影历史的编年史中。
+《星球大战》是<u>一部银河奥德赛（史诗）</u>，<u>融合了平凡与神话</u>，其遗产通过<u>复杂的叙事</u>和<u>深刻的共鸣</u>持久，永远<u>镌刻在</u>电影历史的<u>编年史</u>中。

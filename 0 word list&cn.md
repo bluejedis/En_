@@ -2189,23 +2189,32 @@ curtain /ˈkɜːtn/ n. 窗帘
 + amiable /ˈeɪmiəbl/ adj. 友好的
 + meticulous /mɪˈtɪkjʊləs/ adj. 一丝不苟的
 + witty /ˈwɪti/ adj. 机智的
+
+<br>
+
 + cosmopolitan /ˌkɒzməˈpɒlɪtən/ adj. 世界性的
-+ tentative /ˈtɛntətɪv/ adj. 暂时的
-+ cunning /ˈkʌnɪŋ/ adj. 狡猾的
++ tentative /ˈtɛntətɪv/ adj. 暂时的；犹豫的，试探性的
+
+<br>
+
++ cunning /ˈkʌnɪŋ/ adj. 狡猾的；灵巧的；n. 狡计, 狡猾
 + clumsy /ˈklʌmzi/ adj. 笨拙的
 + cynical /ˈsɪnɪkəl/ adj. 愤世嫉俗的
-+ nosy /ˈnəʊzi/ adj. 爱管闲事的
-+ obscene /əbˈsiːn/ adj. 猥亵的
++ nosy /ˈnəʊzi/ adj. 爱管闲事的，好打听的
+
+<br>
+
++ obscene /əbˈsiːn/ adj. 猥亵的，淫秽的，下流的
 + petty /ˈpɛti/ adj. 琐碎的
 + vanity /ˈvænɪti/ n. 虚荣心
 + sarcastic /sɑːˈkæstɪk/ adj. 讽刺的
 
-
+menace /ˈmenəs/ n. 威胁
 
 ### 补18 动作
 
 
-+ gymnasium /ʤɪmˈneɪzɪəm/ n. 体育馆
++ gymnasium /ʤɪmˈneɪzɪəm/ n. 体育馆，训练场
 
 
 
@@ -2213,50 +2222,92 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 
 + orient /ˈɔːrɪənt/ v. 定向
+
+<br>
+
 + rear /rɪə/ n. 后部
 + aloft /əˈlɒft/ adv. 在空中
+
+<br>
+
 + interior /ɪnˈtɪərɪə/ n. 内部
 + forth /fɔːθ/ adv. 向前
 + midst /mɪdst/ n. 中间
 
 
 
-### 补20 动作
+### 补20 else
 
 
 + beset /bɪˈsɛt/ v. 困扰
 + brag /bræɡ/ v. 吹嘘
 + bluff /blʌf/ v. 虚张声势
+
+<br>
+
 + brood /bruːd/ v. 沉思
 + despise /dɪˈspaɪz/ v. 鄙视
 + withhold /wɪðˈhəʊld/ v. 保留
+
+<br>
+
 + boycott /ˈbɔɪkɒt/ v. 抵制
+
+<br>
+
 + whirl /wɜːl/ v. 旋转
-+ zoom /zuːm/ v. 急速上升
++ zoom /zuːm/ v. 急速上升、增长；镜头(推进/拉远)
 + ventilate /ˈvɛntɪleɪt/ v. 通风
+
+<br>
+
 + clog /klɒɡ/ v. 堵塞
 + lubricate /ˈluːbrɪkeɪt/ v. 润滑
 + culminate /ˈkʌlmɪneɪt/ v. 达到顶点
 + culmination /ˌkʌlmɪˈneɪʃən/ n. 顶点
+
+<br>
+
 + peddle /ˈpɛdl/ v. 兜售
 + crumble /ˈkrʌmbl/ v. 崩溃
 + curtail /kɜːˈteɪl/ v. 缩减
 + deplete /dɪˈpliːt/ v. 耗尽
-+ dent /dɛnt/ v. 凹陷
+
+<br>
+
++ dent /dɛnt/ v. 凹陷， 削弱
 + foul /faʊl/ adj. 污秽的
+
+<br>
+
 + wretch /rɛʧ/ n. 可怜的人
 + trim /trɪm/ v. 修剪
 + reciprocal /rɪˈsɪprəkəl/ adj. 互惠的
+
+<br>
+
 + watertight /ˈwɔːtətaɪt/ adj. 防水的
 + wither /ˈwɪðə/ v. 枯萎
-+ syndicate /ˈsɪndɪkɪt/ n. 企业联合
+
+<br>
+
++ syndicate /ˈsɪndɪkɪt/ n. 企业联合，财团， 联合组织
 + oversight /ˈəʊvəsaɪt/ n. 监督
 + franchise /ˈfrænʧaɪz/ n. 特许经营
+
+<br>
+
 + debris /ˈdɛbriː/ n. 碎片
 + tan /tæn/ v. 晒黑
+
+<br>
+
 + surname /ˈsɜːneɪm/ n. 姓
-+ dub /dʌb/ v. 配音
-+ vent /vɛnt/ n. 通风口
++ dub /dʌb/ v. 配音， 命名， 授予称号
+
+<br>
+
++ vent /vɛnt/ v. 通风,发泄；n. 通风口
 + ventilation /ˌvɛntɪˈleɪʃən/ n. 通风
 + optic /ˈɒptɪk/ adj. 视觉
 
@@ -2264,16 +2315,26 @@ curtain /ˈkɜːtn/ n. 窗帘
 
 + acupuncture /ˈækjʊˌpʌŋkʧə/ n. 针灸
 + blunder /ˈblʌndə/ n. 大错
-+ nicety /ˈnaɪsɪti/ n. 精确
++ nicety /ˈnaɪsɪti/ n. 精确， 细节， 微妙之处
 + loophole /ˈluːphəʊl/ n. 漏洞
+
+<br>
+
 + paradigm /ˈpærədaɪm/ n. 范例
-+ tact /tækt/ n. 机智
++ tact /tækt/ n. 机智，老练
+
 + curfew /ˈkɜːfjuː/ n. 宵禁
 + bait /beɪt/ n. 诱饵
+
+<br>
+
 + chore /ʧɔː/ n. 家务事
 + fountain /ˈfaʊntɪn/ n. 喷泉
 + laser /ˈleɪzə/ n. 激光
 + encyclopaedia /ɪnˌsaɪkləˈpiːdɪə/ n. 百科全书
+
+<br>
+
 + Marxism /ˈmɑːksɪzəm/ n. 马克思主义
 + fascism /ˈfæʃɪzəm/ n. 法西斯主义
 
