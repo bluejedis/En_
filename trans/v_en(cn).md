@@ -2,17 +2,35 @@
 
 #### <span style="color: silver;">引言</span>
 
-在遥远的未来，人类徘徊于技术乌托邦的边缘，人工智能与星际探索定义了生存。在这个时代的核心，出现了一篇具有开创性的**dissertation**(论文)，由一位富有远见的科学家撰写，探讨创新的伦理界限。这部作品需要无与伦比的专业**credential**(资历证明)和来自著名**polytechnic**(理工学院)的**doctorate**(博士学位)，引发了全球争论。在**dean**(院长)的指导和**registrar**(注册官)的监督下，这项学术里程碑的**registration**(注册)过程反映了一个痴迷于知识的社会。**curriculum**(课程)设计得即使对新手也**intelligible**(易懂)，确保教育者有效地**impart**(传授)智慧，旨在**nurture**(培养)和**mold**(塑造)年轻的心灵成为先驱——尽管有人担心这种体系培养出的是**moldy**(发霉的/过时的)思想家。
+在遥远的未来，人类<u>徘徊于</u>技术乌托邦的边缘，人工智能与<u>星际探索</u>定义了生存。
 
-学生们**skim**(浏览)浩瀚的数字档案，以**reminiscent**(让人回忆起)古代图书馆的方式保存对过去的**remembrance**(记忆)。学者们谦卑地**submit**(提交)他们的**submission**(提交物)，常在**examiner**(考官)面前采取**submissive**(顺从的)姿态，而**examinee**(被考者)则紧张地**tick**(勾选)已完成的任务。**transcript**(成绩单)揭示他们的**grade**(成绩)，区分了**pupil**(学生)和**sophomore**(二年级生)，在这里**seniority**(资历)不如才华重要。在**intermediate**(中级)阶段，**intermediary**(中间人)促成**forum**(论坛)或**symposium**(研讨会)，每项**deed**(行为)都受到审视。领导者**arrange**(安排)**attendant**(助手)协助，专家们**congregate**(聚集)，形成一个**congregation**(集会)，**convene**(召开会议)并**render**(提供)解决人类困境的方案。
+在这个时代的核心，出现了<u>一篇具有开创性的**dissertation**(论文)</u>，由<u>一位富有远见的科学家</u><u>撰写</u>，<u>探讨创新的伦理界限</u>。这部作品需要<u>无与伦比的专业</u>**credential**(资历证明)和来自著名**polytechnic**(理工学院)的**doctorate**(博士学位)，引发了全球争论。
+
+在**dean**(院长)的指导和**registrar**(注册官)的监督下，这项学术里程碑的**registration**(注册)过程反映了一个<u>痴迷于知识的社会</u>。
+**curriculum**(课程)设计得即使对<u>新手</u>也**intelligible**(易懂)，确保教育者有效地**impart**(传授)智慧，<u>旨在</u><u>**nurture**(培养)</u>和**mold**(塑造)<u>年轻的心灵成为先驱</u>——尽管有人担心这种体系培养出的是**moldy**(发霉的/过时的)思想家。
+
+学生们**skim**(浏览)浩瀚的数字档案，以**reminiscent**(让人回忆起)古代图书馆的方式<u>保存对过去的**remembrance**(记忆)</u>。
+学者们谦卑地**submit**(提交)他们的**submission**(提交物)，常在**examiner**(考官)面前采取<u>**submissive**(顺从的)姿态</u>，而**examinee**(被考者)则紧张地<u>**tick**(勾选)</u>已完成的任务。
+
+**transcript**(成绩单)揭示他们的**grade**(成绩)，区分了**pupil**(学生)和**sophomore**(二年级生)，在这里**seniority**(资历)不如才华重要。
+在**intermediate**(中级)阶段，**intermediary**(中间人)<u>促成**forum**(论坛)</u>或**symposium**(研讨会)，每项**deed**(行为)都<u>受到审视</u>。领导者**arrange**(安排)**attendant**(助手)协助，专家们**congregate**(聚集)，形成一个**congregation**(集会)，**convene**(召开会议)并<u>**render**(提供)解决人类困境的方案</u>。
 
 #### **背景：科学塑造的世界**
 
-在这个社会中，教育超越了传统界限。**Arithmetic**(算术)和**notation**(符号)支撑着数字经济，机器通过**subtraction**(减法)**subtract**(减去)低效，并通过**deduction**(演绎)**deduct**(扣除)成本，运用从庞大数据集中**deductible**(可推导的)**deductive**(演绎的)逻辑。**minus**(减号)象征进步，以**equivalence**(等价)带来**equivalent**(等同的)结果。这种**cognitive**(认知的)飞跃源于分析**specimen**(样本)数据，增强**cognition**(认知能力)，科学家们**cognize**(认知)模式，**probe**(探究)奥秘，**discern**(辨别)真相——有些几乎**discernible**(难以辨识)。**Intuition**(直觉)，一种**intuitive**(直觉的)**gut**(本能)感觉，驱使他们**ponder**(思考)和**contemplate**(沉思)，常在**retrospect**(回顾)中**contrive**(设计)设备，**envisage**(设想)未来，**conceive**(构想)突破。然而，他们偶尔会**overestimate**(高估)风险，需要**appraise**(评估)和**appraisal**(评价)来**gauge**(衡量)可行性。
+在这个社会中，<u>教育超越了传统界限</u>。**Arithmetic**(算术)和**notation**(符号)<u>支撑着数字经济</u>，机器通过**subtraction**(减法)<u>**subtract**(减去)低效</u>，并通过**deduction**(演绎)<u>**deduct**(扣除)成本</u>，<u>运用</u>从庞大数据集中**deductible**(可推导的)<u>**deductive**(演绎的)逻辑</u>。
+**minus**(减号)象征进步，以**equivalence**(等价)<u>产生**equivalent**(等同的)结果</u>。这种**cognitive**(认知的)飞跃<u>源于</u>分析**specimen**(样本)数据，增强**cognition**(认知能力)，科学家们**cognize**(认知)模式，**probe**(探究)奥秘，**discern**(辨别)真相——有些几乎**discernible**(难以辨识)。
 
-操作**mode**(模式)**inclines**(倾向)于自动化，**inclined**(倾向的)民众拥抱进步的**essence**(本质)。领导者**designate**(指定)角色，每个**designation**(指定)带有威望的**connotation**(含义)。社会**fabric**(结构)由创新编织而成，拒绝感觉**stuffy**(沉闷的)**stuff**(东西)。思想**converge**(汇聚)，在心智的**fusion**(融合)中**fuse**(融合)，在**conceptual**(概念上的)和谐中**correlate**(关联)。系统通过**correspondence**(通信)**align**(对齐)，由**correspondent**(通讯员)管理，确保**homogeneous**(一致的)标准。尽管与乌托邦有**resemblance**(相似)，**discord**(不和谐)依然存在，促使专家通过**comparative**(比较的)分析**differentiate**(区分)真相，注意每个**discrepancy**(差异)。**false**(虚假的)被摒弃，追求**authentic**(真实的)，其**authenticity**(真实性)在**precise**(精确的)**precision**(精确)中**tangible**(可感知)。
+**Intuition**(直觉)，一种**intuitive**(直觉的)**gut**(本能)感觉，驱使他们**ponder**(思考)和**contemplate**(沉思)，常在**retrospect**(回顾)中**contrive**(设计)设备，**envisage**(设想)未来，**conceive**(构想)突破。然而，他们偶尔会<u>**overestimate**(高估)风险</u>，需要**appraise**(评估)和**appraisal**(评价)来<u>**gauge**(衡量)可行性</u>。
 
-错误**blur**(模糊)清晰度，但科学家们**deduce**(推断)解决方案——有些从**premise**(前提)或**prerequisite**(先决条件)中**deducible**(可推导)。**hypothesis**(假设)指导他们，以**rational**(理性的)思想为基础，摒弃**irrational**(非理性的)。发现**reflect**(反映)一种**reflective**(反思的)精神，寻求**embody**(体现)进步——一种雄心的**embodiment**(化身)。符号**denote**(表示)意义，其**denotation**(指称)清晰，尽管每一步都**entails**(需要)牺牲。
+操作**mode**(模式)<u>**inclines**(倾向)于自动化</u>，**inclined**(倾向的)<u>民众拥抱</u><u>进步的**essence**(本质)</u>。领导者**designate**(指定)角色，每个**designation**(指定)带有<u>威望的**connotation**(含义)</u>。
+社会**fabric**(结构)<u>由创新编织而成</u>，拒绝<u>感觉**stuffy**(沉闷的)**stuff**(东西)</u>。思想**converge**(汇聚)，<u>在心智的**fusion**(融合)中</u>**fuse**(融合)，<u>在**conceptual**(概念上的)和谐中</u>**correlate**(关联)。
+
+系统<u>通过**correspondence**(通信)</u>**align**(对齐)，由**correspondent**(通讯员)管理，确保<u>**homogeneous**(一致的)标准</u>。尽管<u>与乌托邦**resemblance**(相似)</u>，**discord**(不和谐)依然存在，<u>促使</u>专家<u>通过**comparative**(比较的)分析</u>**differentiate**(区分)真相，注意每个**discrepancy**(差异)。
+
+**false**(虚假的)被摒弃，追求**authentic**(真实的)，其**authenticity**(真实性)在**precise**(精确的)**precision**(精确)中**tangible**(可感知)。
+
+错误<u>**blur**(模糊)清晰度</u>，但科学家们**deduce**(推断)解决方案——有些从**premise**(前提)或**prerequisite**(先决条件)中**deducible**(可推导)。
+**hypothesis**(假设)指导他们，<u>以**rational**(理性的)思想为基础</u>，<u>摒弃**irrational**(非理性的)</u>。发现**reflect**(反映)<u>一种**reflective**(深思的)精神</u>，寻求<u>**embody**(体现)进步</u>——<u>一种雄心的**embodiment**(体现)</u>。符号**denote**(表示)意义，其**denotation**(指称)清晰，尽管每一步都<u>**entails**(需要)牺牲</u>。
 
 文化上，**folklore**(民间传说)和**superstition**(迷信)依然存在，**taboo**(禁忌)话题导致一些人**deviate**(偏离)，造成**deviation**(偏差)。**Myth**(神话)、**fable**(寓言)和**anecdote**(轶事)激发灵感，即便**monstrous**(怪异的)机器让人类相形见绌。关于**witch**(女巫)和**knight**(骑士)、**imperial**(帝国的)**imperialist**(帝国主义者)的野心，或**monarch**(君主)的**collapse**(崩溃)的故事吸引人心。**aristocrat**(贵族)在**hierarchy**(等级制度)中游走，将传统与科技融合。
 

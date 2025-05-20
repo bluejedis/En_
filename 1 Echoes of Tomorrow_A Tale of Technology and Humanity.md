@@ -2,17 +2,41 @@
 
 ####  <span style="color: silver;">Introduction</span>
 
-In a distant future, humanity teeters on the edge of a technological utopia, where artificial intelligence and interstellar exploration define existence. At the heart of this era stands a groundbreaking **dissertation**, penned by a visionary scientist, which probes the ethical boundaries of innovation. This work, requiring a **credential** of unparalleled expertise and a **doctorate** from a renowned **polytechnic**, sparks a global debate. Guided by the **dean** and overseen by the **registrar**, the **registration** process for this academic milestone reflects a society obsessed with knowledge. The **curriculum**, designed to be **intelligible** even to novices, ensures that educators **impart** wisdom effectively, aiming to **nurture** and **mold** (or **mould**) young minds into pioneers—though some fear this system produces **moldy**, outdated thinkers.
+In a distant future, humanity <u>teeters on</u> the edge of a technological utopia, where artificial intelligence and <u>interstellar exploration</u> define existence. 
 
-Students **skim** vast digital archives, preserving **remembrance** of the past in ways **reminiscent** of ancient libraries. Scholars **submit** their **submission** humbly, often adopting a **submissive** stance before the **examiner**, while the **examinee** nervously ticks off (**tick**) completed tasks. A **transcript** reveals their **grade**, distinguishing the **pupil** from the **sophomore**, where **seniority** matters less than brilliance. At an **intermediate** level, an **intermediary** facilitates a **forum** or **symposium**, where every **deed** is scrutinized. Leaders **arrange** for an **attendant** to assist as experts **congregate**, forming a **congregation** to **convene** and **render** (or provide a **rendering** of) solutions to humanity’s dilemmas.
+At the heart of this era stands <u>a groundbreaking **dissertation**</u>, <u>penned by</u> <u>a visionary scientist</u>, which <u>probes the ethical boundaries</u> of innovation. This work, requiring a **credential** of <u>unparalleled expertise</u> and a **doctorate** from a renowned **polytechnic**, sparks a global debate. 
+
+Guided by the **dean** and overseen by the **registrar**, the **registration** process for this academic milestone reflects <u>a society obsessed with knowledge</u>. 
+The **curriculum**, designed to be **intelligible** even to <u>novices</u>, ensures that educators **impart** wisdom effectively, <u>aiming to</u> <u>**nurture**</u> and **mold** (or **mould**) <u>young minds into pioneers</u>—though some fear this system produces **moldy**, outdated thinkers.
+
+Students **skim** vast digital archives, <u>preserving **remembrance** of the past</u> in ways **reminiscent** of ancient libraries. Scholars **submit** their **submission** humbly, often adopting <u>a **submissive** stance</u> before the **examiner**, while the **examinee** nervously <u>ticks off</u> (**tick**) completed tasks. 
+
+A **transcript** reveals their **grade**, <u>distinguishing</u> the **pupil** <u>from</u> the **sophomore**, where <u>**seniority** matters less than brilliance</u>. 
+At an **intermediate** level, an **intermediary** <u>facilitates a **forum**</u> or **symposium**, where every **deed** <u>is scrutinized</u>. Leaders **arrange** for an **attendant** to assist ，as experts **congregate**, forming a **congregation** to **convene** and <u>**render**</u> (or provide a **rendering** of) <u>solutions to humanity’s dilemmas</u>.
 
 #### **Background: A World Shaped by Science**
 
-In this society, education transcends traditional boundaries. **Arithmetic** and **notation** underpin a digital economy, where machines **subtract** inefficiencies—termed **subtraction**—and **deduct** costs via **deduction**, employing **deductive** logic that’s **deductible** from vast datasets. A **minus** sign symbolizes progress, yielding **equivalent** outcomes with **equivalence** in efficiency. This **cognitive** leap stems from analyzing **specimen** data, enhancing **cognition** as scientists **cognize** patterns, **probe** mysteries, and **discern** truths—some barely **discernible**. **Intuition**, an **intuitive** **gut** feeling, drives them to **ponder** and **contemplate**, often in **retrospect**, as they **contrive** devices, **envisage** futures, and **conceive** breakthroughs. Yet, they occasionally **overestimate** risks, requiring an **appraise** and **appraisal** to **gauge** feasibility.
+In this society, education <u>transcends traditional boundaries</u>. **Arithmetic** and **notation** <u>underpin a digital economy</u>, where machines <u>**subtract** inefficiencies</u>—<u>termed **subtraction**</u>—and <u>**deduct** costs</u> via **deduction**, <u>employing **deductive** logic</u> that’s **deductible** from vast datasets. 
+A **minus** sign symbolizes progress, <u>yielding **equivalent** outcomes</u> with **equivalence** in efficiency. This **cognitive** leap <u>stems from</u> analyzing **specimen** data, enhancing **cognition** as scientists **cognize** patterns, **probe** mysteries, and **discern** truths—some barely **discernible**. 
 
-The operational **mode** **inclines** toward automation, with an **inclined** populace embracing the **essence** of progress. Leaders **designate** roles, each **designation** carrying a **connotation** of prestige. The societal **fabric**, woven from innovation, rejects **stuff** that feels **stuffy**. Ideas **converge**, **fuse** in a **fusion** of minds, and **correlate** in **conceptual** harmony. Systems **align**, **correspond** via **correspondence**, managed by a **correspondent** ensuring **homogeneous** standards. Despite **resemblance** to utopia, **discord** persists, prompting experts to **differentiate** truths with **comparative** analysis, noting every **discrepancy**. What’s **false** is discarded for the **authentic**, its **authenticity** **tangible** in **precise** **precision**.
+**Intuition**, an **intuitive** **gut** feeling, drives them to **ponder** and **contemplate**, often in **retrospect**, as they **contrive** devices, **envisage** futures, and **conceive** breakthroughs. Yet, they occasionally <u>**overestimate** risks</u>, requiring an **appraise** and **appraisal** to <u>**gauge** feasibility</u>.
 
-Errors **blur** clarity, yet scientists **deduce** solutions—some **deducible** from a **premise** or **prerequisite**. A **hypothesis** guides them, grounded in **rational** thought, shunning the **irrational**. Discoveries **reflect** a **reflective** ethos, seeking to **embody** progress—an **embodiment** of ambition. Symbols **denote** meaning, their **denotation** clear, though each step **entails** sacrifice.
+The operational **mode** <u>**inclines** toward automation</u>, with an **inclined** <u>populace embracing</u> <u>the **essence** of progress</u>. Leaders **designate** roles, each **designation** carrying <u>a **connotation** of prestige</u>. 
+The societal **fabric**, <u>woven from innovation</u>, rejects <u>**stuff** that feels **stuffy**</u>. Ideas **converge**, **fuse** <u>in a **fusion** of minds</u>, and **correlate** <u>in **conceptual** harmony</u>. 
+
+Systems **align**, **correspond** <u>via **correspondence**</u>, managed by a **correspondent** ensuring <u>**homogeneous** standards</u>. Despite <u>**resemblance** to utopia</u>, **discord** persists, <u>prompting</u> experts <u>to</u> **differentiate** truths <u>with **comparative** analysis</u>, noting every **discrepancy**.
+
+【What’s **false** is discarded for the **authentic**, its **authenticity** **tangible** in **precise** **precision**.】
+- 主语从句：What's false（什么是错误的）
+  - 谓语：is discarded（被抛弃）
+  - 状语：for the authentic（为了真实的）
+- 独立主格结构：its authenticity tangible（它的真实性是切实的）
+  - its authenticity：独立主语
+  - tangible：形容词作谓语
+  - 状语：in precise precision（以精确的精确度）
+
+Errors <u>**blur** clarity</u>, yet scientists **deduce** solutions—some **deducible** from a **premise** or **prerequisite**. 
+A **hypothesis** guides them, <u>grounded in **rational** thought</u>, <u>shunning the **irrational**</u>. Discoveries **reflect** <u>a **reflective** ethos</u>, seeking to <u>**embody** progress</u>—<u>an **embodiment** of ambition</u>. Symbols **denote** meaning, their **denotation** clear, though each step <u>**entails** sacrifice</u>.
 
 Culturally, **folklore** and **superstition** linger, with **taboo** topics causing some to **deviate**, resulting in **deviation**. **Myth**, **fable**, and **anecdote** inspire, even as **monstrous** machines dwarf humanity. Tales of **witch** and **knight**, **imperial** ambitions of an **imperialist**, or a **monarch**’s **collapse** captivate minds. An **aristocrat** navigates a **hierarchy**, blending tradition with tech.
 

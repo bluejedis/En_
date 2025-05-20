@@ -4,10 +4,16 @@
 + dissertation /ˌdɪsəˈteɪʃən/ n. 论文
 + credential /krɪˈdenʃəl/ n. 资格证书
 + doctorate /ˈdɒktərət/ n. 博士学位
+
+<br>
+
 + polytechnic /ˌpɒliˈteknɪk/ n. 理工学院
 + dean /diːn/ n. 院长
 + registrar /ˈredʒɪstrɑː/ n. 注册主任
 + registration /ˌredʒɪˈstreɪʃən/ n. 注册
+
+<br>
+
 + curriculum /kəˈrɪkjʊləm/ n. 课程
 + intelligible /ɪnˈtelɪdʒəbl̩/ adj. 可理解的
 + impart /ɪmˈpɑːt/ v. 传授
@@ -15,29 +21,50 @@
 + mold /məʊld/ v. 塑造
 + mould /məʊld/ v. 塑造
 + moldy /ˈməʊldi/ adj. 发霉的
+
+<br>
+
 + skim /skɪm/ v. 略读
 + remembrance /rɪˈmembrəns/ n. 记忆
 + reminiscent /ˌremɪˈnɪsənt/ adj. 怀旧的
 + submit /səbˈmɪt/ v. 提交
 + submission /səbˈmɪʃən/ n. 提交
+
+<br>
+
 + submissive /səbˈmɪsɪv/ adj. 顺从的
 + tick /tɪk/ v. 打勾
 + examiner /ɪɡˈzæmɪnə/ n. 考官
 + examinee /ɪɡˌzæmɪˈniː/ n. 考生
+
+<br>
+
 + transcript /ˈtrænskrɪpt/ n. 成绩单
 + grade /ɡreɪd/ n. 年级
 + pupil /ˈpjuːpəl/ n. 学生
 + sophomore /ˈsɒfəmɔː/ n. 二年级学生
+
+<br>
+
 + seniority /ˌsiːnɪˈɒrɪti/ n. 资历
 + intermediate /ˌɪntəˈmiːdiət/ adj. 中级的
 + intermediary /ˌɪntəˈmiːdiəri/ n. 中介
+
+<br>
+
 + forum /ˈfɔːrəm/ n. 论坛
 + symposium /sɪmˈpəʊziəm/ n. 研讨会
 + deed /diːd/ n. 行为
 + arrange /əˈreɪndʒ/ v. 安排
+
+<br>
+
 + attendant /əˈtendənt/ n. 服务员
 + congregate /ˈkɒŋɡrɪɡeɪt/ v. 聚集
 + congregation /ˌkɒŋɡrɪˈɡeɪʃən/ n. 会众
+
+<br>
+
 + convene /kənˈviːn/ v. 召集
 + render /ˈrendə/ v. 提供
 + rendering /ˈrendərɪŋ/ n. 表演
@@ -49,81 +76,150 @@
 
 + arithmetic /əˈrɪθmətɪk/ n. 算术
 + notation /nəʊˈteɪʃən/ n. 符号
+
+<br>
+
 + subtract /səbˈtrækt/ v. 减去
 + subtraction /səbˈtrækʃən/ n. 减法
+
+<br>
+
 + deduct /dɪˈdʌkt/ v. 扣除
 + deduction /dɪˈdʌkʃən/ n. 扣除
 + deductive /dɪˈdʌktɪv/ adj. 演绎的
 + deductible /dɪˈdʌktəbl/ adj. 可扣除的
+
+<br>
+
 + minus /ˈmaɪnəs/ prep. 减去
 + equivalent /ɪˈkwɪvələnt/ adj. 等价的
 + equivalence /ɪˈkwɪvələns/ n. 等价
+
+<br>
+
 + cognitive /ˈkɒɡnɪtɪv/ adj. 认知的
 + specimen /ˈspesɪmɪn/ n. 标本
 + cognition /kɒɡˈnɪʃən/ n. 认知
 + cognize /kɒɡˈnaɪz/ v. 认识
+
+<br>
+
 + probe /prəʊb/ v. 探查
 + discern /dɪˈsɜːn/ v. 辨别
 + discernible /dɪˈsɜːnəbl/ adj. 可辨别的
+
+<br>
+
 + intuition /ˌɪntjuˈɪʃən/ n. 直觉
 + intuitive /ɪnˈtjuːɪtɪv/ adj. 直觉的
 + gut /ɡʌt/ n. 直觉
+
+<br>
+
 + ponder /ˈpɒndə/ v. 深思
 + contemplate /ˈkɒntəmpleɪt/ v. 沉思
 + retrospect /ˈretrəʊspekt/ v. 回顾
+
+<br>
+
 + contrive /kənˈtraɪv/ v. 设计
 + envisage /ɪnˈvɪzɪdʒ/ v. 设想
 + conceive /kənˈsiːv/ v. 构思
+
+<br>
+
 + overestimate /ˌəʊvərˈestɪmeɪt/ v. 高估
 + appraise /əˈpreɪz/ v. 评价
 + appraisal /əˈpreɪzəl/ n. 评价
+
+<br>
+
 + gauge /ɡeɪdʒ/ v. 测量
 + mode /məʊd/ n. 模式
 + incline /ɪnˈklaɪn/ v. 倾向
 + inclined /ɪnˈklaɪnd/ adj. 倾向于
+
+<br>
+
 + essence /ˈesəns/ n. 本质
 + designate /ˈdezɪɡneɪt/ v. 指定
 + designation /ˌdezɪɡˈneɪʃən/ n. 指定
 + connotation /ˌkɒnəˈteɪʃən/ n. 含义
-+ fabric /ˈfæbrɪk/ n. 织物
+
+<br>
+
++ fabric /ˈfæbrɪk/ n. 织物，结构，体系
 + stuff /stʌf/ n. 东西
 + stuffy /ˈstʌfi/ adj. 闷热的
+
+<br>
+
 + converge /kənˈvɜːdʒ/ v. 汇聚
 + fuse /fjuːz/ v. 融合
 + fusion /ˈfjuːʒən/ n. 融合
+
+<br>
+
 + correlate /ˈkɒrəleɪt/ v. 关联
 + conceptual /kənˈseptʃʊəl/ adj. 概念的
 + align /əˈlaɪn/ v. 对齐
+
+<br>
+
 + correspond /ˌkɒrɪˈspɒnd/ v. 对应
 + correspondence /ˌkɒrɪˈspɒndəns/ n. 通信
 + correspondent /ˌkɒrɪˈspɒndənt/ n. 记者
+
+<br>
+
 + homogeneous /ˌhɒməˈdʒiːniəs/ adj. 同质的
 + resemblance /rɪˈzembləns/ n. 相似
+
+<br>
+
 + discord /ˈdɪskɔːd/ n. 不和
 + differentiate /ˌdɪfəˈrenʃieɪt/ v. 区分
 + comparative /kəmˈpærətɪv/ adj. 比较的
 + discrepancy /dɪˈskrepənsi/ n. 差异
+
+<br>
+
 + false /fɔːls/ adj. 错误的
 + authentic /ɔːˈθentɪk/ adj. 真实的
 + authenticity /ˌɔːθenˈtɪsɪti/ n. 真实性
+
+<br>
+
 + tangible /ˈtændʒəbl/ adj. 有形的
 + precise /prɪˈsaɪs/ adj. 精确的
-+ precision /prɪˈsɪʒən/ n<font style="color:rgb(34, 34, 34);background-color:rgb(247, 247, 250);">. 精确</font>
++ precision /prɪˈsɪʒən/ n. 精确
 
-
+<br>
 
 + blur /blɜː/ v. 模糊
 + deduce /dɪˈdjuːs/ v. 推断
 + deducible /dɪˈdjuːsəbl/ adj. 可推断的
+
+<br>
+
 + premise /ˈpremɪs/ n. 前提
 + prerequisite /ˌpriːˈrekwɪzɪt/ n. 先决条件
 + hypothesis /haɪˈpɒθɪsɪs/ n. 假设
+
+<br>
+
 + rational /ˈræʃənəl/ adj. 理性的
 + irrational /ɪˈræʃənəl/ adj. 非理性的
+
+<br>
+
 + reflect /rɪˈflekt/ v. 反映
-+ reflective /rɪˈflektɪv/ adj. 反光的
++ reflective /rɪˈflektɪv/ adj. 反光的，深思的
 + embody /ɪmˈbɒdi/ v. 体现
 + embodiment /ɪmˈbɒdɪmənt/ n. 体现
+
+<br>
+
 + denote /dɪˈnəʊt/ v. 表示
 + denotation /ˌdiːnəʊˈteɪʃən/ n. 意义
 + entail /ɪnˈteɪl/ v. 需要
