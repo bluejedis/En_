@@ -231,18 +231,33 @@
 
 + folklore /ˈfəʊklɔː/ n. 民间传说
 + superstition /ˌsuːpəˈstɪʃən/ n. 迷信
+
+<br>
+
 + taboo /təˈbuː/ n. 禁忌
 + deviate /ˈdiːvieɪt/ v. 偏离
 + deviation /ˌdiːviˈeɪʃən/ n. 偏差
+
+<br>
+
 + myth /mɪθ/ n. 神话
 + fable /ˈfeɪbl/ n. 寓言
 + anecdote /ˈænɪkdəʊt/ n. 轶事
+
+<br>
+
 + monstrous /ˈmɒnstrəs/ adj. 巨大的
 + witch /wɪtʃ/ n. 女巫
 + knight /naɪt/ n. 骑士
+
+<br>
+
 + imperial /ɪmˈpɪəriəl/ adj. 帝国的
 + imperialist /ɪmˈpɪəriəlɪst/ n. 帝国主义者
 + monarch /ˈmɒnək/ n. 君主
+
+<br>
+
 + collapse /kəˈlæps/ v. 崩溃
 + aristocrat /ˈærɪstəkræt/ n. 贵族
 + hierarchy /ˈhaɪərɑːki/ n. 等级制度
@@ -254,13 +269,22 @@
 
 + distort /dɪˈstɔːt/ v. 扭曲
 + distortion /dɪˈstɔːʃən/ n. 扭曲
+
+<br>
+
 + periodical /ˌpɪəriˈɒdɪkəl/ n. 期刊
 + bulletin /ˈbʊlɪtɪn/ n. 公告
 + subscribe /səbˈskraɪb/ v. 订阅
 + subscription /səbˈskrɪpʃən/ n. 订阅
-+ censor /ˈsensə/ v. 审查
+
+<br>
+
++ censor /ˈsensə/ v. 审查；监察员
 + censorship /ˈsensəʃɪp/ n. 审查制度
 + appendix /əˈpendɪks/ n. 附录
+
+<br>
+
 + pamphlet /ˈpæmflɪt/ n. 小册子
 + revise /rɪˈvaɪz/ v. 修订
 + compile /kəmˈpaɪl/ v. 编纂
@@ -273,38 +297,74 @@
 
 + genre /ˈʒɒnrə/ n. 类型
 + verse /vɜːs/ n. 诗句
-+ versed /vɜːst/ adj. 精通的
++ versed /vɜːst/ adj. 精通的，博学的
+
+<br>
+
 + prose /prəʊz/ n. 散文
 + epic /ˈepɪk/ n. 史诗
 + novelty /ˈnɒvəlti/ n. 新奇
 + plot /plɒt/ n. 情节
+
+<br>
+
 + chronicle /ˈkrɒnɪkl/ n. 编年史
+
+<br>
+
 + depict /dɪˈpɪkt/ v. 描绘
 + depiction /dɪˈpɪkʃən/ n. 描绘
+
+<br>
+
 + portray /pɔːˈtreɪ/ v. 描绘
 + portrayal /pɔːˈtreɪəl/ n. 描绘
+
+<br>
+
 + rhetoric /ˈretərɪk/ n. 修辞
 + rhetorical /rɪˈtɒrɪkəl/ adj. 修辞的
 + metaphor /ˈmetəfə/ n. 隐喻
+
+<br>
+
 + analogy /əˈnælədʒi/ n. 类比
 + analogue /ˈænəlɒɡ/ n. 类比物
 + analogous /əˈnæləɡəs/ adj. 类似的
+
+<br>
+
 + ironic /aɪˈrɒnɪk/ adj. 讽刺的
 + satire /ˈsætaɪə/ n. 讽刺
 + satirical /səˈtɪrɪkəl/ adj. 讽刺的
+
+<br>
+
 + overstate /ˌəʊvəˈsteɪt/ v. 夸大
 + costume /ˈkɒstjuːm/ n. 服装
 + rehearse /rɪˈhɜːs/ v. 排练
+
+<br>
+
 + impromptu /ɪmˈprɒmptjuː/ adj. 即兴的
 + repertoire /ˈrepətwɑː/ n. 全部节目
+
+<br>
+
 + refrain /rɪˈfreɪn/ n. 副歌
 + tempo /ˈtempəʊ/ n. 节奏
 + concerted /kənˈsɜːtɪd/ adj. 一致的
 + bass /beɪs/ n. 低音
+
+<br>
+
 + exposition /ˌekspəˈzɪʃən/ n. 展览会
 + sketch /sketʃ/ n. 素描
 + porcelain /ˈpɔːsəlɪn/ n. 瓷器
 + ceramic /səˈræmɪk/ n. 陶瓷
+
+<br>
+
 + picturesque /ˌpɪktʃəˈresk/ adj. 如画的
 + aesthetic /iːsˈθetɪk/ adj. 美学的
 + renaissance /rɪˈneɪsəns/ n. 文艺复兴

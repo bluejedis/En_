@@ -32,11 +32,20 @@
 错误<u>**blur**(模糊)清晰度</u>，但科学家们**deduce**(推断)解决方案——有些从**premise**(前提)或**prerequisite**(先决条件)中**deducible**(可推导)。
 **hypothesis**(假设)指导他们，<u>以**rational**(理性的)思想为基础</u>，<u>摒弃**irrational**(非理性的)</u>。发现**reflect**(反映)<u>一种**reflective**(深思的)精神</u>，寻求<u>**embody**(体现)进步</u>——<u>一种雄心的**embodiment**(体现)</u>。符号**denote**(表示)意义，其**denotation**(指称)清晰，尽管每一步都<u>**entails**(需要)牺牲</u>。
 
-文化上，**folklore**(民间传说)和**superstition**(迷信)依然存在，**taboo**(禁忌)话题导致一些人**deviate**(偏离)，造成**deviation**(偏差)。**Myth**(神话)、**fable**(寓言)和**anecdote**(轶事)激发灵感，即便**monstrous**(怪异的)机器让人类相形见绌。关于**witch**(女巫)和**knight**(骑士)、**imperial**(帝国的)**imperialist**(帝国主义者)的野心，或**monarch**(君主)的**collapse**(崩溃)的故事吸引人心。**aristocrat**(贵族)在**hierarchy**(等级制度)中游走，将传统与科技融合。
+<br>
+<br>
 
-媒体蓬勃发展，尽管一些人**distort**(扭曲)现实，导致**distortion**(失真)。**periodical**(期刊)或**bulletin**(公告)提供真相；公民通过**subscription**(订阅)**subscribe**(订阅)，规避**censor**(审查)和**censorship**(审查制度)。**appendix**(附录)或**pamphlet**(小册子)补充新闻，**revised**(修订)和**compiled**(汇编)后，**proofread**(校对)确保准确性。
+文化上，**folklore**(民间传说)和**superstition**(迷信)<u>依然存在</u>，**taboo**(禁忌)话题导致一些人**deviate**(偏离)，造成**deviation**(偏差)。**Myth**(神话)、**fable**(寓言)和**anecdote**(轶事)激发灵感，即便**monstrous**(怪异的)机器<u>让人类相形见绌</u>。关于**witch**(女巫)和**knight**(骑士)、**imperial**(帝国的)**imperialist**(帝国主义者)的野心，或**monarch**(君主)的**collapse**(崩溃)的故事<u>吸引人心</u>。**aristocrat**(贵族)在**hierarchy**(等级制度)中游走，<u>将</u>传统<u>与</u>科技<u>融合</u>。
 
-文学在每个**genre**(体裁)中繁荣，从**versed**(精通的)者的**verse**(诗歌)到**prose**(散文)、**epic**(史诗)传奇和**novelty**(新奇)故事。一个扣人心弦的**plot**(情节)以**chronicle**(编年史)形式展开，作者通过**depiction**(描绘)或**portrayal**(刻画)**depict**(描绘)或**portray**(表现)生动世界。**Rhetoric**(修辞)，常为**rhetorical**(修辞的)，运用**metaphor**(隐喻)和**analogy**(类比)，使用**analogue**(类比物)获得**analogous**(类似的)洞察。**Ironic**(讽刺的)转折和**satire**(讽刺)——有时**satirical**(讽刺的)——**overstate**(夸大)戏剧性，穿上**costume**(服装)，**rehearsed**(排练)或**impromptu**(即兴)，在**repertoire**(剧目)中展现。**refrain**(副歌)设定**tempo**(节奏)，由**concerted**(协调的)努力和**bass**(低音)音调支持。**exposition**(展览)展示**sketch**(素描)、**porcelain**(瓷器)或**ceramic**(陶瓷)艺术，唤起**picturesque**(如画的)**aesthetic**(美感)，让人联想到**renaissance**(文艺复兴)。
+媒体<u>蓬勃发展</u>，尽管一些人<u>**distort**(扭曲)现实</u>，导致**distortion**(失真)。**periodical**(期刊)或**bulletin**(公告)提供真相；公民通过**subscription**(订阅)**subscribe**(订阅)，<u>规避**censor**(审查员)</u>和**censorship**(审查制度)。**appendix**(附录)或**pamphlet**(小册子)补充新闻，**revised**(修订)和**compiled**(汇编)后，**proofread**(校对)确保准确性。
+
+文学<u>在每个**genre**(体裁)中</u> <u>繁荣</u>，<u>从**versed**(精通的)者所著的**verse**(诗歌)到**prose**(散文)<\u>、**epic**(史诗)传奇和**novelty**(新奇)故事。<u>一个扣人心弦的**plot**(情节)</u> <u>以**chronicle**(编年史)的形式</u>展开，作者**depict**(描绘)或<u>**portray**(表现)生动的世界</u>。
+**Rhetoric**(修辞)，<u>运用**metaphor**(隐喻)和**analogy**(类比)</u>，使用**analogue**(类比物)获得**analogous**(类似的)洞察。**Ironic**(讽刺的)<u>转折</u>和**satire**(讽刺)——有时**satirical**(讽刺的)——**overstate**(夸大)戏剧性，<u>穿上**costume**(服装)</u>，**rehearsed**(排练)或**impromptu**(即兴)，在**repertoire**(剧目)中展现。
+**refrain**(副歌)设定**tempo**(节奏)，<u>由</u>**concerted**(协调的)努力和**bass**(低音)音调<u>支持</u>。
+
+**exposition**(展览)展示**sketch**(素描)、**porcelain**(瓷器)或**ceramic**(陶瓷)艺术，唤起**picturesque**(如画的)**aesthetic**(美感)，<u>让人联想到</u>**renaissance**(文艺复兴)。
+
+<br>
 
 语言通过**verbal**(言语的)技巧进化，借助**auxiliary**(辅助)工具和**attributive**(定语的)精确性。**Discourse**(话语)蓬勃发展，得到**glossary**(词汇表)支持，平衡**plural**(复数)和**singular**(单数)形式——有些暗示技术**singularity**(奇点)。**Abbreviation**(缩写)、**hyphen**(连字符)和**synonym**(同义词)丰富文本，避免**cliché**(陈词滥调)，拥抱**idiom**(习语)。人们**converse**(交谈)，提出**telling**(重要的)观点，**narrate**(叙述)**narrative**(叙事)，在**conference**(会议)上**confer**(商议)，摒弃**reactionary**(反动的)观点。**pledge**(誓言)将他们联系在一起，尽管一些人**reproach**(责备)、**deplore**(哀叹)或**denounce**(谴责)敌人，**inducing**(诱导)变革。他们**mock**(嘲笑)、**utter**(说出)，保持**articulate**(清晰)、**coherent**(连贯)，从不**opaque**(晦涩)或**vulgar**(粗俗)，尽管偶尔**stammer**(结巴)。
 
