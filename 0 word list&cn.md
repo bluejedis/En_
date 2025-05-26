@@ -589,51 +589,99 @@
 
 + provoke /prəˈvəʊk/ v. 激怒
 + provocative /prəˈvɒkətɪv/ adj. 挑衅的
+
+<br>
+  
 + arousal /əˈraʊzəl/ n. 唤起
 + ignite /ɪɡˈnaɪt/ v. 点燃
+
+<br>
+
 + appease /əˈpiːz/ v. 平息
 + oppress /əˈpres/ v. 压迫
 + suppress /səˈpres/ v. 镇压
 + repress /rɪˈpres/ v. 压抑
 + stifle /ˈstaɪfəl/ v. 窒息
+
+<br>
+
 + jolly /ˈdʒɒli/ adj. 欢乐的
 + rejoice /rɪˈdʒɔɪs/ v. 欣喜
+
+<br>
+
 + impulse /ˈɪmpʌls/ n. 冲动
 + crave /kreɪv/ v. 渴望
 + rage /reɪdʒ/ n. 愤怒
+
+<br>
+
 + outrage /ˈaʊtreɪdʒ/ n. 暴行
 + fury /ˈfjʊəri/ n. 狂怒
 + agitate /ˈædʒɪteɪt/ v. 煽动
+
+<br>
+
 + indignant /ɪnˈdɪɡnənt/ adj. 愤慨的
 + restless /ˈrestləs/ adj. 不安的
+
+<br>
+
 + disgust /dɪsˈɡʌst/ n. 厌恶
 + malice /ˈmælɪs/ n. 恶意
 + malicious /məˈlɪʃəs/ adj. 恶意的
+
+<br>
+
 + nasty /ˈnɑːsti/ adj. 讨厌的
 + dismay /dɪsˈmeɪ/ n. 沮丧
 + despair /dɪˈspeə/ n. 绝望
+
+<br>
+
 + grim /ɡrɪm/ adj. 严肃的
 + gloom /ɡluːm/ n. 忧郁
+
+<br>
+
 + distress /dɪˈstres/ n. 痛苦
 + grieve /ɡriːv/ v. 悲伤
 + grievous /ˈɡriːvəs/ adj. 痛苦的
+
+<br>
+
 + weep /wiːp/ v. 哭泣
 + awe /ɔː/ n. 敬畏
 
-
+<br>
 
 + appall /əˈpɔːl/ v. 使惊骇
 + stun /stʌn/ v. 使震惊
+
+<br>
+
 + overwhelm /ˌəʊvəˈwelm/ v. 压倒
+
+<br>
+
 + dread /dred/ v. 恐惧
 + startle /ˈstɑːtl/ v. 使吃惊
 + humiliate /hjuːˈmɪlieɪt/ v. 羞辱
+
+<br>
+
 + blush /blʌʃ/ v. 脸红
 + intrigue /ɪnˈtriːɡ/ v. 引起兴趣
 + obsess /əbˈses/ v. 使痴迷
+
+<br>
+
 + acclaim /əˈkleɪm/ v. 称赞
 + commendation /ˌkɒmənˈdeɪʃən/ n. 赞扬
 + consent /kənˈsent/ v. 同意
+
+<br>
+
 + hysteria /hɪˈstɪəriə/ n. 歇斯底里
 + jealous /ˈdʒeləs/ adj. 嫉妒的
 + fuss /fʌs/ n. 小题大做
@@ -645,24 +693,48 @@
 
 + census /ˈsensəs/ n. 人口普查
 + demographic /ˌdeməˈɡræfɪk/ n. 人口统计
+
+<br>
+
 + indigenous /ɪnˈdɪdʒɪnəs/ adj. 本土的
 + commune /ˈkɒmjuːn/ n. 公社
+
+<br>
+
 + assimilate /əˈsɪməleɪt/ v. 同化
+
+<br>
+
 + mansion /ˈmænʃən/ n. 大厦
 + estate /ɪˈsteɪt/ n. 房地产
 + haven /ˈheɪvən/ n. 避风港
 + slum /slʌm/ n. 贫民窟
+
+<br>
+
 + dwell /dwel/ v. 居住
 + reside /rɪˈzaɪd/ v. 居住
 + endow /ɪnˈdaʊ/ v. 赋予
 + allot /əˈlɒt/ v. 分配
+
+<br>
+
 + infrastructure /ˈɪnfrəˌstrʌktʃə/ n. 基础设施
 + abort /əˈbɔːt/ v. 中止
+
+<br>
+
 + ranch /rɑːntʃ/ n. 大农场
 + ripe /raɪp/ adj. 成熟的
 + mill /mɪl/ n. 工厂
+
+<br>
+
 + barren /ˈbærən/ adj. 贫瘠的
 + famine /ˈfæmɪn/ n. 饥荒
+
+<br>
+
 + livestock /ˈlaɪvstɒk/ n. 牲畜
 + poultry /ˈpəʊltri/ n. 家禽
 + shepherd /ˈʃepəd/ n. 牧羊人
@@ -674,20 +746,41 @@
 
 + humane /hjuːˈmeɪn/ adj. 人道的
 + gangster /ˈɡæŋstə/ n. 歹徒
+
+<br>
+
 + homosexual /ˌhəʊməˈsekʃuəl/ n. 同性恋者
 + maiden /ˈmeɪdən/ n. 少女
 + virgin /ˈvɜːdʒɪn/ n. 处女
+
+<br>
+
 + masculine /ˈmæskjʊlɪn/ adj. 男性的
+
+<br>
+
 + infant /ˈɪnfənt/ n. 婴儿
 + orphan /ˈɔːfən/ n. 孤儿
 + juvenile /ˈdʒuːvənaɪl/ n. 青少年
 + buddy /ˈbʌdi/ n. 伙伴
+
+<br>
+
 + counterpart /ˈkaʊntəpɑːt/ n. 对应的人或物
 + spouse /spaʊz/ n. 配偶
+
+<br>
+
 + akin /əˈkɪn/ adj. 类似的
 + nephew /ˈnefjuː/ n. 侄子
+
+<br>
+
 + offspring /ˈɒfsprɪŋ/ n. 后代
 + heir /eə/ n. 继承人
+
+<br>
+
 + spontaneous /spɒnˈteɪniəs/ adj. 自发的
 + civic /ˈsɪvɪk/ adj. 市民的
 + bully /ˈbʊli/ n. 恃强凌弱者
@@ -699,16 +792,31 @@
 
 + paradox /ˈpærədɒks/ n. 悖论
 + ordeal /ɔːˈdiːl/ n. 折磨
+
+<br>
+
 + odds /ɒdz/ n. 机会
 + knot /nɒt/ n. 结
+
+<br>
+
 + disastrous /dɪˈzɑːstrəs/ adj. 灾难性的
 + havoc /ˈhævək/ n. 浩劫
 + peril /ˈperɪl/ n. 危险
+
+<br>
+
 + salvage /ˈsælvɪdʒ/ v. 抢救
 + commemorate /kəˈmeməreɪt/ v. 纪念
+
+<br>
+
 + bouquet /buˈkeɪ/ n. 花束
 + onset /ˈɒnset/ n. 开始
 + incur /ɪnˈkɜː/ v. 招致
+
+<br>
+
 + momentum /məˈmentəm/ n. 动力
 + conjunction /kənˈdʒʌŋkʃən/ n. 结合
 + inevitable /ɪˈnevɪtəbl/ adj. 不可避免的
