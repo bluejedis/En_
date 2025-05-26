@@ -377,35 +377,65 @@
 + verbal /ˈvɜːbəl/ adj. 口头的
 + auxiliary /ɔːɡˈzɪljəri/ adj. 辅助的
 + attributive /əˈtrɪbjʊtɪv/ adj. 定语的
+
+<br>
+
 + discourse /ˈdɪskɔːs/ n. 论述
 + glossary /ˈɡlɒsəri/ n. 词汇表
+
+<br>
+
 + plural /ˈplʊərəl/ adj. 复数的
 + singular /ˈsɪŋɡjʊlə/ adj. 单数的
 + singularity /ˌsɪŋɡjʊˈlærɪti/ n. 奇点
+
+<br>
+
 + abbreviation /əˌbriːvɪˈeɪʃən/ n. 缩写
 + hyphen /ˈhaɪfən/ n. 连字符
 + synonym /ˈsɪnənɪm/ n. 同义词
+
+<br>
+
 + cliché /ˈkliːʃeɪ/ n. 陈词滥调
 + idiom /ˈɪdiəm/ n. 成语
 + converse /kənˈvɜːs/ v. 交谈
+
+<br>
+
 + telling /ˈtelɪŋ/ adj. 有效的
 + narrate /nəˈreɪt/ v. 叙述
 + narrative /ˈnærətɪv/ n. 叙述
+
+<br>
+
 + confer /kənˈfɜː/ v. 商议
 + conference /ˈkɒnfərəns/ n. 会议
+
+<br>
+
 + reactionary /rɪˈækʃənəri/ adj. 反动的
 + pledge /pledʒ/ n. 保证
+
+<br>
+
 + reproach /rɪˈprəʊtʃ/ v. 责备
-
-
-
 + deplore /dɪˈplɔː/ v. 谴责
 + denounce /dɪˈnaʊns/ v. 谴责
+
+<br>
+
 + induce /ɪnˈdjuːs/ v. 引导
 + mock /mɒk/ v. 嘲笑
 + utter /ˈʌtə/ v. 说出
+
+<br>
+
 + articulate /ɑːˈtɪkjʊlət/ adj. 善于表达的
 + coherent /kəʊˈhɪərənt/ adj. 连贯的
+
+<br>
+
 + opaque /əʊˈpeɪk/ adj. 不透明的
 + vulgar /ˈvʌlɡə/ adj. 粗俗的
 + stammer /ˈstæmə/ v. 口吃
@@ -416,27 +446,51 @@
 
 
 + cult /kʌlt/ n. 邪教
+
+<br>
+
 + orthodox /ˈɔːθədɒks/ adj. 正统的
 + chapel /ˈtʃæpəl/ n. 小教堂
 + parish /ˈpærɪʃ/ n. 教区
+
+<br>
+
 + clerical /ˈklerɪkəl/ adj. 牧师的
 + clergy /ˈklɜːdʒi/ n. 神职人员
 + bishop /ˈbɪʃəp/ n. 主教
+
+<br>
+
 + martyr /ˈmɑːtə/ n. 烈士
 + martyrdom /ˈmɑːtədəm/ n. 殉难
+
+<br>
+
 + saint /seɪnt/ n. 圣人
 + bible /ˈbaɪbl/ n. 圣经
 + scripture /ˈskrɪptʃə/ n. 经文
+
+<br>
+
 + gospel /ˈɡɒspəl/ n. 福音
 + sin /sɪn/ n. 罪
 + salvation /sælˈveɪʃən/ n. 拯救
+
+<br>
+
 + preach /priːtʃ/ v. 传教
 + missionary /ˈmɪʃənəri/ n. 传教士
 + pilgrim /ˈpɪlɡrɪm/ n. 朝圣者
 + pilgrimage /ˈpɪlɡrɪmɪdʒ/ n. 朝圣
+
+<br>
+
 + vow /vaʊ/ n. 誓言
 + persecute /ˈpɜːsɪkjuːt/ v. 迫害
 + persecution /ˌpɜːsɪˈkjuːʃən/ n. 迫害
+
+<br>
+
 + secular /ˈsekjʊlə/ adj. 世俗的
 + herald /ˈherəld/ v. 预示
 + doom /duːm/ n. 厄运
@@ -450,41 +504,80 @@
 + insult /ˈɪnsʌlt/ v. 侮辱
 + offend /əˈfend/ v. 冒犯
 + offensive /əˈfensɪv/ adj. 冒犯的
+
+<br>
+
 + quarrelsome /ˈkwɒrəlsəm/ adj. 好争吵的
 + curse /kɜːs/ v. 诅咒
 + clash /klæʃ/ v. 冲突
+
+<br>
+
 + friction /ˈfrɪkʃən/ n. 摩擦
 + dispute /dɪˈspjuːt/ n. 争论
 + retaliate /rɪˈtælɪeɪt/ v. 报复
+
+<br>
+
 + conceal /kənˈsiːl/ v. 隐藏
 + allure /əˈljʊə/ v. 吸引
 + seduce /sɪˈdjuːs/ v. 诱惑
 + lure /lʊə/ v. 引诱
+
+<br>
+
 + interfere /ˌɪntəˈfɪə/ v. 干涉
 + intervene /ˌɪntəˈviːn/ v. 干预
 + intrude /ɪnˈtruːd/ v. 侵入
 + disrupt /dɪsˈrʌpt/ v. 扰乱
+
+<br>
+
 + esteem /ɪˈstiːm/ v. 尊重
 + mingle /ˈmɪŋɡl/ v. 混合
 + bind /baɪnd/ v. 绑
+
+<br>
+
 + intercourse /ˈɪntəkɔːs/ n. 交往
 + etiquette /ˈetɪkət/ n. 礼仪
 + intimate /ˈɪntɪmət/ adj. 亲密的
+
+<br>
+
 + confide /kənˈfaɪd/ v. 吐露
 + banquet /ˈbæŋkwɪt/ n. 宴会
 + farewell /ˌfeəˈwel/ n. 告别
+
+<br>
+
 + collaborate /kəˈlæbəreɪt/ v. 合作
 + compliment /ˈkɒmplɪmənt/ n. 赞美
+
+<br>
+
 + console /kənˈsəʊl/ v. 安慰
 + soothe /suːð/ v. 抚慰
 + reassure /ˌriːəˈʃʊə/ v. 使安心
+
+<br>
+
 + alienate /ˈeɪliəneɪt/ v. 疏远
 + detach /dɪˈtætʃ/ v. 分离
 + forge /fɔːdʒ/ v. 锻造
+
+<br>
+
 + reconcile /ˈrekənsaɪl/ v. 调解
 + mediate /ˈmiːdieɪt/ v. 调停
+
+<br>
+
 + prestige /preˈstiːʒ/ n. 威望
 + prestigious /preˈstɪdʒəs/ adj. 有威望的
+
+<br>
+
 + stigma /ˈstɪɡmə/ n. 耻辱
 + gossip /ˈɡɒsɪp/ n. 八卦
 + condolence /kənˈdəʊləns/ n. 吊唁
