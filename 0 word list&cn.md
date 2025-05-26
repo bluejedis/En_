@@ -826,10 +826,19 @@
 
 + emulate /ˈemjʊleɪt/ v. 模仿
 + buffer /ˈbʌfə/ n. 缓冲
+
+<br>
+
 + netizen /ˈnɛtɪzən/ n. 网民
 + cyberspace /ˈsaɪbəspeɪs/ n. 网络空间
+
+<br>
+
 + virtually /ˈvɜːtʃʊəli/ adv. 几乎
 + retrieve /rɪˈtriːv/ v. 检索
+
+<br>
+
 + vibrate /vaɪˈbreɪt/ v. 震动
 + telecommunications /ˌtɛlɪkəˌmjuːnɪˈkeɪʃənz/ n. 电信
 
@@ -840,12 +849,21 @@
 
 + manufacture /ˌmænjʊˈfæktʃə/ v. 制造
 + fabricate /ˈfæbrɪkeɪt/ v. 制造
+
+<br>
+
 + assemble /əˈsɛmbl/ v. 组装
 + synthesis /ˈsɪnθɪsɪs/ n. 合成
 + synthetic /sɪnˈθɛtɪk/ adj. 合成的
+
+<br>
+
 + compress /kəmˈprɛs/ v. 压缩
 + insulate /ˈɪnsjʊleɪt/ v. 绝缘
 + mechanism /ˈmɛkənɪzəm/ n. 机制
+
+<br>
+
 + automate /ˈɔːtəmeɪt/ v. 自动化
 + airborne /ˈeəbɔːn/ adj. 空运的
 + aviation /ˌeɪvɪˈeɪʃən/ n. 航空
@@ -858,18 +876,39 @@
 + preservative /prɪˈzɜːvətɪv/ n. 防腐剂
 + sustain /səˈsteɪn/ v. 维持
 + sanctuary /ˈsæŋktjʊəri/ n. 避难所
+
+<br>
+
 + retention /rɪˈtɛnʃən/ n. 保持
+
+<br>
+
 + contaminate /kənˈtæmɪneɪt/ v. 污染
 + detriment /ˈdɛtrɪmənt/ n. 损害
+
+<br>
+
 + spoil /spɔɪl/ v. 损坏
 + stain /steɪn/ v. 污染
 + trash /træʃ/ n. 垃圾
+
+<br>
+
 + emit /ɪˈmɪt/ v. 排放
 + exhaustive /ɪɡˈzɔːstɪv/ adj. 彻底的
+
+<br>
+
 + radiate /ˈreɪdɪeɪt/ v. 辐射
 + radiant /ˈreɪdɪənt/ adj. 辐射的
+
+<br>
+
 + stagnant /ˈstæɡnənt/ adj. 停滞的
 + stale /steɪl/ adj. 陈旧的
+
+<br>
+
 + deteriorate /dɪˈtɪərɪəreɪt/ v. 恶化
 + degenerate /dɪˈdʒɛnəreɪt/ v. 退化
 
@@ -879,37 +918,73 @@
 
 
 + chill /tʃɪl/ n. 寒冷
+
+<br>
+
 + thermal /ˈθɜːməl/ adj. 热的
+
+<br>
+
 + humid /ˈhjuːmɪd/ adj. 潮湿的
 + moist /mɔɪst/ adj. 潮湿的
 + harsh /hɑːʃ/ adj. 严酷的
+
+<br>
+
 + breeze /briːz/ n. 微风
 + haze /heɪz/ n. 薄雾
 + ecology /ɪˈkɒlədʒi/ n. 生态
+
+<br>
+
 + diesel /ˈdiːzəl/ n. 柴油
 + crude /kruːd/ adj. 原油的
+
+<br>
+
 + terrain /təˈreɪn/ n. 地形
 + mine /maɪn/ n. 矿
+
+<br>
+
 + meadow /ˈmɛdəʊ/ n. 草地
 + habitat /ˈhæbɪtæt/ n. 栖息地
 + maritime /ˈmærɪtaɪm/ adj. 海事的
+
+<br>
+
 + prey /preɪ/ n. 猎物
 + predator /ˈprɛdətə/ n. 捕食者
+
+<br>
+
 + cosmos /ˈkɒzmɒs/ n. 宇宙
 + peninsula /pəˈnɪnsjʊlə/ n. 半岛
 + gorge /ɡɔːdʒ/ n. 峡谷
 + crust /krʌst/ n. 地壳
+
+<br>
+
 + hemisphere /ˈhɛmɪsfɪə/ n. 半球
 + longitude /ˈlɒndʒɪtjuːd/ n. 经度
 + latitude /ˈlætɪtjuːd/ n. 纬度
 + altitude /ˈæltɪtjuːd/ n. 高度
+
+<br>
+
 + tropic /ˈtrɒpɪk/ n. 热带
 + eclipse /ɪˈklɪps/ n. 日食
 + dew /djuː/ n. 露水
+
+<br>
+
 + rust /rʌst/ n. 锈
 + ridge /rɪdʒ/ n. 山脊
 + swamp /swɒmp/ n. 沼泽
 + marsh /mɑːʃ/ n. 沼泽
+
+<br>
+
 + basin /ˈbeɪsɪn/ n. 盆地
 + cape /keɪp/ n. 海角
 + isle /aɪl/ n. 小岛
@@ -921,12 +996,24 @@
 
 + rehabilitate /ˌriːhəˈbɪlɪteɪt/ v. 康复
 + therapy /ˈθɛrəpi/ n. 治疗
+
+<br>
+
 + ward /wɔːd/ n. 病房
 + bruise /bruːz/ n. 淤青
+
+<br>
+
 + vaccinate /ˈvæksɪneɪt/ v. 接种疫苗
 + dose /dəʊs/ n. 剂量
+
+<br>
+
 + nourish /ˈnʌrɪʃ/ v. 滋养
 + wholesome /ˈhəʊlsəm/ adj. 有益健康的
+
+<br>
+
 + hygiene /ˈhaɪdʒiːn/ n. 卫生
 + sanitation /ˌsænɪˈteɪʃən/ n. 卫生设施
 + massage /ˈmæsɑːʒ/ n. 按摩
