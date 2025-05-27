@@ -1024,8 +1024,14 @@
 
 
 + referee /ˌrɛfəˈriː/ n. 裁判
+
+<br>
+
 + cricket /ˈkrɪkɪt/ n. 板球
 + hockey /ˈhɒki/ n. 曲棍球
+
+<br>
+
 + ski /skiː/ v. 滑雪
 
 
@@ -1034,31 +1040,55 @@
 
 
 + strain /streɪn/ n. 压力
+
+<br>
+
 + ail /eɪl/ v. 生病
+
+<br>
+
 + syndrome /ˈsɪndrəʊm/ n. 综合症
 + plague /pleɪɡ/ n. 瘟疫
 + epidemic /ˌɛpɪˈdɛmɪk/ n. 流行病
 + influenza /ˌɪnfluˈɛnzə/ n. 流感
+
+<br>
+
 + germ /dʒɜːm/ n. 细菌
 + tumor /ˈtjuːmə/ n. 肿瘤
+
+<br>
+
 + malignant /məˈlɪɡnənt/ adj. 恶性的
 + benign /bɪˈnaɪn/ adj. 良性的
 + swell /swɛl/ v. 肿胀
+
+<br>
+
 + diabetes /ˌdaɪəˈbiːtiːz/ n. 糖尿病
 + obese /əʊˈbiːs/ adj. 肥胖的
 + insane /ɪnˈseɪn/ adj. 疯狂的
 + psychiatric /ˌsaɪkɪˈætrɪk/ adj. 精神病的
+
+<br>
+
 + trauma /ˈtrɔːmə/ n. 创伤
 + traumatic /trɔːˈmætɪk/ adj. 创伤的
 + physiology /ˌfɪzɪˈɒlədʒi/ n. 生理学
+
+<br>
+
 + contagious /kənˈteɪdʒəs/ adj. 传染的
 + allergy /ˈælədʒi/ n. 过敏
 
-
+<br>
 
 + feverish /ˈfiːvərɪʃ/ adj. 发热的
 + agony /ˈæɡəni/ n. 极大的痛苦
 + anguish /ˈæŋɡwɪʃ/ n. 痛苦
+
+<br>
+
 + feeble /ˈfiːbl/ adj. 虚弱的
 + cripple /ˈkrɪpl/ v. 使残废
 + paralyze /ˈpærəlaɪz/ v. 使瘫痪
@@ -1070,23 +1100,44 @@
 
 + supervise /ˈsuːpəvaɪz/ v. 监督
 + oversee /ˌəʊvəˈsiː/ v. 监督
+
+<br>
+
 + malpractice /ˌmælˈpræktɪs/ n. 渎职
 + stimulus /ˈstɪmjʊləs/ n. 刺激
 + stimulant /ˈstɪmjʊlənt/ n. 兴奋剂
+
+<br>
+
 + prompt /prɒmpt/ v. 促使
 + impetus /ˈɪmpɪtəs/ n. 动力
 + spur /spɜː/ v. 刺激
+
+<br>
+
 + whip /wɪp/ v. 鞭打
 + intent /ɪnˈtɛnt/ n. 意图
 + recruit /rɪˈkruːt/ v. 招募
+
+<br>
+
 + tenure /ˈtɛnjʊə/ n. 任期
 + nominate /ˈnɒmɪneɪt/ v. 提名
 + nominee /ˌnɒmɪˈniː/ n. 被提名人
+
+<br>
+
 + assign /əˈsaɪn/ v. 分配
 + stipulate /ˈstɪpjʊleɪt/ v. 规定
 + shuffle /ˈʃʌfl/ v. 洗牌
+
+<br>
+
 + reshuffle /ˌriːˈʃʌfl/ v. 改组
 + redundant /rɪˈdʌndənt/ adj. 多余的
+
+<br>
+
 + wage /weɪdʒ/ n. 工资
 + payroll /ˈpeɪrəʊl/ n. 工资单
 + subsidy /ˈsʌbsɪdi/ n. 补贴
@@ -1100,15 +1151,27 @@
 + aspire /əˈspaɪə/ v. 渴望
 + perplex /pəˈplɛks/ v. 使困惑
 + bewilder /bɪˈwɪldə/ v. 使迷惑
+
+<br>
+
 + preoccupy /priːˈɒkjʊpaɪ/ v. 使全神贯注
 + torture /ˈtɔːtʃə/ v. 折磨
 + immerse /ɪˈmɜːs/ v. 沉浸
+
+<br>
+
 + indulge /ɪnˈdʌldʒ/ v. 放纵
 + futile /ˈfjuːtaɪl/ adj. 无用的
 + futility /fjuːˈtɪlɪti/ n. 无用
+
+<br>
+
 + err /ɜː/ v. 犯错
 + erroneous /ɪˈrəʊnɪəs/ adj. 错误的
 + flaw /flɔː/ n. 缺陷
+
+<br>
+
 + flawless /ˈflɔːləs/ adj. 完美的
 
 
@@ -1118,14 +1181,29 @@
 
 + commute /kəˈmjuːt/ v. 通勤
 + errand /ˈɛrənd/ n. 差事
+
+<br>
+
 + monotony /məˈnɒtəni/ n. 单调
 + monotonous /məˈnɒtənəs/ adj. 单调的
+
+<br>
+
 + scrutiny /ˈskruːtɪni/ n. 仔细检查
+
+<br>
+
 + toil /tɔɪl/ v. 辛劳
 + dedicate /ˈdɛdɪkeɪt/ v. 奉献
+
+<br>
+
 + attentive /əˈtɛntɪv/ adj. 专心的
 + endeavor /ɪnˈdɛvə/ v. 努力
 + cope /kəʊp/ v. 应对
+
+<br>
+
 + solvent /ˈsɒlvənt/ adj. 有偿付能力的
 + resolute /ˈrɛzəluːt/ adj. 坚决的
 + tackle /ˈtækl/ v. 处理
@@ -1139,13 +1217,22 @@
 + magistrate /ˈmædʒɪstreɪt/ n. 地方法官
 + practitioner /prækˈtɪʃənə/ n. 从业者
 + diplomat /ˈdɪpləmæt/ n. 外交官
+
+<br>
+
 + envoy /ˈɛnvɔɪ/ n. 使者
 + panel /ˈpænəl/ n. 专家组
 + superiority /sjuːˌpɪərɪˈɒrɪti/ n. 优越
+
+<br>
+
 + inferior /ɪnˈfɪərɪə/ adj. 劣等的
 + predecessor /ˈpriːdɪsɛsə/ n. 前任
 + incumbent /ɪnˈkʌmbənt/ n. 现任者
 + vocation /vəʊˈkeɪʃən/ n. 职业
+
+<br>
+
 + feat /fiːt/ n. 功绩
 + jargon /ˈdʒɑːɡən/ n. 行话
 
@@ -1157,44 +1244,83 @@
 + venture /ˈvɛntʃə/ n. 风险投资
 + corporate /ˈkɔːpərɪt/ adj. 公司的
 + enterprise /ˈɛntəpraɪz/ n. 企业
+
+<br>
+
 + unfounded /ʌnˈfaʊndɪd/ adj. 无根据的
 + managerial /ˌmænəˈdʒɪərɪəl/ adj. 管理的
 + entrepreneur /ˌɒntrəprəˈnɜː/ n. 企业家
 + headquarters /ˈhɛdˌkwɔːtəz/ n. 总部
+
+<br>
+
 + incorporate /ɪnˈkɔːpəreɪt/ v. 合并
 + integrate /ˈɪntɪɡreɪt/ v. 整合
 + penetrate /ˈpɛnɪtreɪt/ v. 渗透
+
+<br>
+
 + rivalry /ˈraɪvəlri/ n. 竞争
 + manipulate /məˈnɪpjʊleɪt/ v. 操纵
+
+<br>
+
 + inventory /ˈɪnvəntəri/ n. 库存
 + logistic /ləˈdʒɪstɪk/ adj. 后勤的
+
+<br>
+
 + bust /bʌst/ v. 破产
 + protocol /ˈprəʊtəkɒl/ n. 协议
 + renewal /rɪˈnjuːəl/ n. 更新
+
+<br>
+
 + lease /liːs/ n. 租约
 + stall /stɔːl/ n. 货摊
 + grocery /ˈɡrəʊsəri/ n. 杂货店
+
+<br>
+
 + wholesale /ˈhəʊlseɪl/ adj. 批发的
 + turnover /ˈtɜːnˌəʊvə/ n. 营业额
+
+<br>
+
 + auction /ˈɔːkʃən/ n. 拍卖
 + merchandise /ˈmɜːtʃəndaɪz/ n. 商品
+
+<br>
+
 + client /ˈklaɪənt/ n. 客户
 + patron /ˈpeɪtrən/ n. 赞助人
 + ration /ˈræʃən/ n. 配给
+
+<br>
+
 + transaction /trænˈzækʃən/ n. 交易
 + monopoly /məˈnɒpəli/ n. 垄断
 + commission /kəˈmɪʃən/ n. 佣金
+
+<br>
+
 + freight /freɪt/ n. 货运
 + levy /ˈlɛvi/ v. 征收
 + unilateral /ˌjuːnɪˈlætrəl/ adj. 单方面的
+
+<br>
+
 + mutual /ˈmjuːtjʊəl/ adj. 共同的
 + memorandum /ˌmɛmərˈændəm/ n. 备忘录
 + agenda /əˈdʒɛndə/ n. 议程
 
-
+<br>
 
 + gross /ɡrəʊs/ adj. 总的
 + revenue /ˈrɛvɪnjuː/ n. 收入
+
+<br>
+
 + lucrative /ˈluːkrətɪv/ adj. 有利可图的
 + slash /slæʃ/ v. 大幅削减
 + fluctuate /ˈflʌktʃʊeɪt/ v. 波动
@@ -1207,20 +1333,38 @@
 + fiscal /ˈfɪskəl/ adj. 财政的
 + audit /ˈɔːdɪt/ n. 审计
 + stagnate /stæɡˈneɪt/ v. 停滞
+
+<br>
+
 + slump /slʌmp/ n. 暴跌
 + recession /rɪˈsɛʃən/ n. 经济衰退
+
+<br>
+
 + flourish /ˈflʌrɪʃ/ v. 繁荣
 + inflate /ɪnˈfleɪt/ v. 膨胀
 + deficit /ˈdɛfɪsɪt/ n. 赤字
+
+<br>
+
 + monetary /ˈmʌnɪtəri/ adj. 货币的
 + buck /bʌk/ n. 美元
 + depreciate /dɪˈpriːʃɪeɪt/ v. 贬值
+
+<br>
+
 + counterfeit /ˈkaʊntəfɪt/ adj. 伪造的
 + stake /steɪk/ n. 股份
 + dividend /ˈdɪvɪdɛnd/ n. 股息
+
+<br>
+
 + asset /ˈæsɛt/ n. 资产
 + mortgage /ˈmɔːɡɪdʒ/ n. 抵押贷款
 + indebted /ɪnˈdɛtɪd/ adj. 负债的
+
+<br>
+
 + afloat /əˈfləʊt/ adj. 经济上周转得开的
 + compensate /ˈkɒmpɛnseɪt/ v. 补偿
 
@@ -1229,12 +1373,18 @@
 ### 25 饮食
 
 bustling  [ˈbʌslɪŋ] adj. 繁忙的
+
 intricate  [ˈɪntrɪkət] adj. 复错综杂的
+
 humble  [ˈhʌmbl] adj. 谦逊的,简陋的,卑微的
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; v. 使..谦逊/惭愧
+
 townsfolk  [ˈtaʊnˌfɒk] n. 城镇居民
+
 hearty  [ˈhɑːrtɪ] adj. 丰盛的,热情的,健壮的
+
 stew  [stuː] n. 炖菜
+
 ale  [eɪl] n. 麦芽酒
 
 
