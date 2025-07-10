@@ -39,7 +39,7 @@
 
 媒体<u>蓬勃发展</u>，尽管一些人<u>**distort**(扭曲)现实</u>，导致**distortion**(失真)。**periodical**(期刊)或**bulletin**(公告)提供真相；公民通过**subscription**(订阅)**subscribe**(订阅)，<u>规避**censor**(审查员)</u>和**censorship**(审查制度)。**appendix**(附录)或**pamphlet**(小册子)补充新闻，**revised**(修订)和**compiled**(汇编)后，**proofread**(校对)确保准确性。
 
-文学<u>在每个**genre**(体裁)中</u> <u>繁荣</u>，<u>从**versed**(精通的)者所著的**verse**(诗歌)到**prose**(散文)<\u>、**epic**(史诗)传奇和**novelty**(新奇)故事。<u>一个扣人心弦的**plot**(情节)</u> <u>以**chronicle**(编年史)的形式</u>展开，作者**depict**(描绘)或<u>**portray**(表现)生动的世界</u>。
+文学<u>在每个**genre**(体裁)中</u> <u>繁荣</u>，<u>从**versed**(精通的)者所著的**verse**(诗歌)到**prose**(散文)</u>、**epic**(史诗)传奇和**novelty**(新奇)故事。<u>一个扣人心弦的**plot**(情节)</u> <u>以**chronicle**(编年史)的形式</u>展开，作者**depict**(描绘)或<u>**portray**(表现)生动的世界</u>。
 **Rhetoric**(修辞)，<u>运用**metaphor**(隐喻)和**analogy**(类比)</u>，使用**analogue**(类比物)获得**analogous**(类似的)洞察。**Ironic**(讽刺的)<u>转折</u>和**satire**(讽刺)——有时**satirical**(讽刺的)——**overstate**(夸大)戏剧性，<u>穿上**costume**(服装)</u>，**rehearsed**(排练)或**impromptu**(即兴)，在**repertoire**(剧目)中展现。
 **refrain**(副歌)设定**tempo**(节奏)，<u>由</u>**concerted**(协调的)努力和**bass**(低音)音调<u>支持</u>。
 
@@ -47,9 +47,9 @@
 
 <br>
 
-语言通过**verbal**(言语的)技巧进化，借助**auxiliary**(辅助)工具和**attributive**(定语的)精确性。**Discourse**(话语)蓬勃发展，得到**glossary**(词汇表)支持，平衡**plural**(复数)和**singular**(单数)形式——有些暗示技术**singularity**(奇点)。**Abbreviation**(缩写)、**hyphen**(连字符)和**synonym**(同义词)丰富文本，避免**cliché**(陈词滥调)，拥抱**idiom**(习语)。人们**converse**(交谈)，提出**telling**(重要的)观点，**narrate**(叙述)**narrative**(叙事)，在**conference**(会议)上**confer**(商议)，摒弃**reactionary**(反动的)观点。**pledge**(誓言)将他们联系在一起，尽管一些人**reproach**(责备)、**deplore**(哀叹)或**denounce**(谴责)敌人，**inducing**(诱导)变革。他们**mock**(嘲笑)、**utter**(说出)，保持**articulate**(清晰)、**coherent**(连贯)，从不**opaque**(晦涩)或**vulgar**(粗俗)，尽管偶尔**stammer**(结巴)。
+语言通过<u>**verbal**(言语的)技巧</u><u>进化</u>，<u>借助</u><u>**auxiliary**(辅助)工具</u>和**attributive**(定语的)精确性。**Discourse**(话语)<u>蓬勃发展</u>，得到**glossary**(词汇表)支持，平衡**plural**(复数)和**singular**(单数)形式——有些暗示技术**singularity**(奇点)。**Abbreviation**(缩写)、**hyphen**(连字符)和**synonym**(同义词)丰富文本，避免**cliché**(陈词滥调)，拥抱**idiom**(习语)。人们**converse**(交谈)，提出<u>**telling**(有说服力的)观点</u>，<u>**narrate**(叙述)**narrative**(叙事)</u>，<u>在**conference**(会议)上**confer**(商议)</u>，<u>摒弃**reactionary**(反动的)观点</u>。<u>**pledge**(誓言)将他们联系在一起</u>，尽管一些人<u>**reproach**(责备)、**deplore**(哀叹)或**denounce**(谴责)敌人</u>，**inducing**(促使)变革。他们**mock**(嘲笑)、**utter**(说出)，保持**articulate**(清晰)、**coherent**(连贯)，从不**opaque**(晦涩)或**vulgar**(粗俗)，尽管<u>偶尔**stammer**(结巴)</u>。
 
-宗教上，**cult**(邪教)与**orthodox**(正统)形成对比，**chapel**(小教堂)和**parish**(教区)提供慰藉。**Clerical**(教会的)**clergy**(神职人员)，由**bishop**(主教)领导，纪念**martyr**(烈士)的**martyrdom**(殉道)故事，尊崇**saint**(圣人)和**bible**(圣经)。**Scripture**(经文)和**gospel**(福音)处理**sin**(罪恶)，承诺**salvation**(救赎)。神父**preach**(布道)，**missionary**(传教士)和**pilgrim**(朝圣者)踏上**pilgrimage**(朝圣之旅)，受**vow**(誓言)约束。然而，**persecute**(迫害)和**persecution**(迫害)在这一**secular**(世俗的)时代留下污点，科技**heralds**(预示)进步或**doom**(厄运)，仿佛**destined**(注定)。
+宗教上，**cult**(邪教)与**orthodox**(正统)形成对比，**chapel**(小教堂)和**parish**(教区)<u>提供慰藉</u>。**Clerical**(教会的)**clergy**(神职人员)，由**bishop**(主教)领导，纪念**martyr**(烈士)的**martyrdom**(殉道)故事，<u>尊崇**saint**(圣人)和**bible**(圣经)</u>。**scripture**(经文)和**gospel**(福音)处理**sin**(罪恶)，承诺**salvation**(救赎)。神父**preach**(布道)，**missionary**(传教士)和**pilgrim**(朝圣者)<u>踏上</u>**pilgrimage**(朝圣之旅)，<u>受**vow**(誓言)约束</u>。然而，**persecution**(迫害)<u>在这一**secular**(世俗的)时代留下污点</u>，科技**heralds**(预示)进步或**doom**(厄运)，仿佛**destined**(注定)。
 
 #### **主要情节发展：科学家的奥德赛**
 

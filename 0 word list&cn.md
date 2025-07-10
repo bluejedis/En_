@@ -399,11 +399,13 @@
 
 + cliché /ˈkliːʃeɪ/ n. 陈词滥调
 + idiom /ˈɪdiəm/ n. 成语
-+ converse /kənˈvɜːs/ v. 交谈
-
+  
 <br>
 
-+ telling /ˈtelɪŋ/ adj. 有效的
++ converse /kənˈvɜːs/ v. 交谈
+
+
++ telling /ˈtelɪŋ/ adj. 有效的，显著的， 有说服力的
 + narrate /nəˈreɪt/ v. 叙述
 + narrative /ˈnærətɪv/ n. 叙述
 
@@ -415,7 +417,10 @@
 <br>
 
 + reactionary /rɪˈækʃənəri/ adj. 反动的
-+ pledge /pledʒ/ n. 保证
+
+<br>
+
++ pledge /pledʒ/ n. 保证，誓言
 
 <br>
 
@@ -425,7 +430,10 @@
 
 <br>
 
-+ induce /ɪnˈdjuːs/ v. 引导
++ induce /ɪnˈdjuːs/ v. 引导， 促使
+
+<br>
+
 + mock /mɒk/ v. 嘲笑
 + utter /ˈʌtə/ v. 说出
 
@@ -438,7 +446,7 @@
 
 + opaque /əʊˈpeɪk/ adj. 不透明的
 + vulgar /ˈvʌlɡə/ adj. 粗俗的
-+ stammer /ˈstæmə/ v. 口吃
++ stammer /ˈstæmə/ v.&n. 口吃
 
 
 
@@ -446,16 +454,16 @@
 
 
 + cult /kʌlt/ n. 邪教
++ orthodox /ˈɔːθədɒks/ adj. 正统的
 
 <br>
 
-+ orthodox /ˈɔːθədɒks/ adj. 正统的
 + chapel /ˈtʃæpəl/ n. 小教堂
 + parish /ˈpærɪʃ/ n. 教区
 
 <br>
 
-+ clerical /ˈklerɪkəl/ adj. 牧师的
++ clerical /ˈklerɪkəl/ adj. 牧师的，教士的，
 + clergy /ˈklɜːdʒi/ n. 神职人员
 + bishop /ˈbɪʃəp/ n. 主教
 
@@ -482,16 +490,16 @@
 + missionary /ˈmɪʃənəri/ n. 传教士
 + pilgrim /ˈpɪlɡrɪm/ n. 朝圣者
 + pilgrimage /ˈpɪlɡrɪmɪdʒ/ n. 朝圣
++ vow /vaʊ/ n. 誓言
 
 <br>
 
-+ vow /vaʊ/ n. 誓言
 + persecute /ˈpɜːsɪkjuːt/ v. 迫害
 + persecution /ˌpɜːsɪˈkjuːʃən/ n. 迫害
-
++ secular /ˈsekjʊlə/ adj. 世俗的
+  
 <br>
 
-+ secular /ˈsekjʊlə/ adj. 世俗的
 + herald /ˈherəld/ v. 预示
 + doom /duːm/ n. 厄运
 + destined /ˈdestɪnd/ adj. 注定的
@@ -1373,21 +1381,14 @@
 ### 25 饮食
 
 bustling  [ˈbʌslɪŋ] adj. 繁忙的
-
 intricate  [ˈɪntrɪkət] adj. 复错综杂的
-
 humble  [ˈhʌmbl] adj. 谦逊的,简陋的,卑微的
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; v. 使..谦逊/惭愧
 
 townsfolk  [ˈtaʊnˌfɒk] n. 城镇居民
-
 hearty  [ˈhɑːrtɪ] adj. 丰盛的,热情的,健壮的
-
 stew  [stuː] n. 炖菜
-
 ale  [eɪl] n. 麦芽酒
-
-
 palate  [ˈpælət] n. 盘子
 palates  [ˈpæləts] n. 口味,味觉
 sentiment [ˈsɛntɪmənt] n. 情绪,情感
@@ -1460,6 +1461,9 @@ lawn [lɔːn] n. 草地
 + wrapping /ˈræpɪŋ/ n. 包装
 + bin /bɪn/ n. 垃圾桶
 + plug /plʌɡ/ n. 插头
+
+<br>
+
 + fragrant /ˈfreɪɡrənt/ adj. 芳香的
 + indispensable /ˌɪndɪˈspɛnsəbl/ adj. 不可或缺的
 + renovate /ˈrɛnəveɪt/ v. 翻新
@@ -1469,12 +1473,21 @@ lawn [lɔːn] n. 草地
 + exquisite /ɪkˈskwɪzɪt/ adj. 精致的
 + delicate /ˈdɛlɪkət/ adj. 精美的
 + cozy /ˈkəʊzi/ adj. 舒适的
+
+<br>
+
 + sprawl /sprɔːl/ v. 蔓延
 + doze /dəʊz/ v. 打瞌睡
 + nap /næp/ n. 小睡
+
+<br>
+
 + scrub /skrʌb/ v. 擦洗
 + flush /flʌʃ/ v. 冲洗
 + stitch /stɪtʃ/ v. 缝合
+
+<br>
+
 + knit /nɪt/ v. 编织
 + mow /məʊ/ v. 割草
 
