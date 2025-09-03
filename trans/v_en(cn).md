@@ -1,3 +1,5 @@
+[TOC]
+<br>
 ### 明日之声：科技与人性物語
 
 #### <span style="color: silver;">引言</span>
