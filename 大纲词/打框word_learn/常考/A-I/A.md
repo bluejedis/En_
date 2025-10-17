@@ -34,7 +34,7 @@ P3
       - **alleviate** the pain/symptoms/poverty
         - 和蔼可亲的
           - **amiable**
-          - ·link`可怕的，难以对付的
+          - `link`可怕的，难以对付的
             - formidable
       - 仪器
         - **apparatus**
@@ -43,7 +43,7 @@ P3
           - 遗传结构
             - genetic ~     
   -  断言
-    - be **allege**d to do 被断定、归因于
+     - be **allege**d to do 被断定、归因于
   - 预先考虑， 预计，期望
     - **anticipate** sth
 - --
